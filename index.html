@@ -19,7 +19,7 @@
             color: white;
         }
 
-        /* Sağ Üst Uygulamalar Menüsü */
+        /* Uygulamalar Menü Butonu */
         .apps-container {
             position: absolute;
             top: 25px;
@@ -60,7 +60,7 @@
         }
 
         .dropdown-content a {
-            color: #999;
+            color: #888;
             padding: 12px 20px;
             text-decoration: none;
             display: block;
@@ -78,7 +78,7 @@
 
         .show { display: block; }
 
-        /* Orta Bölüm */
+        /* Başlık */
         .title {
             font-size: 26px;
             font-weight: 300;
@@ -87,9 +87,9 @@
             transition: 0.5s;
             opacity: 0.5;
             text-align: center;
-            width: 100%;
         }
 
+        /* Arama Kutusu */
         .search-container {
             position: relative;
             display: flex;
@@ -108,20 +108,17 @@
             font-size: 17px;
             color: #fff;
             outline: none;
-            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-            text-transform: lowercase; 
+            transition: all 0.4s ease;
         }
 
-        /* Hover & Focus & Idle (Hareketsizlik) */
+        /* Hover & Focus & Idle Efektleri */
         .search-container:hover .search-input,
         .search-input:focus,
         .idle-animation .search-input {
             border-color: #00e5ff;
             box-shadow: 0 0 25px rgba(0, 229, 255, 0.15);
-            background: #0d0d0d;
         }
 
-        /* Etkileşimde başlık parlaması */
         .search-container:focus-within ~ .title, 
         .search-container:hover ~ .title,
         .idle-animation ~ .title {
@@ -130,7 +127,7 @@
             color: #00e5ff;
         }
 
-        /* 15 Saniye Hareketsizlik Animasyonu */
+        /* Bekleme Animasyonu */
         @keyframes neonBreath {
             0%, 100% { opacity: 1; box-shadow: 0 0 25px rgba(0, 229, 255, 0.15); border-color: #00e5ff; }
             50% { opacity: 0.3; box-shadow: 0 0 5px rgba(0, 229, 255, 0); border-color: #222; }
@@ -160,12 +157,6 @@
         .search-input:focus + .search-btn svg {
             fill: #00e5ff;
         }
-
-        .search-input::placeholder {
-            text-transform: none;
-            color: #333;
-            letter-spacing: 1px;
-        }
     </style>
 </head>
 <body>
@@ -174,12 +165,12 @@
         <button onclick="toggleApps()" class="apps-btn">Uygulamalar</button>
         <div id="appsMenu" class="dropdown-content">
             <a href="index.html">Ana Sayfa</a>
-            <a href="fixing%20calculator.html">Hesap Makinesi</a>
-            <a href="fixing%20calendar.html">Takvim</a>
-            <a href="fixing%20clock.html">Saat</a>
-            <a href="fixing%20conveter.html">Dönüştürücü</a>
-            <a href="fixing%20speed%20test.html">Hız Testi</a>
-            <a href="fixing%20timmer.html">Zamanlayıcı</a>
+            <a href="fixing-calculator.html">Hesap Makinesi</a>
+            <a href="fixing-calendar.html">Takvim</a>
+            <a href="fixing-clock.html">Saat</a>
+            <a href="fixing-conveter.html">Dönüştürücü</a>
+            <a href="fixing-speed-test.html">Hız Testi</a>
+            <a href="fixing-timmer.html">Zamanlayıcı</a>
         </div>
     </div>
 
@@ -193,7 +184,6 @@
     </div>
 
     <script>
-        // Menü Kontrolü
         function toggleApps() {
             document.getElementById("appsMenu").classList.toggle("show");
             resetTimer();
@@ -209,7 +199,6 @@
             resetTimer();
         }
 
-        // Arama ve Hareketsizlik Kontrolü
         let idleTimer;
         const wrapper = document.getElementById('searchWrapper');
         const input = document.getElementById('fixSearch');
@@ -218,22 +207,25 @@
             wrapper.classList.remove('idle-animation');
             clearTimeout(idleTimer);
             idleTimer = setTimeout(() => {
-                // Sadece input boşsa ve odaklı değilse çalışsın
                 if (document.activeElement !== input && input.value === "") {
                     wrapper.classList.add('idle-animation');
                 }
             }, 15000); 
         }
 
-        // Hareket takibi
         window.onmousemove = resetTimer;
         window.onmousedown = resetTimer;
         input.onkeypress = resetTimer;
 
         function doSearch() {
-            const query = input.value.trim().toLowerCase();
+            // 1. Yazıyı al
+            // 2. Kenar boşluklarını sil
+            // 3. Hepsini küçük harfe çevir
+            // 4. Boşlukları ( ) tire (-) ile değiştir
+            let query = input.value.trim().toLowerCase().replace(/\s+/g, '-');
+            
             if (query !== "") {
-                const targetUrl = "https://sites.google.com/view/fixingfoto/" + encodeURIComponent(query);
+                const targetUrl = "https://sites.google.com/view/fixingfoto/" + query;
                 window.open(targetUrl, '_blank');
             }
         }
@@ -242,7 +234,6 @@
             if (e.key === 'Enter') { doSearch(); }
         });
 
-        // Başlangıçta zamanlayıcıyı kur
         window.onload = resetTimer;
     </script>
 
