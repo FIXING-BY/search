@@ -78,7 +78,6 @@
 
         .show { display: block; }
 
-        /* Başlık */
         .title {
             font-size: 26px;
             font-weight: 300;
@@ -89,7 +88,6 @@
             text-align: center;
         }
 
-        /* Arama Kutusu */
         .search-container {
             position: relative;
             display: flex;
@@ -111,7 +109,6 @@
             transition: all 0.4s ease;
         }
 
-        /* Hover & Focus & Idle Efektleri */
         .search-container:hover .search-input,
         .search-input:focus,
         .idle-animation .search-input {
@@ -127,7 +124,6 @@
             color: #00e5ff;
         }
 
-        /* Bekleme Animasyonu */
         @keyframes neonBreath {
             0%, 100% { opacity: 1; box-shadow: 0 0 25px rgba(0, 229, 255, 0.15); border-color: #00e5ff; }
             50% { opacity: 0.3; box-shadow: 0 0 5px rgba(0, 229, 255, 0); border-color: #222; }
@@ -184,6 +180,18 @@
     </div>
 
     <script>
+        // --- VERİ TABANI AYARLARI ---
+        const synonyms = {
+            "yt": "youtube",
+            "ig": "instagram",
+            "fb": "facebook",
+            "f": "fixing",
+            "tw": "twitter",
+            "hesap": "calculator",
+            "saat": "clock",
+            "hiz": "speed-test"
+        };
+
         function toggleApps() {
             document.getElementById("appsMenu").classList.toggle("show");
             resetTimer();
@@ -218,13 +226,17 @@
         input.onkeypress = resetTimer;
 
         function doSearch() {
-            // 1. Yazıyı al
-            // 2. Kenar boşluklarını sil
-            // 3. Hepsini küçük harfe çevir
-            // 4. Boşlukları ( ) tire (-) ile değiştir
-            let query = input.value.trim().toLowerCase().replace(/\s+/g, '-');
+            let query = input.value.trim().toLowerCase();
             
             if (query !== "") {
+                // EŞLEŞME KONTROLÜ: Eğer veri tabanında varsa çevir
+                if (synonyms[query]) {
+                    query = synonyms[query];
+                }
+
+                // Boşlukları tire yapma
+                query = query.replace(/\s+/g, '-');
+
                 const targetUrl = "https://sites.google.com/view/fixingfoto/" + query;
                 window.open(targetUrl, '_blank');
             }
