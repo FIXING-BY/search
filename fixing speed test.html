@@ -1,0 +1,171 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fixing Speed Test Pro</title>
+
+<style>
+*{
+  box-sizing:border-box;
+  font-family:'Segoe UI',system-ui,sans-serif;
+}
+
+body{
+  margin:0;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:radial-gradient(circle at top,#0f2027,#000);
+  color:white;
+}
+
+.card{
+  width:380px;
+  padding:30px;
+  border-radius:24px;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(16px);
+  border:1px solid rgba(0,255,255,0.2);
+  box-shadow:0 0 35px rgba(0,255,255,0.15);
+  text-align:center;
+}
+
+h1{
+  margin:0 0 8px;
+  font-size:22px;
+  letter-spacing:2px;
+  color:#7ffcff;
+}
+
+p{
+  font-size:14px;
+  color:#bbb;
+  margin-bottom:22px;
+}
+
+.btn{
+  width:100%;
+  padding:14px;
+  font-size:16px;
+  font-weight:600;
+  border:none;
+  border-radius:14px;
+  cursor:pointer;
+  background:linear-gradient(135deg,#7ffcff,#00b3b3);
+  color:black;
+  transition:0.25s;
+}
+
+.btn:hover{
+  transform:scale(1.04);
+  box-shadow:0 0 18px rgba(0,255,255,0.6);
+}
+
+.result{
+  margin-top:16px;
+  padding:12px;
+  border-radius:12px;
+  background:rgba(0,0,0,0.45);
+  font-size:15px;
+}
+
+.loading{
+  color:#7ffcff;
+  animation:pulse 1s infinite;
+}
+
+@keyframes pulse{
+  0%{opacity:0.4}
+  50%{opacity:1}
+  100%{opacity:0.4}
+}
+
+.back{
+  margin-top:18px;
+  background:transparent;
+  border:1px solid #7ffcff;
+  color:#7ffcff;
+}
+
+.back:hover{
+  background:#7ffcff;
+  color:black;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+  <h1>FIXING SPEED TEST</h1>
+  <p>Ping, indirme ve yükleme hızını ölç</p>
+
+  <button class="btn" onclick="runSpeedTest()">Testi Başlat</button>
+
+  <div class="result loading" id="pingResult"></div>
+  <div class="result loading" id="downloadResult"></div>
+  <div class="result loading" id="uploadResult"></div>
+
+  <!-- GITHUB PAGES GARANTİ ANASAYFA BUTONU -->
+  <button class="btn back" onclick="window.location.href='/'">
+    Anasayfaya Dön
+  </button>
+</div>
+
+<script>
+async function measurePing(){
+  const start = performance.now();
+  try{
+    await fetch("https://api.ipify.org?format=json",{cache:"no-store"});
+    return Math.round(performance.now() - start);
+  }catch{
+    return -1;
+  }
+}
+
+async function measureDownloadSpeed(){
+  const start = Date.now();
+  try{
+    const res = await fetch("https://speed.hetzner.de/5MB.bin",{cache:"no-store"});
+    const blob = await res.blob();
+    const duration = (Date.now()-start)/1000;
+    return ((blob.size*8)/duration/1e6).toFixed(2);
+  }catch{
+    return null;
+  }
+}
+
+async function measureUploadSpeed(){
+  const data = new Uint8Array(3*1024*1024);
+  const start = Date.now();
+  try{
+    await fetch("https://httpbin.org/post",{method:"POST",body:data});
+    const duration = (Date.now()-start)/1000;
+    return ((data.length*8)/duration/1e6).toFixed(2);
+  }catch{
+    return null;
+  }
+}
+
+async function runSpeedTest(){
+  pingResult.textContent="Ping ölçülüyor...";
+  downloadResult.textContent="İndirme ölçülüyor...";
+  uploadResult.textContent="Yükleme ölçülüyor...";
+
+  const [ping,down,up] = await Promise.all([
+    measurePing(),
+    measureDownloadSpeed(),
+    measureUploadSpeed()
+  ]);
+
+  pingResult.textContent = ping>=0 ? `Ping: ${ping} ms` : "Ping başarısız ❌";
+  downloadResult.textContent = down ? `İndirme: ${down} Mbps` : "İndirme başarısız ❌";
+  uploadResult.textContent = up ? `Yükleme: ${up} Mbps` : "Yükleme başarısız ❌";
+}
+</script>
+
+</body>
+</html>
