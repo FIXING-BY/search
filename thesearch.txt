@@ -1,3 +1,4 @@
+pornhub | https://www.pornhub.com | penci zorno yalamalı mayonez
 icloud | https://www.icloud.com/ | apple şirketine ait cloud depolama servisi
 Google | https://www.google.com | Dünyanın en popüler arama motoru
 YouTube | https://www.youtube.com | Video izleme ve içerik paylaşım platformu
@@ -5,7 +6,7 @@ Wikipedia | https://www.wikipedia.org | Özgür ve ücretsiz çevrim içi ansikl
 GitHub | https://github.com | Yazılımcılar için kod paylaşım ve proje platformu
 Stack Overflow | https://stackoverflow.com | Programlama soruları ve cevapları sitesi
 X | https://x.com | Kısa metinler ile gündem ve haber paylaşım platformu
-Instagram | https://www.instagram.com | Fotoğraf ve video paylaşım sosyal ağı
+instagram | https://www.instagram.com | Fotoğraf ve video paylaşım sosyal ağı
 Facebook | https://www.facebook.com | Sosyal ağ ve topluluk platformu
 Reddit | https://www.reddit.com | Topluluk tabanlı tartışma ve paylaşım sitesi
 Discord | https://discord.com | Sohbet ve topluluk iletişim platformu
