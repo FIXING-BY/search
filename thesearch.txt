@@ -1,4 +1,7 @@
-
+gmail | https://workspace.google.com/intl/tr/gmail/ | google şirketin mail servisi
+Fix Al Codex | https://sites.google.com/view/fixai/fix-al-codex | Fixing in kod yazan yapay zeka sı
+Fix Al | https://sites.google.com/view/fixai/v5-6-pro | Fixing in kouşma yapay zeka sı
+Fixmail | https://fixing-by.github.io/fixmail/ | fixing in mesajlaşma servisi
 icloud | https://www.icloud.com/ | apple şirketine ait cloud depolama servisi
 Google | https://www.google.com | Dünyanın en popüler arama motoru
 YouTube | https://www.youtube.com | Video izleme ve içerik paylaşım platformu
