@@ -1,1 +1,127 @@
 
+Google | https://www.google.com | Dünyanın en popüler arama motoru
+YouTube | https://www.youtube.com | Video izleme ve içerik paylaşım platformu
+Wikipedia | https://www.wikipedia.org | Özgür ve ücretsiz çevrim içi ansiklopedi
+GitHub | https://github.com | Yazılımcılar için kod paylaşım ve proje platformu
+Stack Overflow | https://stackoverflow.com | Programlama soruları ve cevapları sitesi
+X | https://x.com | Kısa metinler ile gündem ve haber paylaşım platformu
+Instagram | https://www.instagram.com | Fotoğraf ve video paylaşım sosyal ağı
+Facebook | https://www.facebook.com | Sosyal ağ ve topluluk platformu
+Reddit | https://www.reddit.com | Topluluk tabanlı tartışma ve paylaşım sitesi
+Discord | https://discord.com | Sohbet ve topluluk iletişim platformu
+Netflix | https://www.netflix.com | Dizi ve film izleme platformu
+Spotify | https://www.spotify.com | Müzik ve podcast dinleme servisi
+Twitch | https://www.twitch.tv | Canlı yayın ve oyun yayın platformu
+Steam | https://store.steampowered.com | Dijital oyun mağazası ve kütüphane sistemi
+Epic Games | https://store.epicgames.com | Oyun mağazası ve ücretsiz oyun platformu
+Amazon | https://www.amazon.com | Çevrim içi alışveriş ve e ticaret sitesi
+Trendyol | https://www.trendyol.com | Türkiye merkezli online alışveriş sitesi
+Hepsiburada | https://www.hepsiburada.com | Online alışveriş ve teknoloji platformu
+N11 | https://www.n11.com | Kampanya odaklı e ticaret sitesi
+Udemy | https://www.udemy.com | Online eğitim ve kurs platformu
+Coursera | https://www.coursera.org | Üniversite destekli online eğitim sitesi
+Khan Academy | https://www.khanacademy.org | Ücretsiz eğitim ve ders anlatım platformu
+Medium | https://medium.com | Blog yazıları ve makale paylaşım sitesi
+WordPress | https://wordpress.com | Web sitesi ve blog oluşturma platformu
+Canva | https://www.canva.com | Online tasarım ve görsel hazırlama aracı
+Pixabay | https://pixabay.com | Telifsiz görsel ve video arşivi
+Unsplash | https://unsplash.com | Ücretsiz yüksek kaliteli fotoğraf sitesi
+W3Schools | https://www.w3schools.com | Web geliştirme öğrenme kaynağı
+MDN Web Docs | https://developer.mozilla.org | Web teknolojileri için resmi dokümantasyon
+Google Drive | https://drive.google.com | Bulut depolama ve dosya paylaşım servisi
+Dropbox | https://www.dropbox.com | Bulut tabanlı dosya saklama hizmeti
+Microsoft | https://www.microsoft.com | Yazılım ve teknoloji şirketi sitesi
+Apple | https://www.apple.com | Donanım ve yazılım ürünleri platformu
+Yandex | https://yandex.com | Arama motoru ve internet servisleri
+Bing | https://www.bing.com | Microsoft tarafından geliştirilen arama motoru
+LinkedIn | https://www.linkedin.com | Profesyonel iş ve kariyer ağı
+Pinterest | https://www.pinterest.com | Görsel keşif ve fikir paylaşım platformu
+Yahoo | https://www.yahoo.com | Haber, mail ve arama motoru hizmeti
+DuckDuckGo | https://duckduckgo.com | Gizlilik odaklı arama motoru
+Startpage | https://www.startpage.com | Takip yapmayan arama motoru
+Brave Search | https://search.brave.com | Reklamsız ve gizlilik odaklı arama
+Yandex Maps | https://yandex.com/maps | Harita ve navigasyon servisi
+Google Maps | https://maps.google.com | Harita ve yol tarifi hizmeti
+OpenStreetMap | https://www.openstreetmap.org | Açık kaynak harita projesi
+BBC | https://www.bbc.com | Uluslararası haber ve medya sitesi
+CNN | https://www.cnn.com | Küresel haber ağı
+The Guardian | https://www.theguardian.com | Bağımsız haber ve analiz sitesi
+Al Jazeera | https://www.aljazeera.com | Uluslararası haber kanalı
+Reuters | https://www.reuters.com | Küresel haber ajansı
+Hürriyet | https://www.hurriyet.com.tr | Türkiye merkezli haber sitesi
+Milliyet | https://www.milliyet.com.tr | Güncel haber ve köşe yazıları
+Sabah | https://www.sabah.com.tr | Türkiye haber ve gündem sitesi
+NTV | https://www.ntv.com.tr | Haber ve ekonomi platformu
+Ekol TV | https://www.ekoltv.com.tr | Güncel haber ve yayın platformu
+Mynet | https://www.mynet.com | Haber, oyun ve portal sitesi
+ShiftDelete | https://shiftdelete.net | Teknoloji haberleri ve incelemeler
+Webtekno | https://www.webtekno.com | Teknoloji ve bilim haberleri
+DonanımHaber | https://www.donanimhaber.com | Donanım ve teknoloji forumu
+Technopat | https://www.technopat.net | Teknoloji forumu ve rehber sitesi
+Ekşi Sözlük | https://eksisozluk.com | Kullanıcı tabanlı sözlük platformu
+İnci Sözlük | https://incisozluk.com.tr | Mizah ve paylaşım sözlüğü
+Hacker News | https://news.ycombinator.com | Girişim ve yazılım haberleri
+Product Hunt | https://www.producthunt.com | Yeni ürün ve girişim keşif sitesi
+Dev.to | https://dev.to | Yazılımcılar için blog ve paylaşım platformu
+FreeCodeCamp | https://www.freecodecamp.org | Ücretsiz yazılım eğitim platformu
+Codecademy | https://www.codecademy.com | Etkileşimli kodlama eğitimi
+LeetCode | https://leetcode.com | Algoritma ve kodlama pratiği sitesi
+HackerRank | https://www.hackerrank.com | Programlama test ve yarışma platformu
+CodePen | https://codepen.io | Frontend kod deneme alanı
+JSFiddle | https://jsfiddle.net | Online JavaScript test editörü
+Replit | https://replit.com | Tarayıcı üzerinden kod yazma ortamı
+Glitch | https://glitch.com | Web uygulaması geliştirme platformu
+Vercel | https://vercel.com | Web projeleri için dağıtım servisi
+Netlify | https://www.netlify.com | Statik site barındırma platformu
+Cloudflare | https://www.cloudflare.com | CDN ve internet güvenliği hizmeti
+Heroku | https://www.heroku.com | Bulut uygulama barındırma servisi
+Firebase | https://firebase.google.com | Google tabanlı backend hizmetleri
+Supabase | https://supabase.com | Açık kaynak Firebase alternatifi
+DigitalOcean | https://www.digitalocean.com | Bulut sunucu ve hosting hizmeti
+Namecheap | https://www.namecheap.com | Alan adı ve hosting sağlayıcısı
+GoDaddy | https://www.godaddy.com | Alan adı ve web barındırma servisi
+Figma | https://www.figma.com | Arayüz ve tasarım iş birliği aracı
+Adobe | https://www.adobe.com | Tasarım ve medya yazılımları platformu
+Behance | https://www.behance.net | Tasarım portföy paylaşım sitesi
+Dribbble | https://dribbble.com | UI ve grafik tasarım topluluğu
+SoundCloud | https://soundcloud.com | Müzik paylaşım ve keşif platformu
+Bandcamp | https://bandcamp.com | Bağımsız müzik satış ve paylaşım sitesi
+IMDb | https://www.imdb.com | Film ve dizi veritabanı
+Rotten Tomatoes | https://www.rottentomatoes.com | Film ve dizi puanlama sitesi
+Metacritic | https://www.metacritic.com | Oyun, film ve müzik değerlendirme sitesi
+Goodreads | https://www.goodreads.com | Kitap inceleme ve okuma platformu
+Archive.org | https://archive.org | Dijital arşiv ve eski içerikler
+Pastebin | https://pastebin.com | Metin ve kod paylaşım servisi
+WeTransfer | https://wetransfer.com | Dosya gönderme ve paylaşım hizmeti
+Google Meet | https://meet.google.com | Online video toplantı ve görüşme servisi
+Google Docs | https://docs.google.com | Online doküman oluşturma ve düzenleme aracı
+Google Sheets | https://sheets.google.com | Online tablo ve hesaplama uygulaması
+Google Slides | https://slides.google.com | Sunum hazırlama ve paylaşma aracı
+Google Classroom | https://classroom.google.com | Online eğitim ve sınıf yönetim platformu
+Google Photos | https://photos.google.com | Fotoğraf ve video yedekleme servisi
+Google Translate | https://translate.google.com | Online çeviri ve dil destek aracı
+Google Calendar | https://calendar.google.com | Takvim ve planlama uygulaması
+Google Forms | https://forms.google.com | Anket ve form oluşturma aracı
+Google News | https://news.google.com | Kişiselleştirilmiş haber platformu
+YouTube Music | https://music.youtube.com | Müzik ve playlist dinleme servisi
+YouTube Studio | https://studio.youtube.com | İçerik üreticiler için kanal yönetim paneli
+YouTube Kids | https://www.youtubekids.com | Çocuklara özel video platformu
+YouTube Shorts | https://www.youtube.com/shorts | Kısa video izleme ve paylaşım alanı
+Spotify Web | https://open.spotify.com | Tarayıcı üzerinden müzik dinleme servisi
+Spotify for Artists | https://artists.spotify.com | Sanatçılar için istatistik ve yönetim paneli
+Spotify Podcasts | https://podcasters.spotify.com | Podcast yayınlama ve yönetme platformu
+Zoom | https://zoom.us | Video konferans ve online toplantı uygulaması
+Microsoft Teams | https://www.microsoft.com/teams | Kurumsal iletişim ve toplantı platformu
+Skype | https://www.skype.com | Sesli ve görüntülü görüşme uygulaması
+WhatsApp Web | https://web.whatsapp.com | Tarayıcıdan WhatsApp mesajlaşma servisi
+Telegram Web | https://web.telegram.org | Web tabanlı mesajlaşma uygulaması
+Messenger | https://www.messenger.com | Facebook mesajlaşma servisi
+TikTok | https://www.tiktok.com | Kısa video izleme ve paylaşım platformu
+CapCut | https://www.capcut.com | Online video düzenleme aracı
+InShot | https://inshot.com | Video ve fotoğraf düzenleme uygulaması
+Netflix Kids | https://www.netflix.com/kids | Çocuklara özel dizi ve film alanı
+Amazon Prime Video | https://www.primevideo.com | Film ve dizi izleme platformu
+Disney Plus | https://www.disneyplus.com | Disney içerikleri ve özel yapımlar
+BluTV | https://www.blutv.com | Türkiye merkezli dijital yayın platformu
+Exxen | https://www.exxen.com | Yerli dijital içerik platformu
+Shazam | https://www.shazam.com | Çalan müziği tanıma uygulaması
