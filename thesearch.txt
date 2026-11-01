@@ -1,5 +1,5 @@
-Qono Explain | https://qonoexplain.fixing.tr | beyaz,sade tahta sunusu
-Qono Motion Graphics | https://qonomotiongraphicsh.fixing.tr | animasyonlu tahta sunusu
+Qono Explain | https://explain.fixing.tr | beyaz,sade tahta sunusu
+Qono Motion Graphics | https://motiongraphicsh.fixing.tr | animasyonlu tahta sunusu
 Stack Overflow | https://stackoverflow.com | Programlama soruları ve cevapları sitesi
 Açı E coll | https://acidijitalokul.com | Açı eğitim kurumları dijital istemi
 Qonix | https://fixing-by.github.io/Qnix/ | Fixing in mesaj platformu dur
