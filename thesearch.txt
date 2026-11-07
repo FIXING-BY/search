@@ -1,50 +1,1000 @@
-Google | google.com | Dünya genelinde en popüler arama motoru ve web portalı | 1 | 98 | Güçlü HTTPS, gelişmiş altyapı ve sıkı güvenlik protokolleri | 07.11.2026
-YouTube | youtube.com | Dünyanın en büyük video paylaşım ve izleme platformu | 2 | 96 | Güvenli içerik iletimi ve kurumsal Google koruması | 07.11.2026
-Facebook | facebook.com | Küresel sosyal medya ve topluluk platformu | 3 | 85 | Yüksek teknik güvenlik ancak geçmiş veri gizliliği endişeleri | 07.11.2026
-Instagram | instagram.com | Fotoğraf ve kısa video paylaşım odaklı sosyal medya | 4 | 88 | Güvenli veri şifreleme ve Meta altyapı koruması | 07.11.2026
-ChatGPT | chatgpt.com | OpenAI tarafından geliştirilen yapay zeka sohbet platformu | 5 | 92 | Güçlü altyapı güvenliği ve güncel SSL/TLS standartları | 07.11.2026
-X | x.com | Mikroblog ve anlık haber paylaşım platformu | 6 | 84 | Teknik olarak güvenli ancak kullanıcı içerik denetimi değişken | 07.11.2026
-Reddit | reddit.com | Topluluk odaklı tartışma ve içerik paylaşım sitesi | 7 | 88 | Yüksek web güvenliği ve düzenli güvenlik güncellemeleri | 07.11.2026
-TikTok | tiktok.com | Kısa biçimli video ve sosyal etkileşim platformu | 8 | 80 | Güvenli bağlantı altyapısı fakat veri gizliliği tartışmaları mevcut | 07.11.2026
-WhatsApp | whatsapp.com | Web tabanlı anlık mesajlaşma servisi | 9 | 94 | Uçtan uca şifreleme ve yüksek bağlantı güvenliği | 07.11.2026
-Bing | bing.com | Microsoft üretimi arama motoru ve AI hizmeti | 10 | 95 | Microsoft kurumsal güvenlik standartları ve tam HTTPS desteği | 07.11.2026
-Wikipedia | wikipedia.org | Açık kaynaklı özgür çevrimiçi ansiklopedi | 11 | 95 | Reklamsız, güvenli ve kütüphane düzeyinde veri koruması | 07.11.2026
-Yahoo Japan | yahoo.co.jp | Japonya odaklı haber, arama ve portal hizmeti | 12 | 90 | Yüksek altyapı güvenliği ve güncel şifreleme | 07.11.2026
-Gemini | gemini.google.com | Google tarafından geliştirilen gelişmiş yapay zeka platformu | 13 | 98 | Google ekosistemi entegrasyonu ve üst düzey güvenlik koruması | 07.11.2026
-Yandex | yandex.ru | Rusya merkezli arama motoru ve İnternet hizmetleri | 14 | 82 | Standart SSL güvenliği mevcut ancak bölgesel veri politikaları hakim | 07.11.2026
-Amazon | amazon.com | Dünyanın en büyük e-ticaret ve bulut hizmetleri platformu | 15 | 96 | Üst düzey ödeme güvenliği ve SSL şifreleme altyapısı | 07.11.2026
-Yahoo | yahoo.com | Haber, e-posta ve içerik portalı | 16 | 88 | Standardize edilmiş HTTPS ve oturum güvenliği | 07.11.2026
-LinkedIn | linkedin.com | Profesyonel ağ oluşturma ve iş arama platformu | 17 | 93 | Kurumsal veri koruma standartları ve güvenli oturum açma | 07.11.2026
-Microsoft 365 | cloud.microsoft | Kurumsal bulut yazılımı ve verimlilik platformu | 18 | 99 | Üst düzey kurumsal güvenlik, sıfır güven mimarisi | 07.11.2026
-Baidu | baidu.com | Çin merkezli arama motoru ve yapay zeka hizmetleri | 19 | 80 | Güvenli web sunucuları fakat yerel sansür ve veri denetimi mevcut | 07.11.2026
-Pinterest | pinterest.com | Görsel keşif ve ilham paylaşım platformu | 20 | 90 | Güvenli içerik dağıtım ağı ve HTTPS standartları | 07.11.2026
-Naver | naver.com | Güney Kore merkezli haber ve arama portalı | 21 | 91 | Yüksek teknik güvenlik standartları ve korumalı altyapı | 07.11.2026
-Netflix | netflix.com | İsteğe bağlı film ve dizi izleme platformu | 22 | 97 | Güçlü DRM koruması ve yüksek web güvenliği | 07.11.2026
-Outlook | live.com | Microsoft tabanlı e-posta ve takvim hizmeti | 23 | 96 | Güvenli e-posta şifreleme ve kimlik doğrulama | 07.11.2026
-Bilibili | bilibili.com | Çin merkezli video ve eğlence paylaşım platformu | 24 | 82 | Güncel şifreleme ancak bölgesel içerik sınırlamaları | 07.11.2026
-Pornhub | pornhub.com | Yetşikinlere yönelik içerik platformu | 25 | 65 | Web sitesi şifrelidir ancak zararlı reklam riskleri barındırabilir | 07.11.2026
-Microsoft | microsoft.com | Yazılım ve teknoloji şirketi resmi portalı | 26 | 98 | Üst seviye HTTPS, güvenli indirme ve kurumsal koruma | 07.11.2026
-xHamster | xhamster.com | Yetişkinlere yönelik video paylaşım platformu | 27 | 62 | SSL şifrelemesi var fakat 3. taraf reklam güvenlik riskleri yüksek | 07.11.2026
-Twitch | twitch.tv | Canlı yayın ve oyun odaklı medya platformu | 28 | 92 | Amazon altyapısı, güvenli yayın protokolleri | 07.11.2026
-Temu | temu.com | Global e-ticaret ve uygun fiyatlı ürün pazaryeri | 29 | 78 | Ödeme altyapısı şifreli ancak agresif veri toplama politikaları mevcut | 07.11.2026
-Dzen News | dzen.ru | Rusya odaklı kişiselleştirilmiş haber ve içerik platformu | 30 | 80 | Temel web güvenliği sağlayan standart SSL altyapısı | 07.11.2026
-Claude | claude.ai | Anthropic tarafından geliştirilen yapay zeka sohbet arayüzü | 31 | 95 | Yüksek düzeyde veri şifreleme ve güvenlik odaklı AI tasarımı | 07.11.2026
-VK | vk.ru | Rusya odaklı sosyal iletişim platformu | 32 | 82 | Standart şifreleme protokolleri ve kullanıcı güvenliği düzenlemeleri | 07.11.2026
-Canva | canva.com | Çevrimiçi grafik tasarım ve içerik oluşturma platformu | 33 | 94 | Güvenli bulut depolama ve üst düzey kullanıcı veri şifrelemesi | 07.11.2026
-Weather.com | weather.com | Küresel hava durumu ve meteoroloji portalı | 34 | 90 | Yüksek HTTPS güvenliği ve doğrulanmış hava durumu verileri | 07.11.2026
-bet.br | bet.br | Brezilya merkezli çevrimiçi bahis platformu | 35 | 55 | Finansal işlem şifrelemesi var fakat yüksek riskli kumar kategorisinde | 07.11.2026
-XVideos | xvideos.com | Yetşikin içerik ve video akış sitesi | 36 | 60 | Temel SSL bağlantısı mevcut, yönlendirmeli reklam riskleri barındırır | 07.11.2026
-Yahoo News Japan | news.yahoo.co.jp | Japonya odaklı anlık haber yayın platformu | 37 | 91 | Yahoo Japan güvencesinde sağlam web altyapısı | 07.11.2026
-Samsung | samsung.com | Tüketici elektroniği ve teknoloji portalı | 38 | 97 | Güçlü HTTPS, güvenli e-ticaret ve cihaz şifreleme entegrasyonu | 07.11.2026
-Stripchat | stripchat.com | Yetişkin canlı yayın platformu | 39 | 58 | Şifreli bağlantı sunar fakat yüksek riskli içerik ve reklamlar barındırır | 07.11.2026
-Fandom | fandom.com | Eğlence, oyun ve popüler kültür wiki platformu | 40 | 85 | Güvenli HTTPS yapısı ancak çok sayıda 3. taraf reklam ağı içerir | 07.11.2026
-Globo | globo.com | Brezilya merkezli medya ve haber yayın portalı | 41 | 89 | Yüksek web standartları ve güvenli içerik dağıtım ağı | 07.11.2026
-Apple | apple.com | Teknoloji ürünleri ve servisleri resmi portalı | 42 | 99 | Endüstri lideri güvenlik, şifreleme ve veri koruma standartları | 07.11.2026
-Mail.ru | mail.ru | E-posta ve portal hizmetleri servisi | 43 | 81 | Standart e-posta şifrelemesi ve temel güvenlik altyapısı | 07.11.2026
-ESPN | espn.com | Küresel spor haberleri ve canlı skor platformu | 44 | 91 | Disney/ESPN kurumsal web altyapısı ve güvenli HTTPS | 07.11.2026
-DuckDuckGo | duckduckgo.com | Gizlilik odaklı arama motoru | 45 | 97 | İzleyicisiz arama mimarisi ve yüksek düzeyde veri gizliliği | 07.11.2026
-Brave | brave.com | Gizlilik ve güvenlik odaklı web tarayıcı portalı | 46 | 96 | Güçlü şifreleme ve gizlilik odaklı altyapı koruması | 07.11.2026
-GitHub | github.com | Yazılım geliştirme ve kod depolama platformu | 47 | 97 | Microsoft altyapısı, 2FA zorunluluğu ve gelişmiş kod güvenliği | 07.11.2026
-Telegram | t.me | Web mesajlaşma ve kanal yönlendirme portalı | 48 | 90 | Hızlı altyapı, temel şifreleme ve güvenli web oturumları | 07.11.2026
-Zoom | zoom.com | Video konferans ve çevrimiçi toplantı platformu | 49 | 93 | Gelişmiş veri şifrelemesi ve toplantı güvenlik kontrolleri | 07.11.2026
-eBay | ebay.com | Küresel açık artırma ve e-ticaret pazaryeri | 50 | 93 | Güvenli ödeme sistemleri ve kullanıcı alıcı koruması altyapısı | 07.11.2026
+Google | google.com | Arama motoru ve web portalı | 1 | 98 | Güçlü HTTPS ve kurumsal altyapı koruması | 07.11.2026
+YouTube | youtube.com | Video paylaşım ve izleme platformu | 2 | 96 | Güvenli içerik iletimi ve Google koruması | 07.11.2026
+Facebook | facebook.com | Sosyal medya platformu | 3 | 85 | Güvenli şifreleme; geçmiş veri politikası tartışmaları | 07.11.2026
+Instagram | instagram.com | Görsel ve video paylaşım platformu | 4 | 88 | Güvenli veri şifreleme altyapısı | 07.11.2026
+ChatGPT | chatgpt.com | Yapay zeka sohbet platformu | 5 | 92 | Güçlü altyapı ve güncel TLS standartları | 07.11.2026
+X | x.com | Mikroblog ve haber platformu | 6 | 84 | Teknik olarak güvenli; içerik denetimi değişken | 07.11.2026
+Reddit | reddit.com | Topluluk ve içerik paylaşım sitesi | 7 | 88 | Yüksek web güvenliği ve düzenli güncellemeler | 07.11.2026
+TikTok | tiktok.com | Kısa video paylaşım platformu | 8 | 80 | Güvenli bağlantı altyapısı; veri gizliliği takibi | 07.11.2026
+WhatsApp | whatsapp.com | Web mesajlaşma servisi | 9 | 94 | Uçtan uca şifreleme altyapısı | 07.11.2026
+Bing | bing.com | Microsoft arama motoru | 10 | 95 | Kurumsal güvenlik ve tam HTTPS desteği | 07.11.2026
+Wikipedia | wikipedia.org | Özgür çevrimiçi ansiklopedi | 11 | 95 | Reklamsız ve güvenli kütüphane altyapısı | 07.11.2026
+Yahoo Japan | yahoo.co.jp | Japonya haber ve arama portalı | 12 | 90 | Yüksek altyapı güvenliği | 07.11.2026
+Gemini | gemini.google.com | Google yapay zeka platformu | 13 | 98 | Google ekosistem koruması | 07.11.2026
+Yandex | yandex.ru | Arama motoru ve web hizmetleri | 14 | 82 | Standart SSL; bölgesel veri politikaları | 07.11.2026
+Amazon | amazon.com | E-ticaret ve bulut platformu | 15 | 96 | Üst düzey ödeme ve SSL güvenliği | 07.11.2026
+Yahoo | yahoo.com | Haber ve e-posta portalı | 16 | 88 | Standardize edilmiş HTTPS güvenliği | 07.11.2026
+LinkedIn | linkedin.com | Profesyonel ağ ve iş arama platformu | 17 | 93 | Kurumsal veri koruma standartları | 07.11.2026
+Microsoft 365 | cloud.microsoft | Kurumsal bulut ve yazılım platformu | 18 | 99 | Sıfır güven mimarili üst düzey güvenlik | 07.11.2026
+Baidu | baidu.com | Çin arama motoru platformu | 19 | 80 | Güvenli sunucular; yerel veri denetimleri | 07.11.2026
+Pinterest | pinterest.com | Görsel ilham ve paylaşım platformu | 20 | 90 | Güvenli CDN ve HTTPS | 07.11.2026
+Naver | naver.com | Kore arama ve portal platformu | 21 | 91 | Yüksek teknik güvenlik standartları | 07.11.2026
+Netflix | netflix.com | Dizi ve film izleme platformu | 22 | 97 | Güçlü DRM koruması ve SSL | 07.11.2026
+Outlook | live.com | E-posta ve takvim servisi | 23 | 96 | Güvenli e-posta şifrelemesi | 07.11.2026
+Bilibili | bilibili.com | Video ve eğlence platformu | 24 | 82 | Güncel şifreleme standartları | 07.11.2026
+Microsoft | microsoft.com | Teknoloji ve yazılım portalı | 25 | 98 | Üst seviye HTTPS ve güvenli indirme | 07.11.2026
+Twitch | twitch.tv | Canlı yayın platformu | 26 | 92 | Amazon altyapı güvenliği | 07.11.2026
+Temu | temu.com | Küresel e-ticaret pazaryeri | 27 | 78 | Şifreli ödeme; veri politikaları takibi | 07.11.2026
+Dzen News | dzen.ru | İçerik ve haber portalı | 28 | 80 | Temel SSL altyapısı | 07.11.2026
+Claude | claude.ai | Yapay zeka sohbet arayüzü | 29 | 95 | Yüksek düzeyde veri şifreleme | 07.11.2026
+VK | vk.ru | Sosyal iletişim platformu | 30 | 82 | Standart şifreleme protokolleri | 07.11.2026
+Canva | canva.com | Grafik tasarım platformu | 31 | 94 | Güvenli bulut altyapısı | 07.11.2026
+Weather.com | weather.com | Hava durumu portalı | 32 | 90 | Yüksek HTTPS güvenliği | 07.11.2026
+Yahoo News Japan | news.yahoo.co.jp | Anlık haber platformu | 33 | 91 | Güvenli web altyapısı | 07.11.2026
+Samsung | samsung.com | Teknoloji portalı ve e-ticaret | 34 | 97 | Güçlü HTTPS ve cihaz şifrelemesi | 07.11.2026
+Fandom | fandom.com | Wiki ve eğlence platformu | 35 | 85 | HTTPS yapısı; 3. taraf reklam izleyicileri | 07.11.2026
+Globo | globo.com | Medya ve haber yayın portalı | 36 | 89 | Yüksek web standartları | 07.11.2026
+Apple | apple.com | Teknoloji ve servis portalı | 37 | 99 | Endüstri lideri veri koruma ve şifreleme | 07.11.2026
+Mail.ru | mail.ru | E-posta ve web portalı | 38 | 81 | Standart e-posta şifrelemesi | 07.11.2026
+ESPN | espn.com | Spor haberleri platformu | 39 | 91 | Kurumsal medya altyapısı | 07.11.2026
+DuckDuckGo | duckduckgo.com | Gizlilik odaklı arama motoru | 40 | 97 | İzleyicisiz arama mimarisi | 07.11.2026
+Brave | brave.com | Web tarayıcı ve güvenlik portalı | 41 | 96 | Güçlü şifreleme ve gizlilik altyapısı | 07.11.2026
+GitHub | github.com | Yazılım depolama platformu | 42 | 97 | 2FA zorunluluğu ve gelişmiş kod güvenliği | 07.11.2026
+Telegram | t.me | Web mesajlaşma portalı | 43 | 90 | Temel şifreleme ve hızlı altyapı | 07.11.2026
+Zoom | zoom.com | Video konferans platformu | 44 | 93 | Veri şifrelemesi ve toplantı güvenlik kontrolü | 07.11.2026
+eBay | ebay.com | Küresel e-ticaret pazaryeri | 45 | 93 | Güvenli ödeme ve alıcı koruması | 07.11.2026
+Quora | quora.com | Soru-cevap platformu | 46 | 89 | Standart HTTPS şifrelemesi | 07.11.2026
+Spotify | spotify.com | Dijital müzik platformu | 47 | 96 | Güçlü veri şifreleme altyapısı | 07.11.2026
+Roblox | roblox.com | Çevrimiçi oyun platformu | 48 | 88 | Yüksek altyapı güvenliği | 07.11.2026
+Steam | steampowered.com | Dijital oyun dağıtım platformu | 49 | 95 | 2FA ve güvenli ödeme altyapısı | 07.11.2026
+AliExpress | aliexpress.com | Küresel e-ticaret pazaryeri | 50 | 86 | Güvenli ödeme protokolleri | 07.11.2026
+IMDb | imdb.com | Film ve dizi veritabanı | 51 | 94 | Amazon altyapı güvencesi | 07.11.2026
+Adobe | adobe.com | Yaratıcı yazılım platformu | 52 | 97 | Kurumsal düzeyde şifreleme | 07.11.2026
+DailyMail | dailymail.co.uk | Dijital haber gazetesi | 53 | 84 | SSL koruması var; yoğun reklam ağları | 07.11.2026
+BBC | bbc.com | Uluslararası haber kuruluşu | 54 | 96 | Yüksek web ve sunucu güvenliği | 07.11.2026
+The Guardian | theguardian.com | Bağımsız haber platformu | 55 | 95 | Güçlü SSL standartları | 07.11.2026
+Medium | medium.com | Blog ve içerik platformu | 56 | 91 | Temiz web arayüzü ve SSL | 07.11.2026
+Notion | notion.so | Not ve proje yönetim uygulaması | 57 | 95 | Bulut şifrelemesi ve veri erişim koruması | 07.11.2026
+Dropbox | dropbox.com | Bulut depolama servisi | 58 | 96 | AES-256 şifreleme standartları | 07.11.2026
+Stack Overflow | stackoverflow.com | Yazılımcı soru-cevap platformu | 59 | 95 | Güvenli kod paylaşım ortamı | 07.11.2026
+Etsy | etsy.com | El yapımı ve özel tasarım pazaryeri | 60 | 94 | Güvenli ödeme geçitleri | 07.11.2026
+Walmart | walmart.com | Perakende ve e-ticaret platformu | 61 | 95 | Üst düzey ticari güvenlik | 07.11.2026
+PayPal | paypal.com | Çevrimiçi ödeme platformu | 62 | 98 | Banka seviyesinde şifreleme | 07.11.2026
+Stripe | stripe.com | Çevrimiçi ödeme altyapısı | 63 | 99 | PCI-DSS Level 1 sertifikalı güvenlik | 07.11.2026
+Duolingo | duolingo.com | Dil öğrenme platformu | 64 | 93 | Güvenli öğrenci veri politikaları | 07.11.2026
+Vimeo | vimeo.com | Profesyonel video barındırma platformu | 65 | 94 | Yüksek kaliteli ve güvenli medya ağı | 07.11.2026
+Coursera | coursera.org | Çevrimiçi eğitim platformu | 66 | 95 | Güvenli akademik veritabanı | 07.11.2026
+Udemy | udemy.com | Kurs pazaryeri platformu | 67 | 93 | Güvenli ödeme ve profil koruması | 07.11.2026
+Scribd | scribd.com | Dijital kitap ve belge kütüphanesi | 68 | 89 | Şifreli bağlantı ve sunucu koruması | 07.11.2026
+Archive.org | archive.org | Ücretsiz dijital kütüphane | 69 | 92 | Kamu yararına reklamsız ve güvenli | 07.11.2026
+CNN | cnn.com | Uluslararası haber portalı | 70 | 91 | Güçlü Warner Bros. Discovery altyapısı | 07.11.2026
+The New York Times | nytimes.com | Gazetecilik ve haber platformu | 71 | 95 | Üst düzey haber sitesi güvenliği | 07.11.2026
+Forbes | forbes.com | İş ve finans haber platformu | 72 | 87 | HTTPS korumalı; reklam izleyicileri barındırır | 07.11.2026
+Bloomberg | bloomberg.com | Finansal haber ve analiz portalı | 73 | 96 | Kurumsal seviyede veri güvenliği | 07.11.2026
+TradingView | tradingview.com | Finansal grafik ve borsa analiz platformu | 74 | 94 | Anlık veri aktarımı güvenliği | 07.11.2026
+CoinMarketCap | coinmarketcap.com | Kripto para fiyat takip platformu | 75 | 90 | Binance destekli güçlü HTTPS altyapısı | 07.11.2026
+Booking.com | booking.com | Otel ve seyahat rezervasyon platformu | 76 | 95 | Güvenli ödeme ve uluslararası veri koruma | 07.11.2026
+Airbnb | airbnb.com | Konaklama pazaryeri | 77 | 96 | Kimlik doğrulama ve korumalı ödeme | 07.11.2026
+Tripadvisor | tripadvisor.com | Seyahat yorumları platformu | 78 | 91 | Güvenli kullanıcı içeriği yönetimi | 07.11.2026
+Uber | uber.com | Ulaşım platformu | 79 | 94 | Yüksek veri şifrelemesi ve anlık konum koruması | 07.11.2026
+Speedtest | speedtest.net | İnternet bağlantı hızı ölçüm servisi | 80 | 88 | Güvenli ölçüm sunucuları | 07.11.2026
+SourceForge | sourceforge.net | Açık kaynak yazılım dizini | 81 | 85 | Temizlenmiş ve HTTPS korumalı altyapı | 07.11.2026
+APKPure | apkpure.com | Android APK indirme alternatifi | 82 | 75 | İmza doğrulaması yapar; dış yükleme riski mevcut | 07.11.2026
+Uptodown | uptodown.com | Masaüstü ve mobil uygulama indirme sitesi | 83 | 82 | Virustotal entegrasyonlu güvenlik | 07.11.2026
+Fiverr | fiverr.com | Freelancer hizmet pazaryeri | 84 | 94 | Güvenli escrow ödeme altyapısı | 07.11.2026
+Upwork | upwork.com | Profesyonel işveren platformu | 85 | 95 | Kurumsal sözleşme ve ödeme güvenliği | 07.11.2026
+Grammarly | grammarly.com | AI yazım denetim aracı | 86 | 96 | SOC 2 Type II sertifikalı yüksek gizlilik | 07.11.2026
+SoundCloud | soundcloud.com | Ses ve müzik paylaşım platformu | 87 | 91 | Güvenli HTTPS yayını | 07.11.2026
+Deezer | deezer.com | Dijital müzik akış servisi | 88 | 93 | Güçlü ödeme altyapısı | 07.11.2026
+Shutterstock | shutterstock.com | Stok görsel ve medya pazaryeri | 89 | 94 | Güvenli dijital varlık indirme | 07.11.2026
+Pixabay | pixabay.com | Telifsiz görsel paylaşım topluluğu | 90 | 93 | Reklamsız ve güvenli indirme | 07.11.2026
+Unsplash | unsplash.com | Yüksek çözünürlüklü ücretsiz fotoğraf platformu | 91 | 94 | Getty Images altyapı güvencesi | 07.11.2026
+Figma | figma.com | Arayüz tasarım aracı | 92 | 97 | Kurumsal veri koruma ve bulut mimarisi | 07.11.2026
+Trello | trello.com | Proje yönetim aracı | 93 | 96 | Atlassian güvencesinde veri şifreleme | 07.11.2026
+Slack | slack.com | Kurumsal mesajlaşma platformu | 94 | 97 | SOC 2 sertifikalı kurumsal şifreleme | 07.11.2026
+Asana | asana.com | Görev ve proje takip yazılımı | 95 | 96 | Güçlü erişim kontrolleri | 07.11.2026
+Miro | miro.com | Çevrimiçi görsel iş birliği tahtası | 96 | 95 | Kurumsal düzeyde veri şifreleme | 07.11.2026
+Basecamp | basecamp.com | Ekip iletişim platformu | 97 | 96 | Yüksek veri gizliliği | 07.11.2026
+Jira | atlassian.com/software/jira | Yazılım sorun takip sistemi | 98 | 97 | Atlassian kurumsal güvenlik standartları | 07.11.2026
+Confluence | atlassian.com/software/confluence | Takım dokümantasyon platformu | 99 | 97 | Güçlü erişim kontrolü | 07.11.2026
+Zendesk | zendesk.com | Müşteri destek biletleme sistemi | 100 | 96 | ISO 27001 sertifikalı koruma | 07.11.2026
+HubSpot | hubspot.com | CRM ve pazarlama yazılımı | 101 | 97 | Yüksek düzeyde müşteri verisi koruması | 07.11.2026
+Salesforce | salesforce.com | Bulut tabanlı CRM platformu | 102 | 98 | Endüstri lideri kurumsal güvenlik | 07.11.2026
+Shopify | shopify.com | E-ticaret altyapı platformu | 103 | 97 | PCI DSS Level 1 ödeme güvenliği | 07.11.2026
+Wix | wix.com | Web sitesi oluşturma platformu | 104 | 92 | Güvenli barındırma ve otomatik SSL | 07.11.2026
+Squarespace | squarespace.com | Web sitesi ve blog barındırma servisi | 105 | 93 | Entegre SSL koruması | 07.11.2026
+WordPress.com | wordpress.com | İçerik yönetim sistemi ve blog platformu | 106 | 94 | Otomatik güvenlik güncellemeleri | 07.11.2026
+Webflow | webflow.com | Görsel web tasarım platformu | 107 | 95 | AWS destekli güvenlik altyapısı | 07.11.2026
+Mailchimp | mailchimp.com | E-posta pazarlama platformu | 108 | 94 | Güvenli e-posta gönderim protokolleri | 07.11.2026
+SendGrid | sendgrid.com | Bulut e-posta iletim altyapısı | 109 | 96 | TLS e-posta şifrelemesi | 07.11.2026
+Twilio | twilio.com | Bulut iletişim API platformu | 110 | 97 | API güvenlik protokolleri | 07.11.2026
+Docker | docker.com | Konteynerleştirme platformu | 111 | 96 | Güvenli görüntü deposu | 07.11.2026
+Postman | postman.com | API test platformu | 112 | 95 | Güvenli çalışma alanları | 07.11.2026
+Vercel | vercel.com | Ön uç barındırma platformu | 113 | 97 | Otomatik SSL ve DDoS koruması | 07.11.2026
+Netlify | netlify.com | Web uygulamaları barındırma servisi | 114 | 96 | Otomatik HTTPS desteği | 07.11.2026
+DigitalOcean | digitalocean.com | Bulut sunucu platformu | 115 | 96 | Gelişmiş güvenlik duvarları | 07.11.2026
+Heroku | heroku.com | Bulut uygulama platformu | 116 | 95 | Salesforce güvenlik standartları | 07.11.2026
+Linode | linode.com | Bulut barındırma sağlayıcısı | 117 | 95 | Güçlü ağ güvenliği | 07.11.2026
+Hetzner | hetzner.com | Veri merkezi ve sunucu kiralama | 118 | 96 | Katı AB veri gizliliği standartları | 07.11.2026
+OVHcloud | ovhcloud.com | Bulut ve sunucu sağlayıcısı | 119 | 95 | Entegre anti-DDoS koruması | 07.11.2026
+Cloudflare | cloudflare.com | Web güvenliği ve CDN servisi | 120 | 99 | Küresel DDoS koruması ve güvenlik standartları | 07.11.2026
+Fastly | fastly.com | Edge bulut ve CDN hizmeti | 121 | 98 | Yüksek hızlı içerik dağıtım güvenliği | 07.11.2026
+Akamai | akamai.com | Siber güvenlik ve CDN platformu | 122 | 99 | Kurumsal düzeyde siber savunma | 07.11.2026
+GitLab | gitlab.com | DevOps ve kod yönetim platformu | 123 | 97 | Güçlü CI/CD güvenliği | 07.11.2026
+Bitbucket | bitbucket.org | Kod depolama ve yönetim servisi | 124 | 96 | Entegre Atlassian güvenliği | 07.11.2026
+Replit | replit.com | Tarayıcı tabanlı kodlama platformu | 125 | 93 | İzolasyonlu çalışma alanları | 07.11.2026
+CodePen | codepen.io | Sosyal kod editörü | 126 | 92 | Güvenli canlı önizleme altyapısı | 07.11.2026
+JSFiddle | jsfiddle.net | Çevrimiçi kod test alanı | 127 | 90 | Temel izolasyon protokolleri | 07.11.2026
+StackBlitz | stackblitz.com | WebContainers IDE platformu | 128 | 95 | Tarayıcı tabanlı güvenli kod yürütme | 07.11.2026
+LeetCode | leetcode.com | Algoritma ve mülakat alıştırma platformu | 129 | 94 | Güvenli kod değerlendirme sunucuları | 07.11.2026
+HackerRank | hackerrank.com | Kodlama becerileri değerlendirme sitesi | 130 | 95 | Kurumsal sınav güvenliği | 07.11.2026
+Codewars | codewars.com | Kodlama alıştırma topluluğu | 131 | 91 | Temel hesap güvenliği | 07.11.2026
+GeeksforGeeks | geeksforgeeks.org | Bilgisayar bilimi portalı | 132 | 89 | Standart HTTPS şifrelemesi | 07.11.2026
+W3Schools | w3schools.com | Web geliştirme eğitim sitesi | 133 | 93 | Temiz arayüz ve SSL | 07.11.2026
+MDN Web Docs | developer.mozilla.org | Mozilla geliştirici dokümantasyonu | 134 | 98 | Açık standartlar ve yüksek güvenlik | 07.11.2026
+npm | npmjs.com | JavaScript paket kayıt dizini | 135 | 96 | Güvenlik açığı taramaları ve 2FA | 07.11.2026
+PyPI | pypi.org | Python yazılım paket deposu | 136 | 96 | Güvenlik imzaları ve doğrulama | 07.11.2026
+NuGet | nuget.org | .NET paket yönetim platformu | 137 | 97 | Microsoft koruması ve paket imzalama | 07.11.2026
+Packagist | packagist.org | PHP Composer paket deposu | 138 | 93 | Güvenli paket indeksleme | 07.11.2026
+RubyGems | rubygems.org | Ruby gem barındırma servisi | 139 | 93 | Paket doğrulama protokolleri | 07.11.2026
+Maven Central | search.maven.org | Java kütüphaneleri deposu | 140 | 96 | Sıkı imzalama gereksinimleri | 07.11.2026
+Hugging Face | huggingface.co | Yapay zeka model paylaşım platformu | 141 | 95 | Güvenli model ve veri barındırma | 07.11.2026
+Kaggle | kaggle.com | Veri bilimi topluluğu platformu | 142 | 96 | Google altyapısı ve veri koruması | 07.11.2026
+Perplexity AI | perplexity.ai | Yapay zeka arama motoru | 143 | 94 | Güncel SSL şifreleme standartları | 07.11.2026
+Midjourney | midjourney.com | Görsel üreten yapay zeka | 144 | 93 | Güvenli web paneli ve ödeme | 07.11.2026
+RunwayML | runwayml.com | Yapay zeka video üretim aracı | 145 | 94 | Güvenli bulut işleme | 07.11.2026
+ElevenLabs | elevenlabs.io | AI ses sentezi platformu | 146 | 94 | Güçlü veri şifreleme | 07.11.2026
+Civitai | civitai.com | Açık kaynak AI model paylaşımı | 147 | 82 | Standart SSL; kullanıcı üreteci içerik | 07.11.2026
+Remove.bg | remove.bg | Arka plan silme aracı | 148 | 92 | Hızlı veri silme garantisi ve SSL | 07.11.2026
+DeepL | deepl.com | Yapay zeka çeviri servisi | 149 | 97 | Katı veri gizliliği standartları | 07.11.2026
+Jasper AI | jasper.ai | AI içerik yazarı platformu | 150 | 93 | Güvenli bulut veri depolama | 07.11.2026
+Copy.ai | copy.ai | Metin yazarlığı AI aracı | 151 | 93 | Standart kurumsal bulut güvenliği | 07.11.2026
+Scribe | scribehow.com | Süreç dokümantasyon aracı | 152 | 94 | Ekran yakalama veri maskeleme | 07.11.2026
+Loom | loom.com | Ekran kaydı ve video mesajlaşma | 153 | 95 | Atlassian güvencesinde şifreli video | 07.11.2026
+Mural | mural.co | Görsel ekip çalışması aracı | 154 | 94 | Kurumsal veri koruma standartları | 07.11.2026
+Whimsical | whimsical.com | Akış şeması ve tasarım aracı | 155 | 93 | Temiz arayüz ve SSL | 07.11.2026
+Lucidchart | lucidchart.com | Çevrimiçi diyagram oluşturma | 156 | 96 | SOC 2 Type II sertifikalı güvenlik | 07.11.2026
+Draw.io | draw.io | Ücretsiz açık kaynaklı diyagram çizimi | 157 | 96 | Tarayıcı tabanlı yerel çalışma gizliliği | 07.11.2026
+MindMeister | mindmeister.com | Zihin haritalama uygulaması | 158 | 92 | Güvenli veri iletimi | 07.11.2026
+Airtable | airtable.com | İlişkisel veritabanı platformu | 159 | 96 | Veritabanı seviyesinde şifreleme | 07.11.2026
+ClickUp | clickup.com | Görev ve verimlilik platformu | 160 | 95 | Güçlü AWS altyapısı | 07.11.2026
+Monday.com | monday.com | Ekip çalışma yönetimi yazılımı | 161 | 96 | ISO 27001 ve GDPR uyumlu koruma | 07.11.2026
+Smartsheet | smartsheet.com | Kurumsal tablo tabanlı iş yönetimi | 162 | 97 | Banka düzeyinde veri şifreleme | 07.11.2026
+Todoist | todoist.com | Görev takip uygulaması | 163 | 94 | Güvenli bulut senkronizasyonu | 07.11.2026
+TickTick | ticktick.com | Görev listesi ve odaklanma takvimi | 164 | 92 | Standart şifreleme protokolleri | 07.11.2026
+Evernote | evernote.com | Dijital not alma platformu | 165 | 93 | Güvenli depolama ve 2FA | 07.11.2026
+OneNote | onenote.com | Microsoft dijital not defteri | 166 | 97 | Microsoft 365 güvenlik entegrasyonu | 07.11.2026
+Obsidian Publish | obsidian.md | Dijital bahçe yayın platformu | 167 | 96 | Uçtan uca şifreli senkronizasyon | 07.11.2026
+Roam Research | roamresearch.com | Ağ tabanlı araştırma notları | 168 | 92 | Güvenli bulut veritabanı | 07.11.2026
+Coda | coda.io | Doküman ve veritabanı platformu | 169 | 95 | SOC 2 sertifikalı şifreli veri | 07.11.2026
+Typeform | typeform.com | Etkileşimli çevrimiçi form oluşturucu | 170 | 94 | Güvenli veri toplama ve GDPR | 07.11.2026
+Jotform | jotform.com | Çevrimiçi form platformu | 171 | 94 | HIPAA uyumluluk ve SSL | 07.11.2026
+SurveyMonkey | surveymonkey.com | Anket ve pazar araştırması sitesi | 172 | 95 | Yüksek veri gizliliği standartları | 07.11.2026
+Qualtrics | qualtrics.com | Kurumsal deneyim yönetimi | 173 | 98 | Kurumsal veri güvenliği sertifikaları | 07.11.2026
+Formstack | formstack.com | İş akışı otomasyonu ve formlar | 174 | 95 | HIPAA/GDPR uyumlu altyapı | 07.11.2026
+Feedly | feedly.com | RSS haber takibi platformu | 175 | 92 | Temiz HTTPS ve güvenli oturum | 07.11.2026
+Pocket | getpocket.com | Web makalelerini kaydetme servisi | 176 | 94 | Mozilla bünyesinde güvenli veri yönetimi | 07.11.2026
+Instapaper | instapaper.com | Makale okuma ve kaydetme aracı | 177 | 91 | Minimalist ve güvenli web arayüzü | 07.11.2026
+Flipboard | flipboard.com | Dijital dergi derleme servisi | 178 | 90 | Güvenli içerik akışı | 07.11.2026
+Substack | substack.com | E-posta bülteni yayın platformu | 179 | 93 | Güvenli Stripe ödeme entegrasyonu | 07.11.2026
+Ghost | ghost.org | Açık kaynak yayıncılık platformu | 180 | 95 | Bağımsız ve güvenli CMS mimarisi | 07.11.2026
+Patreon | patreon.com | Üyelik ve içerik fonlama sitesi | 181 | 94 | Güvenli ödeme altyapısı | 07.11.2026
+Buy Me a Coffee | buymeacoffee.com | İçerik üreticilerine bağış platformu | 182 | 93 | Stripe/PayPal entegrasyon güvenliği | 07.11.2026
+Kickstarter | kickstarter.com | Yaratıcı projeler için kitle fonlaması | 183 | 95 | Güvenli ödeme geçitleri | 07.11.2026
+Indiegogo | indiegogo.com | Global kitle fonlaması pazaryeri | 184 | 93 | Sağlam HTTPS altyapısı | 07.11.2026
+GoFundMe | gofundme.com | Bireysel yardım fonlama platformu | 185 | 95 | Dolandırıcılık koruması ve şifreleme | 07.11.2026
+Change.org | change.org | Çevrimiçi imza kampanyası sitesi | 186 | 92 | Güvenli kullanıcı doğrulama | 07.11.2026
+Product Hunt | producthunt.com | Yeni teknolojik ürün keşif platformu | 187 | 93 | Temiz HTTPS bağlantısı | 07.11.2026
+Hacker News | news.ycombinator.com | Teknoloji ve girişim haber sitesi | 188 | 97 | Minimalist, reklamsız ve güvenli | 07.11.2026
+Slashdot | slashdot.org | Teknoloji haber tartışma sitesi | 189 | 90 | Standart HTTPS altyapısı | 07.11.2026
+TechCrunch | techcrunch.com | Teknoloji yayın organı | 190 | 91 | Yahoo altyapısı güvencesinde yayın | 07.11.2026
+Ars Technica | arstechnica.com | Teknoloji ve bilim analiz sitesi | 191 | 93 | Condé Nast bünyesinde güvenli yayın | 07.11.2026
+The Verge | theverge.com | Teknoloji ve kültür haber portalı | 192 | 92 | Vox Media güvenli web altyapısı | 07.11.2026
+Wired | wired.com | Teknoloji ve bilim dergisi sitesi | 193 | 93 | SSL bağlantısı ve abonelik koruması | 07.11.2026
+Engadget | engadget.com | Tüketici elektroniği haberleri | 194 | 90 | Yahoo altyapılı HTTPS koruması | 07.11.2026
+Gizmodo | gizmodo.com | Tasarım ve teknoloji haber sitesi | 195 | 88 | SSL mevcut; reklam izleyicileri barındırır | 07.11.2026
+9to5Mac | 9to5mac.com | Apple haberleri platformu | 196 | 89 | Standart HTTPS şifrelemesi | 07.11.2026
+Android Authority | androidauthority.com | Mobil teknoloji rehber sitesi | 197 | 90 | Güvenli içerik iletimi | 07.11.2026
+GSM Arena | gsmarena.com | Telefon özellikleri veritabanı | 198 | 91 | Temiz HTTPS yayını | 07.11.2026
+Tom's Hardware | tomshardware.com | Bilgisayar donanım test sitesi | 199 | 90 | Future PLC güvencesinde web yayın | 07.11.2026
+AnandTech | anandtech.com | Donanım analiz ve inceleme sitesi | 200 | 91 | Güvenli arşiv ve SSL | 07.11.2026
+Guru3D | guru3d.com | Ekran kartı inceleme ve donanım sitesi | 201 | 88 | Güvenli dosya indirme bağlantıları | 07.11.2026
+TechPowerUp | techpowerup.com | Donanım veritabanı ve yazılım sitesi | 202 | 90 | Güvenli indirmeler ve HTTPS | 07.11.2026
+PCPartPicker | pcpartpicker.com | Bilgisayar toplama aracı | 203 | 95 | Reklamsız temiz yapı ve yüksek veri güvenliği | 07.11.2026
+UserBenchmark | userbenchmark.com | Donanım performans karşılaştırması | 204 | 85 | Standart HTTPS şifrelemesi | 07.11.2026
+Geekbench | geekbench.com | İşlemci ve ekran kartı veritabanı | 205 | 94 | Primate Labs güvencesinde veri sunumu | 07.11.2026
+PassMark | passmark.com | Performans testleri derece dizini | 206 | 92 | Güvenli indirmeler ve SSL | 07.11.2026
+APKMirror | apkmirror.com | Android uygulama arşiv sitesi | 207 | 88 | Sıkı imza doğrulaması yapan güvenli platform | 07.11.2026
+Aptoide | aptoide.com | Alternatif Android uygulama mağazası | 208 | 72 | 3. taraf mağaza içeriği kontrolü gerektirir | 07.11.2026
+F-Droid | f-droid.org | Açık kaynaklı Android uygulama deposu | 209 | 97 | Tamamen açık kaynak, reklamsız ve güvenli | 07.11.2026
+SlideShare | slideshare.net | Sunum paylaşım platformu | 210 | 89 | Scribd altyapısında SSL yayını | 07.11.2026
+Issuu | issuu.com | Dijital dergi ve broşür platformu | 211 | 91 | Güvenli medya akışı ve HTTPS | 07.11.2026
+Calaméo | calameo.com | Etkileşimli yayın oluşturma servisi | 212 | 90 | Güvenli içerik barındırma | 07.11.2026
+Archive Grid | researchworks.oclc.org | Arşiv materyalleri arama dizini | 213 | 95 | Akademik düzeyde yüksek güvenlik | 07.11.2026
+JSTOR | jstor.org | Akademik dergi dijital kütüphanesi | 214 | 97 | Yüksek akademik veri koruması | 07.11.2026
+ResearchGate | researchgate.net | Bilim insanları sosyal ağı | 215 | 93 | Güvenli akademik belge paylaşımı | 07.11.2026
+Academia.edu | academia.edu | Makale paylaşım platformu | 216 | 90 | SSL mevcut; pazarlama takibi barındırır | 07.11.2026
+SSRN | ssrn.com | Sosyal bilimler araştırma ağı | 217 | 94 | Elsevier altyapısında güvenli veritabanı | 07.11.2026
+arXiv | arxiv.org | Bilimsel e-baskı havuzu | 218 | 98 | Cornell Üniversitesi yönetiminde reklamsız ve güvenli | 07.11.2026
+PubMed | pubmed.ncbi.nlm.nih.gov | Biyotıp makale veritabanı | 219 | 99 | ABD Hükümeti (NIH) bünyesinde üst düzey güvenlik | 07.11.2026
+ScienceDirect | sciencedirect.com | Bilimsel makale portalı | 220 | 97 | Elsevier bünyesinde kurumsal koruma | 07.11.2026
+SpringerLink | link.springer.com | Bilimsel yayınlar veritabanı | 221 | 96 | Kurumsal akademik altyapı güvenliği | 07.11.2026
+Wiley Online Library | onlinelibrary.wiley.com | Akademik araştırma portalı | 222 | 96 | Güvenli yayın standartları | 07.11.2026
+Nature | nature.com | Bilimsel dergi platformu | 223 | 97 | Üst düzey yayıncılık web güvenliği | 07.11.2026
+Science | science.org | AAAS resmi araştırma dergisi portalı | 224 | 97 | Yüksek güvenlikli akademik altyapı | 07.11.2026
+Frontiers | frontiersin.org | Açık erişimli bilimsel dergiler | 225 | 93 | Güvenli içerik sunum ağı | 07.11.2026
+MDPI | mdpi.com | Açık erişim yayın platformu | 226 | 91 | Standart akademik web güvenliği | 07.11.2026
+PLOS ONE | plos.org | Bilim ve tıp dergisi platformu | 227 | 96 | Şeffaf ve yüksek güvenlikli altyapı | 07.11.2026
+Oxford Academic | academic.oup.com | Oxford University Press portalı | 228 | 97 | Üniversite seviyesinde yüksek veri koruması | 07.11.2026
+Cambridge Core | cambridge.org/core | Cambridge University Press platformu | 229 | 97 | Üst düzey akademik erişim güvenliği | 07.11.2026
+IEEE Xplore | ieeexplore.ieee.org | Mühendislik dijital kütüphanesi | 230 | 98 | IEEE kurumsal güvenliği ve korumalı veritabanı | 07.11.2026
+ACM Digital Library | dl.acm.org | Bilgisayar bilimleri dijital arşivi | 231 | 97 | Yüksek akademik web güvenliği | 07.11.2026
+WolframAlpha | wolframalpha.com | Hesaplamalı bilgi motoru | 232 | 97 | Üst seviye veri işleme güvenliği | 07.11.2026
+Overleaf | overleaf.com | Çevriveli LaTeX düzenleyici platformu | 233 | 97 | Güvenli proje barındırma ve şifreleme | 07.11.2026
+Mathway | mathway.com | Matematik problemi çözme servisi | 234 | 91 | Chegg altyapısında güvenli SSL | 07.11.2026
+Symbolab | symbolab.com | Denklem çözücü portalı | 235 | 92 | Güvenli web arayüzü | 07.11.2026
+Desmos | desmos.com | Grafik hesap makinesi | 236 | 96 | Reklamsız, güvenli eğitim altyapısı | 07.11.2026
+GeoGebra | geogebra.org | Matematik öğrenim yazılımı | 237 | 95 | Güvenli eğitim platformu ve HTTPS | 07.11.2026
+Khan Academy | khanacademy.org | Ücretsiz çevriveli eğitim platformu | 238 | 98 | Öğrenci veri koruma standartlarına uygun | 07.11.2026
+edX | edx.org | Üniversite çevriveli ders platformu | 239 | 96 | Kurumsal sertifika ve veri güvenliği | 07.11.2026
+FutureLearn | futurelearn.com | Çevriveli ders platformu | 240 | 94 | Yüksek veri koruma standartları | 07.11.2026
+Skillshare | skillshare.com | Yaratıcı sanat ve tasarım dersleri | 241 | 93 | Güvenli ödeme altyapısı | 07.11.2026
+MasterClass | masterclass.com | Uzmanlardan çevriveli video dersler | 242 | 95 | Üst düzey medya akış güvenliği | 07.11.2026
+Pluralsight | pluralsight.com | Teknoloji becerileri eğitim sitesi | 243 | 96 | Kurumsal düzeyde kullanıcı verisi koruması | 07.11.2026
+Codecademy | codecademy.com | Etkileşimli kodlama öğrenme platformu | 244 | 95 | Güvenli öğrenme ortamı | 07.11.2026
+Brilliant | brilliant.org | Matematik ve bilim dersleri platformu | 245 | 94 | Güvenli ödeme ve oturum yönetimi | 07.11.2026
+Quizlet | quizlet.com | Çalışma kartları portalı | 246 | 91 | Öğrenci verileri koruması | 07.11.2026
+Kahoot! | kahoot.com | Oyun tabanlı öğrenme platformu | 247 | 94 | Sınıf ortamlarına uygun veri güvenliği | 07.11.2026
+Memrise | memrise.com | Dil öğrenimi ve kelime ezberleme | 248 | 92 | Güvenli bağlantı ve hesap koruması | 07.11.2026
+Busuu | busuu.com | Dil öğrenim platformu | 249 | 93 | Chegg altyapısında güvenli veri iletimi | 07.11.2026
+Babbel | babbel.com | Çevriveli dil öğrenim servisi | 250 | 95 | Alman veri gizliliği standartlarında güvenlik | 07.11.2026
+Rosetta Stone | rosettastone.com | Dil eğitimi yazılımı portalı | 251 | 94 | Güvenli ödeme ve kurumsal altyapı | 07.11.2026
+AnkiWeb | ankiweb.net | Akıllı kart senkronizasyon portalı | 252 | 96 | Minimalist, güvenli ve reklamsız | 07.11.2026
+Tandem | tandem.net | Dil değişimi sohbet platformu | 253 | 91 | Güvenli topluluk ve veri koruması | 07.11.2026
+HelloTalk | hellotalk.com | Dil ve kültür değişimi uygulaması | 254 | 90 | Güvenli iletişim protokolleri | 07.11.2026
+italki | italki.com | Çevriveli dil öğretmenleri pazaryeri | 255 | 93 | Korumalı ödeme havuzlu güvenli platform | 07.11.2026
+Preply | preply.com | Özel ders öğretmenleri platformu | 256 | 93 | Güvenli görüntülü ders odaları | 07.11.2026
+Cambly | cambly.com | İngilizce eğitmenleriyle pratik servisi | 257 | 94 | Korumalı görüntülü görüşme altyapısı | 07.11.2026
+Chess.com | chess.com | Çevriveli satranç platformu | 258 | 94 | Güvenli sunucular ve hile önleme sistemleri | 07.11.2026
+Lichess | lichess.org | Açık kaynaklı satranç platformu | 259 | 99 | Açık kaynak, sıfır reklam ve mükemmel güvenlik | 07.11.2026
+IGN | ign.com | Oyun ve eğlence inceleme portalı | 260 | 90 | Ziff Davis bünyesinde güvenli HTTPS | 07.11.2026
+GameSpot | gamespot.com | Oyun haberleri ve incelemeleri | 261 | 90 | Fandom altyapılı güvenli web sitesi | 07.11.2026
+Kotaku | kotaku.com | Oyun kültürü haber sitesi | 262 | 87 | SSL var; yoğun reklam bannerları içerir | 07.11.2026
+Polygon | polygon.com | Oyun ve popüler kültür yayın sitesi | 263 | 91 | Vox Media güvenli yayın altyapısı | 07.11.2026
+PC Gamer | pcgamer.com | Masaüstü oyunları dergisi portalı | 264 | 89 | Future PLC bünyesinde SSL şifreli yayın | 07.11.2026
+Eurogamer | eurogamer.net | Oyun inceleme portalı | 265 | 91 | IGN Entertainment bünyesinde güvenli altyapı | 07.11.2026
+Rock Paper Shotgun | rockpapershotgun.com | PC oyun haber blogu | 266 | 90 | Güvenli HTTPS ve içerik dağıtımı | 07.11.2026
+Metacritic | metacritic.com | Eleştiri derleme platformu | 267 | 91 | Fandom bünyesinde güvenli SSL yayını | 07.11.2026
+OpenCritic | opencritic.com | Oyun puan derleme platformu | 268 | 93 | Reklamsız temiz yapı ve güvenli altyapı | 07.11.2026
+Nexus Mods | nexusmods.com | Video oyun modları platformu | 269 | 89 | Otomatik virüs taramalı güvenli indirme | 07.11.2026
+Mod DB | moddb.com | Oyun modları veritabanı | 270 | 87 | Standart HTTPS şifrelemesi | 07.11.2026
+CurseForge | curseforge.com | Oyun modları indirme platformu | 271 | 91 | Overwolf güvencesinde güvenli dosya dağıtımı | 07.11.2026
+Itch.io | itch.io | Bağımsız oyun pazaryeri | 272 | 94 | Güvenli oyun barındırma platformu | 07.11.2026
+Epic Games | epicgames.com | Oyun mağazası ve platformu | 273 | 96 | Kurumsal düzeyde mağaza ve ödeme güvenliği | 07.11.2026
+GOG.com | gog.com | DRM'siz oyun satış platformu | 274 | 96 | CD Projekt güvencesinde son derece güvenli | 07.11.2026
+Ubisoft Connect | ubisoft.com | Oyun dağıtım portalı | 275 | 94 | Kurumsal hesap ve ödeme güvenliği | 07.11.2026
+EA.com | ea.com | Resmi oyun mağazası ve portalı | 276 | 95 | Üst düzey ticari güvenlik | 07.11.2026
+Battle.net | battle.net | Oyun ve topluluk platformu | 277 | 96 | Authenticator destekli yüksek hesap güvenliği | 07.11.2026
+Riot Games | riotgames.com | Oyun yayıncısı portalı | 278 | 95 | Gelişmiş oyuncu hesabı güvenliği | 07.11.2026
+Unity | unity.com | 3D oyun motoru portalı | 279 | 96 | Kurumsal hesap güvenliği | 07.11.2026
+Unreal Engine | unrealengine.com | Oyun motoru platformu | 280 | 97 | Epic Games altyapısında üst düzey güvenlik | 07.11.2026
+Godot Engine | godotengine.org | Açık kaynaklı oyun motoru portalı | 281 | 98 | Tamamen güvenli ve reklamsız altyapı | 07.11.2026
+Blender | blender.org | Açık kaynaklı 3D yazılım portalı | 282 | 98 | Güvenilir vakıf altyapısı ve HTTPS | 07.11.2026
+ArtStation | artstation.com | Dijital sanatçılar için portföy platformu | 283 | 94 | Epic Games bünyesinde güvenli portföy | 07.11.2026
+DeviantArt | deviantart.com | Çizim ve sanat topluluğu platformu | 284 | 89 | Standart HTTPS şifrelemesi | 07.11.2026
+Behance | behance.net | Tasarım portföy ağ portalı | 285 | 96 | Adobe kurumsal altyapı güvencesi | 07.11.2026
+Dribbble | dribbble.com | Grafik tasarım topluluğu | 286 | 94 | Korumalı tasarım galerisi | 07.11.2026
+Envato Elements | elements.envato.com | Stok varlık abonelik sitesi | 287 | 94 | Güvenli dosya indirme ve şifreli ödeme | 07.11.2026
+Freepik | freepik.com | Vektör ve stok fotoğraf portalı | 288 | 90 | Güvenli indirme; sponsorlu reklamlar içerir | 07.11.2026
+Vecteezy | vecteezy.com | Ücretsiz vektör çizim portalı | 289 | 89 | Standart SSL koruması | 07.11.2026
+Flaticon | flaticon.com | Vektör ikon veritabanı | 290 | 92 | Freepik bünyesinde güvenli HTTPS yayını | 07.11.2026
+Font Awesome | fontawesome.com | Web ikonu kütüphanesi | 291 | 96 | Güvenli CDN dağıtımı | 07.11.2026
+Google Fonts | fonts.google.com | Açık kaynaklı web yazı tipleri kataloğu | 292 | 98 | Google CDN güvencesinde yüksek güvenlik | 07.11.2026
+DaFont | dafont.com | Yazı tipi indirme arşivi | 293 | 85 | HTTPS mevcut; harici font dosyaları barındırır | 07.11.2026
+Coolors | coolors.co | Renk paleti oluşturma aracı | 294 | 93 | Reklamsız temiz arayüz | 07.11.2026
+Adobe Color | color.adobe.com | Renk tekerleği tasarım aracı | 295 | 97 | Adobe bulut güvenliği standartları | 07.11.2026
+Photopea | photopea.com | Tarayıcıda çalışan resim düzenleyici | 296 | 92 | Tarayıcı tabanlı yerel resim işleme | 07.11.2026
+Pixlr | pixlr.com | Çevriveli fotoğraf düzenleme aracı | 297 | 88 | SSL şifreli; reklam ağı entegrasyonu barındırır | 07.11.2026
+GIPHY | giphy.com | GIF ve çıkartma veritabanı | 298 | 92 | Güvenli içerik sunum ağı | 07.11.2026
+Tenor | tenor.com | GIF arama servisi | 299 | 96 | Google altyapısında yüksek HTTPS güvenliği | 07.11.2026
+Imgur | imgur.com | Görsel barındırma sosyal platformu | 300 | 88 | SSL mevcut; kullanıcı kaynaklı içerik ortamı | 07.11.2026
+TinEye | tineye.com | Tersi görsel arama motoru | 301 | 95 | Reklamsız ve gizlilik odaklı arama | 07.11.2026
+Kapwing | kapwing.com | Çevriveli video düzenleyici portalı | 302 | 92 | Güvenli bulut tabanlı medya işleme | 07.11.2026
+Descript | descript.com | Ses ve video düzenleme uygulaması | 303 | 95 | SOC 2 sertifikalı güvenli ortam | 07.11.2026
+Clipchamp | clipchamp.com | Çevriveli video editörü portalı | 304 | 96 | Microsoft 365 güvenlik standartları | 07.11.2026
+Epidemic Sound | epidemicsound.com | Telifsiz müzik kütüphanesi | 305 | 95 | Üst seviye medya platformu güvenliği | 07.11.2026
+Bandcamp | bandcamp.com | Bağımsız müzik mağazası platformu | 306 | 95 | Doğrudan sanatçıya ödeme altyapısı | 07.11.2026
+Audible | audible.com | Sesli kitap platformu | 307 | 97 | Amazon güvencesinde ödeme ve hesap güvenliği | 07.11.2026
+Storytel | storytel.com | Sesli kitap abonelik servisi | 308 | 95 | Güvenli mobil ve web ödeme altyapısı | 07.11.2026
+LibriVox | librivox.org | Kamu malı sesli kitaplar arşivi | 309 | 96 | Reklamsız, kamu yararına çalışan güvenli platform | 07.11.2026
+Podbean | podbean.com | Podcast barındırma platformu | 310 | 93 | Güvenli RSS ve medya dağıtımı | 07.11.2026
+Anchor | anchor.fm | Podcast dağıtım platformu | 311 | 96 | Spotify altyapı güvenliği | 07.11.2026
+TuneIn | tunein.com | Radyo ve podcast akış portalı | 312 | 90 | SSL mevcut; yayın içi reklamlar barındırır | 07.11.2026
+Last.fm | last.fm | Müzik dinleme alışkanlığı takip ağı | 313 | 90 | Paramount altyapısında güvenli veri tutma | 07.11.2026
+Genius | genius.com | Şarkı sözleri bilgi platformu | 314 | 89 | Güvenli SSL bağlantısı | 07.11.2026
+Ultimate Guitar | ultimate-guitar.com | Gitar akorları ve tab topluluğu | 315 | 88 | SSL şifreli yayın | 07.11.2026
+Songsterr | songsterr.com | Etkileşimli gitar tab platformu | 316 | 93 | Reklamsız oynatıcı ve güvenli altyapı | 07.11.2026
+Reverb | reverb.com | Müzik aletleri pazaryeri | 317 | 95 | Etsy altyapısında son derece güvenli | 07.11.2026
+Thomann | thomann.de | Müzik ekipmanları e-ticaret sitesi | 318 | 96 | Güvenli ödeme ve AB tüketici koruması | 07.11.2026
+Sweetwater | sweetwater.com | Ses ve müzik mağazası | 319 | 96 | Üst seviye ödeme güvenliği | 07.11.2026
+B&H Photo Video | bhphotovideo.com | Fotoğraf ve elektronik mağazası | 320 | 96 | Doğrulanmış güvenli e-ticaret altyapısı | 07.11.2026
+Newegg | newegg.com | Bilgisayar parçaları e-ticaret sitesi | 321 | 94 | Güvenli alışveriş ve dolandırıcılık koruması | 07.11.2026
+Best Buy | bestbuy.com | Teknoloji mağazası portalı | 322 | 96 | Kurumsal düzeyde e-ticaret güvenliği | 07.11.2026
+Target | target.com | Perakende e-ticaret platformu | 323 | 95 | Güvenli ödeme geçitleri | 07.11.2026
+Costco | costco.com | Toptan ve perakende alışveriş sitesi | 324 | 96 | Yüksek ödeme koruması | 07.11.2026
+IKEA | ikea.com | Mobilya ve dekorasyon e-ticaret portalı | 325 | 96 | Uluslararası kurumsal güvenlik | 07.11.2026
+Wayfair | wayfair.com | Ev eşyaları e-ticaret sitesi | 326 | 94 | Güvenli SSL bağlantısı | 07.11.2026
+Home Depot | homedepot.com | Yapı market e-ticaret mağazası | 327 | 95 | Üst seviye ticari altyapı koruması | 07.11.2026
+Rakuten | rakuten.com | Küresel e-ticaret servisi | 328 | 94 | Uluslararası finansal güvenlik sertifikaları | 07.11.2026
+Mercado Libre | mercadolibre.com | E-ticaret ve ödeme ağı | 329 | 95 | Mercado Pago güvencesinde ödeme koruması | 07.11.2026
+Shopee | shopee.com | E-ticaret pazaryeri | 330 | 91 | Güvenli ödeme havuzu altyapısı | 07.11.2026
+Lazada | lazada.com | Asya e-ticaret platformu | 331 | 92 | Alibaba sunucu güvenliği | 07.11.2026
+Flipkart | flipkart.com | E-ticaret platformu | 332 | 93 | Walmart altyapı güvencesi | 07.11.2026
+ASOS | asos.com | Çevriveli moda mağazası | 333 | 95 | Güvenli alışveriş ve yüksek seviye SSL | 07.11.2026
+Zalando | zalando.com | Moda ve ayakkabı platformu | 334 | 96 | Katı AB tüketici güvenliği | 07.11.2026
+SHEIN | shein.com | Hızlı moda e-ticaret platformu | 335 | 80 | Şifreli ödeme; veri politikaları takibi | 07.11.2026
+Zara | zara.com | Moda markası e-ticaret sitesi | 336 | 96 | Inditex altyapısında üst düzey güvenlik | 07.11.2026
+H&M | hm.com | Giyim ve perakende web mağazası | 337 | 96 | Kurumsal seviyede e-ticaret güvenliği | 07.11.2026
+Uniqlo | uniqlo.com | Giyim markası web mağazası | 338 | 95 | Güvenli müşteri veri koruması | 07.11.2026
+Nike | nike.com | Spor giyim resmi e-ticaret portalı | 339 | 97 | Üst seviye marka koruması ve ödeme | 07.11.2026
+Adidas | adidas.com | Spor ürünleri e-ticaret mağazası | 340 | 97 | Güçlü ödeme geçitleri | 07.11.2026
+Puma | puma.com | Spor giyim markası web mağazası | 341 | 95 | Güvenli bağlantı altyapısı | 07.11.2026
+StockX | stockx.com | Ürün doğrulama pazaryeri | 342 | 93 | Doğrulanmış ürün garantisi ve şifreli ödeme | 07.11.2026
+GOAT | goat.com | Lüks sneaker alım-satım platformu | 343 | 93 | Ürün doğrulama sistemli güvenli platform | 07.11.2026
+Farfetch | farfetch.com | Lüks moda markaları pazaryeri | 344 | 95 | Üst düzey ticari güvenlik | 07.11.2026
+Depop | depop.com | İkinci el moda pazaryeri | 345 | 92 | Etsy altyapısında güvenli alışveriş | 07.11.2026
+Vinted | vinted.com | İkinci el giysi alım-satım platformu | 346 | 93 | Alıcı koruma fonu ve ödeme havuzu | 07.11.2026
+Poshmark | poshmark.com | İkinci el kıyafet alışveriş ağı | 347 | 93 | Korumalı ödeme sistemi | 07.11.2026
+Chrono24 | chrono24.com | Lüks saat alım-satım platformu | 348 | 95 | Güvenli emanet (Escrow) ödeme koruması | 07.11.2026
+AutoTrader | autotrader.com | Araç alım-satım portalı | 349 | 93 | Kapsamlı satıcı doğrulama altyapısı | 07.11.2026
+CarGurus | cargurus.com | İkinci el araç pazaryeri | 350 | 93 | Güvenli arama ve şifreli veri iletimi | 07.11.2026
+mobile.de | mobile.de | Araç alışveriş portalı | 351 | 95 | eBay altyapı güvencesinde yüksek güvenlik | 07.11.2026
+AutoScout24 | autoscout24.com | Araç pazarı platformu | 352 | 94 | Güvenli kullanıcı doğrulama | 07.11.2026
+Zillow | zillow.com | Emlak alım-satım portalı | 353 | 95 | Üst düzey veri güvenliği ve doğrulama | 07.11.2026
+Realtor.com | realtor.com | Emlak ilanları platformu | 354 | 95 | Güvenli kullanıcı veri iletimi | 07.11.2026
+Redfin | redfin.com | Çevriveli konut satış platformu | 355 | 94 | Güvenli harita ve müşteri veri altyapısı | 07.11.2026
+Rightmove | rightmove.co.uk | Emlak ve konut portalı | 356 | 95 | Yüksek kurumsal güvenlik | 07.11.2026
+Expedia | expedia.com | Seyahat rezervasyonu platformu | 357 | 96 | PCI-DSS uyumlu üst düzey ödeme güvenliği | 07.11.2026
+Kayak | kayak.com | Seyahat arama motoru | 358 | 95 | Booking Holdings güvencesinde veri aktarımı | 07.11.2026
+Skyscanner | skyscanner.net | Bilet karşılaştırma platformu | 359 | 95 | Trip.com altyapısında güvenli arama | 07.11.2026
+Agoda | agoda.com | Konaklama rezervasyon platformu | 360 | 95 | Booking Holdings bünyesinde ödeme koruması | 07.11.2026
+Hotels.com | hotels.com | Otel rezervasyon portalı | 361 | 95 | Expedia altyapısında güvenli SSL | 07.11.2026
+Trip.com | trip.com | Seyahat acentesi sitesi | 362 | 95 | Küresel ödeme güvenliği standartları | 07.11.2026
+Flightradar24 | flightradar24.com | Canlı uçuş takibi haritası | 363 | 96 | Güvenli ADS-B veri akışı ve yüksek güvenlik | 07.11.2026
+MarineTraffic | marinetraffic.com | Canlı gemi takibi portalı | 364 | 95 | Güvenli harita sunucuları | 07.11.2026
+Rome2rio | rome2rio.com | Ulaşım rotaları alternatifleri | 365 | 93 | Güvenli rota arama altyapısı | 07.11.2026
+Omio | omio.com | Bilet arama platformu | 366 | 94 | Güvenli biletleme ve ödeme altyapısı | 07.11.2026
+Trainline | thetrainline.com | Tren biletleri satış platformu | 367 | 95 | Yüksek ödeme koruması | 07.11.2026
+FlixBus | flixbus.com | Otobüs bileti alma portalı | 368 | 94 | Güvenli mobil ve web ödeme altyapısı | 07.11.2026
+Google Maps | maps.google.com | Harita ve navigasyon servisi | 369 | 99 | Google üst düzey altyapı güvenliği | 07.11.2026
+OpenStreetMap | openstreetmap.org | Özgür dünya haritası projesi | 370 | 98 | Topluluk odaklı, reklamsız ve güvenli | 07.11.2026
+Waze | waze.com | Canlı trafik navigasyonu | 371 | 97 | Google altyapısında yüksek veri şifrelemesi | 07.11.2026
+Strava | strava.com | Sporcular için GPS takip sitesi | 372 | 95 | Konum gizliliği kontrolleri ve yüksek koruma | 07.11.2026
+AllTrails | alltrails.com | Doğa rotaları keşif platformu | 373 | 94 | Güvenli harita servisi ve hesap koruması | 07.11.2026
+Komoot | komoot.com | Rota planlama platformu | 374 | 94 | Güvenli sunucular ve senkronizasyon | 07.11.2026
+AccuWeather | accuweather.com | Hava durumu tahmini portalı | 375 | 90 | Güvenli HTTPS yayını | 07.11.2026
+Windy | windy.com | Canlı rüzgar ve hava haritası | 376 | 96 | Reklamsız temiz yapı ve sunucu güvenliği | 07.11.2026
+YR.no | yr.no | Resmi hava tahmini platformu | 377 | 98 | Kamu kurumu güvencesinde reklamsız ve güvenli | 07.11.2026
+Meteoblue | meteoblue.com | Hava tahmini portalı | 378 | 94 | Güvenli web altyapısı | 07.11.2026
+Ventusky | ventusky.com | Canlı hava haritası | 379 | 95 | Temiz arayüz ve yüksek bağlantı güvenliği | 07.11.2026
+Time and Date | timeanddate.com | Dünya saatleri ve takvim verileri | 380 | 96 | Reklamsız, son derece doğru ve güvenli | 07.11.2026
+Worldometer | worldometers.info | Canlı dünya istatistikleri | 381 | 91 | HTTPS şifrelemesi ve veri yayın güvenliği | 07.11.2026
+Statista | statista.com | İstatistik veritabanı portalı | 382 | 96 | Kurumsal düzeyde veri güvenliği | 07.11.2026
+Our World in Data | ourworldindata.org | Küresel araştırma veri sitesi | 383 | 98 | Oxford Üniversitesi destekli güvenli altyapı | 07.11.2026
+Trading Economics | tradingeconomics.com | Ekonomik göstergeler ve borsa | 384 | 93 | Doğrulanmış veri akışı | 07.11.2026
+Investing.com | investing.com | Finans piyasaları portalı | 385 | 89 | SSL var; yoğun reklamlar içerir | 07.11.2026
+Yahoo Finance | finance.yahoo.com | Borsa verileri ve finans haberleri | 386 | 92 | Yahoo altyapısında güvenli veri aktarımı | 07.11.2026
+MarketWatch | marketwatch.com | Finansal analiz portalı | 387 | 93 | Dow Jones bünyesinde güvenli yayın | 07.11.2026
+Seeking Alpha | seekingalpha.com | Hisse analizi ve yatırım topluluğu | 388 | 92 | Güvenli hesap koruması | 07.11.2026
+Morningstar | morningstar.com | Yatırım araştırması portalı | 389 | 95 | Kurumsal düzeyde finansal veri güvenliği | 07.11.2026
+FINVIZ | finviz.com | Finansal görselleştirme aracı | 390 | 91 | Temiz veri sunumu ve HTTPS | 07.11.2026
+CoinGecko | coingecko.com | Kripto para veri takibi | 391 | 92 | Güvenli HTTPS yayını | 07.11.2026
+CoinDesk | coindesk.com | Kripto para haber portalı | 392 | 92 | Güvenli yayın standartları | 07.11.2026
+CoinTelegraph | cointelegraph.com | Blok zincir haber platformu | 393 | 90 | SSL mevcut; 3. taraf reklamlar içerir | 07.11.2026
+DefiLlama | defillama.com | DeFi TVL ve analitik platformu | 394 | 96 | Reklamsız, doğrulabilir güvenli altyapı | 07.11.2026
+Etherscan | etherscan.io | Ethereum blok zinciri gezgini | 395 | 97 | Blok zincir verileri için yüksek güvenlik | 07.11.2026
+BscScan | bscscan.com | BNB Smart Chain blok gezgini | 396 | 96 | Güvenli veri doğrulaması | 07.11.2026
+Solscan | solscan.io | Solana blok zinciri arama servisi | 397 | 95 | Güvenli zincir içi veri sunumu | 07.11.2026
+Blockchain.com | blockchain.com | Kripto cüzdan ve gezgin | 398 | 94 | Yüksek finansal veri şifrelemesi | 07.11.2026
+Coinbase | coinbase.com | Lisanslı kripto borsası | 399 | 97 | Banka seviyesinde siber güvenlik | 07.11.2026
+Binance | binance.com | Kripto alım-satım borsası | 400 | 95 | SAFA fonu korumalı borsa güvenliği | 07.11.2026
+Kraken | kraken.com | Kripto varlık borsası | 401 | 98 | Sektör lideri soğuk depolama güvenliği | 07.11.2026
+KuCoin | kucoin.com | Kripto para alım-satım platformu | 402 | 91 | Gelişmiş şifreleme altyapısı | 07.11.2026
+Bybit | bybit.com | Kripto türev işlem platformu | 403 | 93 | Çift katmanlı doğrulama altyapısı | 07.11.2026
+OKX | okx.com | Kripto borsası ekosistemi | 404 | 94 | Rezerv kanıtı şeffaflığı | 07.11.2026
+Gemini Exchange | gemini.com | Düzenlemeli kripto borsası | 405 | 97 | SOC 2 sertifikalı güvenlik standartları | 07.11.2026
+MetaMask | metamask.io | Web3 cüzdan portalı | 406 | 96 | Yerel anahtar depolama altyapısı | 07.11.2026
+OpenSea | opensea.io | NFT pazaryeri platformu | 407 | 92 | Akıllı sözleşme entegrasyonu ve HTTPS | 07.11.2026
+Magic Eden | magiceden.io | Çapraz zincir NFT pazaryeri | 408 | 93 | Güvenli cüzdan bağlantısı | 07.11.2026
+Rarible | rarible.com | NFT oluşturma ve satış platformu | 409 | 91 | Standart Web3 bağlantı güvenliği | 07.11.2026
+DappRadar | dappradar.com | dApp takip platformu | 410 | 93 | Güvenli veri doğrulaması | 07.11.2026
+Messari | messari.io | Kripto araştırma ve analitik | 411 | 95 | Kurumsal veri koruma standartları | 07.11.2026
+Glassnode | glassnode.com | On-chain veri analiz platformu | 412 | 96 | Yüksek veri doğruluğu ve sunucu koruması | 07.11.2026
+Dune Analytics | dune.com | Kripto veri panelleri | 413 | 95 | Güvenli SQL veritabanı altyapısı | 07.11.2026
+Wise | wise.com | Uluslararası para transferi servisi | 414 | 98 | Banka seviyesinde FCA güvenlik denetimi | 07.11.2026
+Revolut | revolut.com | Dijital bankacılık uygulaması | 415 | 97 | Biyometrik koruma ve bankacılık lisansı | 07.11.2026
+Remitly | remitly.com | Dijital para gönderme servisi | 416 | 96 | Sıkı finansal şifreleme | 07.11.2026
+Western Union | westernunion.com | Para transferi dijital portalı | 417 | 96 | Gelişmiş SSL şifreleme altyapısı | 07.11.2026
+MoneyGram | moneygram.com | Küresel ödeme platformu | 418 | 95 | Üst düzey dolandırıcılık önleme | 07.11.2026
+Payoneer | payoneer.com | Uluslararası ödeme ağı | 419 | 96 | PCI DSS sertifikalı güvenli ödeme | 07.11.2026
+Skrill | skrill.com | Dijital cüzdan platformu | 420 | 94 | FCA lisanslı finansal şifreleme | 07.11.2026
+NETELLER | neteller.com | E-para transfer hesabı | 421 | 94 | Güvenli 2FA ve şifreli veri iletimi | 07.11.2026
+Klarna | klarna.com | E-ticaret ödeme çözümü | 422 | 96 | Bankacılık lisanslı üst düzey veri koruması | 07.11.2026
+Afterpay | afterpay.com | Taksitli alışveriş platformu | 423 | 95 | Block bünyesinde yüksek finansal güvenlik | 07.11.2026
+Affirm | affirm.com | Çevriveli taksitlendirme platformu | 424 | 95 | ABD bankacılık standartlarında şifreleme | 07.11.2026
+Plaid | plaid.com | Finansal API altyapısı | 425 | 98 | Banka düzeyinde AES-256 ve TLS 1.3 | 07.11.2026
+YNAB | youneedabudget.com | Kişisel bütçe uygulaması | 426 | 96 | Banka seviyesinde veri şifreleme | 07.11.2026
+Personal Capital | personalcapital.com | Servet yönetimi aracı | 427 | 97 | SOC 2 sertifikalı finansal altyapı | 07.11.2026
+Credit Karma | creditkarma.com | Kredi skoru platformu | 428 | 96 | Intuit güvencesinde müşteri verisi koruması | 07.11.2026
+Experian | experian.com | Kredi raporlama kuruluşu | 429 | 96 | Üst seviye veri güvenliği | 07.11.2026
+Equifax | equifax.com | Finansal veri kuruluşu | 430 | 94 | Güçlendirilmiş siber savunma mimarisi | 07.11.2026
+TransUnion | transunion.com | Kredi riski analizi portalı | 431 | 96 | Kurumsal düzeyde finansal veri güvenliği | 07.11.2026
+Robinhood | robinhood.com | Borsa alım-satım uygulaması | 432 | 94 | FINRA ve SIPC korumalı finansal altyapı | 07.11.2026
+Webull | webull.com | Borsa yatırım platformu | 433 | 94 | SEC ve FINRA düzenlemeli güvenli altyapı | 07.11.2026
+eToro | etoro.com | Sosyal yatırım platformu | 434 | 95 | FCA ve CySEC lisanslı altyapı | 07.11.2026
+Interactive Brokers | interactivebrokers.com | Profesyonel borsa platformu | 435 | 98 | Üst düzey denetlenen finansal altyapı | 07.11.2026
+Charles Schwab | charleschwab.com | Yatırım şirketi portalı | 436 | 98 | Kurumsal düzeyde en yüksek veri koruması | 07.11.2026
+Fidelity | fidelity.com | Varlık yönetimi platformu | 437 | 98 | Üst seviye siber güvenlik standartları | 07.11.2026
+Vanguard | vanguard.com | Yatırım şirketi portalı | 438 | 98 | Endüstri lideri kurumsal finansal güvenlik | 07.11.2026
+E*TRADE | etrade.com | Borsa servisi portalı | 439 | 97 | Morgan Stanley altyapısında koruma | 07.11.2026
+Midas | getmidas.com | Yatırım uygulaması portalı | 440 | 96 | SPK lisanslı ve Takasbank güvencesinde | 07.11.2026
+Papara | papara.com | Elektronik para ve cüzdan servisi | 441 | 96 | TCMB denetiminde banka seviyesinde şifreleme | 07.11.2026
+İninal | ininal.com | Dijital cüzdan hizmeti portalı | 442 | 94 | BDDK ve TCMB lisanslı ödeme altyapısı | 07.11.2026
+Tosla | tosla.com | Dijital cüzdan uygulaması | 443 | 96 | Akbank güvencesinde yüksek güvenlik | 07.11.2026
+iyzico | iyzico.com | Ödeme altyapısı sağlayıcısı | 444 | 98 | PCI-DSS Level 1 sertifikalı güvenlik | 07.11.2026
+PayTR | paytr.com | Sanal pos ve ödeme çözümleri | 445 | 97 | TCMB lisanslı ve PCI-DSS uyumlu altyapı | 07.11.2026
+Param | param.com.tr | Elektronik para hizmetleri | 446 | 96 | TCMB lisanslı finansal sistem | 07.11.2026
+Garanti BBVA | garantibbva.com.tr | İnternet bankacılığı portalı | 447 | 98 | Bankacılık standartlarında yüksek güvenlik | 07.11.2026
+İş Bankası | isbank.com.tr | İnternet bankacılığı portalı | 448 | 98 | BDDK uyumlu üst seviye güvenlik | 07.11.2026
+Akbank | akbank.com | Finansal hizmetler portalı | 449 | 98 | Sıkı BDDK standartlarında şifreleme | 07.11.2026
+Yapı Kredi | yapikredi.com.tr | İnternet bankacılığı portalı | 450 | 98 | Yüksek şifreleme altyapısı | 07.11.2026
+Ziraat Bankası | ziraatbank.com.tr | Kamu bankası resmi portalı | 451 | 98 | Kamu bankacılığı standartlarında güvenlik | 07.11.2026
+VakıfBank | vakifbank.com.tr | İnternet şubesi portalı | 452 | 98 | Yüksek siber güvenlik koruması | 07.11.2026
+Halkbank | halkbank.com.tr | İnternet bankacılığı portalı | 453 | 98 | Güvenli bankacılık sunucuları | 07.11.2026
+QNB Finansbank | qnbfinansbank.com | Finansal hizmetler portalı | 454 | 98 | Uluslararası güvenlik standartları | 07.11.2026
+Enpara.com | enpara.com | Şubesiz dijital bankacılık servisi | 455 | 98 | QNB güvencesinde veri güvenliği | 07.11.2026
+TEB | teb.com.tr | Bankacılık portalı | 456 | 98 | BNP Paribas küresel güvenlik standartları | 07.11.2026
+DenizBank | denizbank.com | Bankacılık portalı | 457 | 97 | Güvenli şifreleme ve BDDK uyumu | 07.11.2026
+Kuveyt Türk | kuveytturk.com.tr | Katılım bankacılığı portalı | 458 | 98 | BDDK onaylı yüksek şifrelemeli sistemler | 07.11.2026
+E-Devlet | turkiye.gov.tr | Dijital kamu hizmetleri portalı | 459 | 99 | Devlet seviyesinde en yüksek siber güvenlik | 07.11.2026
+GİB | gib.gov.tr | Gelir İdaresi Başkanlığı portalı | 460 | 99 | Kamu veritabanı güvenliği ve SSL | 07.11.2026
+SGK | sgk.gov.tr | Sosyal Güvenlik Kurumu portalı | 461 | 98 | Devlet güvencesinde veri koruması | 07.11.2026
+MHRS | mhrs.gov.tr | Merkezi Hekim Randevu Sistemi | 462 | 99 | Sağlık verileri koruma standartlarında güvenli | 07.11.2026
+E-Nabız | enabiz.gov.tr | Kişisel sağlık kaydı sistemi | 463 | 99 | Çift faktörlü devlet doğrulamalı güvenlik | 07.11.2026
+ÖSYM | osym.gov.tr | Sınav merkezi resmi portalı | 464 | 98 | Kamu sınav sistemi güvenliği | 07.11.2026
+MEB | meb.gov.tr | Millî Eğitim Bakanlığı portalı | 465 | 98 | Devlet altyapılı sunucu güvenliği | 07.11.2026
+EBA | eba.gov.tr | Eğitim Bilişim Ağı platformu | 466 | 98 | Çocuk veri gizliliğine uygun kamu platformu | 07.11.2026
+UYAP | uyap.gov.tr | Ulusal Yargı Ağı Bilişim Sistemi | 467 | 99 | Adli veriler için en yüksek siber güvenlik | 07.11.2026
+TCMB | tcmb.gov.tr | Merkez Bankası resmi sitesi | 468 | 99 | En yüksek seviye bankacılık web güvenliği | 07.11.2026
+Borsa İstanbul | borsaistanbul.com | Sermaye piyasası platformu | 469 | 98 | Finansal veri ve web altyapı güvenliği | 07.11.2026
+KVKK | kvkk.gov.tr | Kişisel Verileri Koruma Kurumu | 470 | 99 | Veri gizliliği kurumu siber standartları | 07.11.2026
+BTK | btk.gov.tr | İletişim Kurumu portalı | 471 | 98 | Düzenleyici kurum siber koruması | 07.11.2026
+TRT | trt.net.tr | Kamu yayıncılığı resmi sitesi | 472 | 96 | Yüksek web güvenliği ve SSL | 07.11.2026
+Anadolu Ajansı | aa.com.tr | Resmi haber ajansı portalı | 473 | 96 | Güvenli basın yayın altyapısı | 07.11.2026
+Hürriyet | hurriyet.com.tr | Günlük haber portalı | 474 | 88 | SSL korumalı; reklam izleyicileri içerir | 07.11.2026
+Milliyet | milliyet.com.tr | Haber yayın sitesi | 475 | 87 | SSL mevcut; reklam ağları entegredir | 07.11.2026
+Sözcü | sozcu.com.tr | Haber sitesi | 476 | 88 | Güvenli HTTPS yayını | 07.11.2026
+Habertürk | haberturk.com | Gündem haber portalı | 477 | 89 | Ciner Medya altyapısında SSL bağlantısı | 07.11.2026
+NTV | ntv.com.tr | Haber portalı | 478 | 91 | Doğuş Grubu güvencesinde web güvenliği | 07.11.2026
+CNN Türk | cnnturk.com | Haber yayın portalı | 479 | 88 | Güvenli bağlantı ve medya altyapısı | 07.11.2026
+Cumhuriyet | cumhuriyet.com.tr | Dijital haber portalı | 480 | 89 | Standart HTTPS şifrelemesi | 07.11.2026
+Sabah | sabah.com.tr | Haber ve gazete platformu | 481 | 88 | SSL korumalı altyapı | 07.11.2026
+Dünya Gazetesi | dunya.com | Finans gazetesi portalı | 482 | 92 | Kurumsal habercilik güvenliği | 07.11.2026
+Webrazzi | webrazzi.com | Teknoloji haber platformu | 483 | 93 | Temiz arayüz ve SSL | 07.11.2026
+ShiftDelete.Net | shiftdelete.net | Teknoloji inceleme portalı | 484 | 90 | Güvenli HTTPS yayını | 07.11.2026
+DonanımHaber | donanimhaber.com | Teknoloji forumu ve haber sitesi | 485 | 89 | Forum altyapısı ve SSL koruması | 07.11.2026
+Webtekno | webtekno.com | Teknoloji ve bilim portalı | 486 | 90 | Güvenli içerik iletim ağı | 07.11.2026
+Technopat | technopat.net | Teknik destek forumu ve haber | 487 | 92 | Güncel HTTPS ve güvenli forum yazılımı | 07.11.2026
+Ekşi Sözlük | eksisozluk.com | Katılımcı sözlük platformu | 488 | 85 | Güvenli SSL var; erişim dalgalanmaları mevcut | 07.11.2026
+Onedio | onedio.com | Sosyal içerik platformu | 489 | 87 | HTTPS korumalı; sponsorlu reklamlar içerir | 07.11.2026
+KızlarSoruyor | kizlarsoruyor.com | Soru-cevap sitesi | 490 | 87 | Güvenli bağlantı ve SSL | 07.11.2026
+R10.net | r10.net | Webmaster forumu | 491 | 91 | Sıkı üyelik doğrulaması ve HTTPS | 07.11.2026
+WM Aracı | wmaraci.com | Web geliştirici topluluk sitesi | 492 | 89 | Güvenli forum altyapısı | 07.11.2026
+Bionluk | bionluk.com | Freelancer hizmet platformu | 493 | 94 | Güvenli havuz ödeme sistemi | 07.11.2026
+Armut | armut.com | Hizmet bulma sitesi | 494 | 94 | Korumalı müşteri ödeme altyapısı | 07.11.2026
+Sahibinden | sahibinden.com | Seri ilan ve alışveriş platformu | 495 | 96 | Güvenli ödeme sistemi ve siber güvenlik | 07.11.2026
+Hepsiburada | hepsiburada.com | E-ticaret pazaryeri portalı | 496 | 97 | ISO 27001 sertifikalı üst düzey güvenlik | 07.11.2026
+Trendyol | trendyol.com | Pazaryeri ve lojistik ağı | 497 | 97 | Yüksek siber savunma mimarisi | 07.11.2026
+n11 | n11.com | E-ticaret platformu | 498 | 96 | Güvenli ödeme geçidi ve SSL | 07.11.2026
+Ciceksepeti | ciceksepeti.com | Hediye ve pazar yeri sitesi | 499 | 95 | Korumalı ödeme ve üyelik altyapısı | 07.11.2026
+Pazarama | pazarama.com | Çevriveli alışveriş platformu | 500 | 96 | Türkiye İş Bankası iştiraki yüksek güvenlik | 07.11.2026
+Getir | getir.com | Hızlı teslimat ve e-ticaret servisi | 501 | 96 | Üst düzey mobil ve web ödeme güvenliği | 07.11.2026
+Yemeksepeti | yemeksepeti.com | Çevriveli yemek sipariş platformu | 502 | 94 | Delivery Hero güvencesinde şifreli altyapı | 07.11.2026
+Trendyol Yemek | trendyol.com/yemek | Yemek siparişi ve kurye servisi | 503 | 96 | Trendyol altyapısında yüksek ödeme güvenliği | 07.11.2026
+Migros Sanal Market | migros.com.tr | Çevriveli market alışveriş portalı | 504 | 96 | Kurumsal e-ticaret ve müşteri verisi koruması | 07.11.2026
+CarrefourSA | carrefoursa.com | Çevriveli hipermarket platformu | 505 | 95 | Sabancı Holding güvencesinde SSL | 07.11.2026
+A101 | a101.com.tr | Perakende e-ticaret mağazası | 506 | 95 | Güvenli ödeme altyapısı ve HTTPS | 07.11.2026
+BİM | bim.com.tr | Perakende market resmi web sitesi | 507 | 95 | Güvenli altyapı ve kurumsal koruma | 07.11.2026
+ŞOK Market | sokmarket.com.tr | Çevriveli market ve teslimat platformu | 508 | 95 | Yıldız Holding bünyesinde güvenli ödeme | 07.11.2026
+Teknosa | teknosa.com | Tüketici elektroniği e-ticaret sitesi | 509 | 96 | Sabancı güvencesinde yüksek ticari güvenlik | 07.11.2026
+Vatan Bilgisayar | vatanbilgisayar.com | Bilgisayar ve donanım mağazası | 510 | 95 | Güvenli ödeme geçitleri ve SSL | 07.11.2026
+MediaMarkt TR | mediamarkt.com.tr | Elektronik perakende mağazası | 511 | 96 | Uluslararası kurumsal e-ticaret güvenliği | 07.11.2026
+Incehesap | incehesap.com | Bilgisayar toplama ve donanım mağazası | 512 | 94 | Güvenli SSL bağlantısı ve ödeme | 07.11.2026
+Sinerji Gen Tr | sinerji.gen.tr | Hazır sistem ve bilgisayar parçaları | 513 | 93 | Güvenli ödeme altyapısı | 07.11.2026
+Gaming Gen TR | gaming.gen.tr | Oyuncu bilgisayarı ve ekipman sitesi | 514 | 93 | HTTPS korumalı mağaza altyapısı | 07.11.2026
+İtopya | itopya.com | Oyuncu donanım ve hazır sistem mağazası | 515 | 94 | Güvenli alışveriş ve 3D Secure koruması | 07.11.2026
+Tebilon | tebilon.com | Bilgisayar bileşenleri satış sitesi | 516 | 92 | Güvenli SSL bağlantısı | 07.11.2026
+GameGaraj | gamegaraj.com | Özel masaüstü bilgisayar mağazası | 517 | 93 | Korumalı ödeme sistemleri | 07.11.2026
+NVI | nvi.gov.tr | Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü | 518 | 99 | Devlet seviyesinde üst düzey siber savunma | 07.11.2026
+TGM | tkgm.gov.tr | Tapu ve Kadastro Genel Müdürlüğü portalı | 519 | 99 | Devlet kamu veritabanı güvenliği | 07.11.2026
+Web Tapu | webtapu.tkgm.gov.tr | Çevriveli tapu işlemleri portalı | 520 | 99 | Çift faktörlü devlet doğrulamalı güvenlik | 07.11.2026
+MGM | mgm.gov.tr | Meteoroloji Genel Müdürlüğü resmi sitesi | 521 | 98 | Kamu kuruluşu güvencesinde reklamsız altyapı | 07.11.2026
+AFAD | afad.gov.tr | Afet ve Acil Durum Yönetimi Başkanlığı | 522 | 99 | Kritikal kamu altyapısı ve en yüksek güvenlik | 07.11.2026
+Kızılay | kizilay.org.tr | Türk Kızılayı resmi insani yardım portalı | 523 | 97 | Güvenli bağış altyapısı ve SSL | 07.11.2026
+Yeşilay | yesilay.org.tr | Türkiye Yeşilay Cemiyeti resmi portalı | 524 | 97 | Kamu yararına çalışan güvenli web altyapısı | 07.11.2026
+LÖSEV | losev.org.tr | Lösemili Çocuklar Sağlık ve Eğitim Vakfı | 525 | 98 | Güvenli bağış sistemi ve şifreli veri aktarımı | 07.11.2026
+TEGV | tegv.org | Türkiye Eğitim Gönüllüleri Vakfı portalı | 526 | 96 | Güvenli web altyapısı ve şifreleme | 07.11.2026
+TEMA Vakfı | tema.org.tr | Türkiye Erozyonla Mücadele Vakfı portalı | 527 | 97 | Güvenli bağış sistemi ve HTTPS | 07.11.2026
+Türk Hava Yolları | turkishairlines.com | Türkiye resmi havayolu bilet portalı | 528 | 98 | Üst seviye uçuş ve ödeme güvenliği altyapısı | 07.11.2026
+Pegasus | flypgs.com | Havayolu bilet rezervasyon platformu | 529 | 96 | Güvenli ödeme ve yolcu verisi koruması | 07.11.2026
+AJet | ajet.com | Bölgesel havayolu bilet satış portalı | 530 | 96 | THY altyapı güvencesinde yüksek güvenlik | 07.11.2026
+SunExpress | sunexpress.com | Tatil havayolu bilet rezervasyon sitesi | 531 | 95 | Güvenli ödeme altyapısı ve HTTPS | 07.11.2026
+TCDD Taşımacılık | tcddtasimacilik.gov.tr | Yüksek Hızlı Tren bilet satış portalı | 532 | 98 | Kamu ulaşım altyapısı ve güvenli ödeme | 07.11.2026
+Obilet | obilet.com | Otobüs ve uçak bileti arama platformu | 533 | 96 | Güvenli biletleme altyapısı ve SSL | 07.11.2026
+Enuygun | enuygun.com | Uçak ve otobüs bileti karşılaştırma | 534 | 95 | Güvenli ödeme geçitleri ve koruma | 07.11.2026
+Biletix | biletix.com | Etkinlik, konser ve tiyatro bileti satış sitesi | 535 | 96 | Ticketmaster altyapısında üst düzey güvenlik | 07.11.2026
+Passo | passo.com.tr | Maç ve etkinlik bileti satış platformu | 536 | 96 | Aktif Bank güvencesinde yüksek finansal güvenlik | 07.11.2026
+Biletinial | biletinial.com | Sinema, tiyatro ve etkinlik bileti portalı | 537 | 95 | Güvenli ödeme geçitleri | 07.11.2026
+Bubilet | bubilet.com.tr | Konser ve festival indirimli bilet platformu | 538 | 93 | Güvenli SSL bağlantısı | 07.11.2026
+Biletino | biletino.com | Etkinlik biletleme ve organizasyon servisi | 539 | 93 | Güvenli platform ve ödeme koruması | 07.11.2026
+Paribu | paribu.com | Kripto para alım-satım platformu | 540 | 95 | Türkiye SPK uyumlu borsa ve siber güvenlik | 07.11.2026
+BTCTurk | btcturk.com | Kripto para borsası portalı | 541 | 96 | Sektörün ilk borsalarından, yüksek güvenlik | 07.11.2026
+Bitexen | bitexen.com | Kripto varlık işlem platformu | 542 | 93 | Güvenli hesap koruması ve 2FA | 07.11.2026
+Bitci | bitci.com.tr | Taraftar token ve kripto borsası | 543 | 92 | Şifreli finansal altyapı | 07.11.2026
+Nkolay | nkolay.com | Aktif Bank dijital bankacılık servisi | 544 | 97 | Bankacılık lisanslı yüksek güvenlik | 07.11.2026
+Hadi | hadiclub.com | A101 destekli dijital bankacılık ve cüzdan | 545 | 95 | TOM Bank lisansı ile korunan altyapı | 07.11.2026
+Hayhay | hayhay.com | Dijital cüzdan ve ödeme servisi | 546 | 94 | TCMB lisanslı ödeme kurumu altyapısı | 07.11.2026
+FastPay | fastpay.com.tr | DenizBank dijital cüzdan portalı | 547 | 96 | DenizBank güvencesinde ödeme sistemi | 07.11.2026
+Paycell | paycell.com.tr | Turkcell dijital ödeme altyapısı | 548 | 97 | Turkcell güvencesinde yüksek siber güvenlik | 07.11.2026
+Pokus | pokus.com.tr | Türk Telekom dijital cüzdan servisi | 549 | 96 | Türk Telekom altyapılı güvenli ödeme | 07.11.2026
+Vodafone Pay | vodafone.com.tr/vodafone-pay | Dijital cüzdan ve ön ödemeli kart | 550 | 96 | Vodafone kurumsal güvenlik standartları | 07.11.2026
+Turkcell | turkcell.com.tr | Telekomünikasyon operatörü resmi portalı | 551 | 98 | Üst düzey kurumsal altyapı ve müşteri koruması | 07.11.2026
+Türk Telekom | turktelekom.com.tr | Telekomünikasyon servisi portalı | 552 | 98 | Ulusal iletişim altyapısı ve yüksek güvenlik | 07.11.2026
+Vodafone TR | vodafone.com.tr | Mobil ve sabit geniş bant operatörü | 553 | 97 | Uluslararası Vodafone siber güvenlik mimarisi | 07.11.2026
+Türksat Kablo | turksatkablo.com.tr | Kablo TV ve geniş bant internet portalı | 554 | 98 | Kamu telekomünikasyon altyapı güvenliği | 07.11.2026
+TurkNet | turk.net | Bağımsız geniş bant internet servis sağlayıcı | 555 | 95 | Güvenli abone paneli ve SSL şifreleme | 07.11.2026
+Millenicom | milleni.com.tr | İnternet servis sağlayıcı portalı | 556 | 94 | Güvenli müşteri portalı ve HTTPS | 07.11.2026
+Netspeed | netspeed.com.tr | Ev interneti ve geniş bant sağlayıcı | 557 | 93 | Güvenli online işlemler paneli | 07.11.2026
+Gıbırnet | gibir.net.tr | İnternet servis sağlayıcısı sitesi | 558 | 92 | Standart SSL koruması | 07.11.2026
+Superonline | superonline.net | Fiber internet altyapı servisi | 559 | 97 | Turkcell altyapısında üst seviye güvenlik | 07.11.2026
+Super Step | superstep.com.tr | Ayakkabı ve sokak giyimi e-ticaret sitesi | 560 | 95 | Eren Holding güvencesinde güvenli alışveriş | 07.11.2026
+House of Superstep | houseofsuperstep.com | Lüks sokak modası e-ticaret portalı | 561 | 95 | Güvenli ödeme altyapısı | 07.11.2026
+Boyner | boyner.com.tr | Çevriveli departman mağazası platformu | 562 | 96 | Boyner Grup kurumsal e-ticaret güvenliği | 07.11.2026
+Beymen | beymen.com | Lüks giyim ve moda e-ticaret mağazası | 563 | 97 | Yüksek ödeme koruması ve SSL | 07.11.2026
+Vakkorama | vakkorama.com.tr | Genç ve dinamik lüks moda e-ticaret | 564 | 95 | Vakko Grubu güvencesinde yüksek güvenlik | 07.11.2026
+Vakko | vakko.com | Lüks giyim ve aksesuar e-ticaret portalı | 565 | 96 | Üst seviye ticari altyapı koruması | 07.11.2026
+İpekyol | ipekyol.com.tr | Kadın giyim markası resmi e-ticaret sitesi | 566 | 95 | Güvenli müşteri veritabanı ve SSL | 07.11.2026
+Twist | twist.com.tr | Kadın moda markası e-ticaret sitesi | 567 | 95 | İpekyol grubu bünyesinde güvenli alışveriş | 07.11.2026
+LC Waikiki | lcwaikiki.com | Perakende giyim resmi e-ticaret portalı | 568 | 97 | Üst seviye e-ticaret ve veri güvenliği altyapısı | 07.11.2026
+DeFacto | defacto.com.tr | Global giyim markası e-ticaret portalı | 569 | 96 | Güçlü ödeme geçitleri ve kullanıcı koruması | 07.11.2026
+Koton | koton.com | Hazır giyim e-ticaret mağazası | 570 | 96 | Güvenli ödeme altyapısı ve HTTPS | 07.11.2026
+Mavi | mavi.com | Jean ve giyim markası e-ticaret portalı | 571 | 97 | Uluslararası ticari güvenlik standartları | 07.11.2026
+LTB Jeans | ltbjeans.com | Kot ve hazır giyim e-ticaret sitesi | 572 | 94 | Güvenli SSL bağlantısı | 07.11.2026
+Loft | loft.com.tr | Jean ve spor giyim e-ticaret mağazası | 573 | 93 | Güvenli alışveriş altyapısı | 07.11.2026
+Colin's | colins.com.tr | Jean ve günlük giyim e-ticaret portalı | 574 | 95 | Güvenli ödeme protokolleri | 07.11.2026
+D'S Damat | dsdamat.com | Erkek giyim ve takım elbise mağazası | 575 | 95 | Orka Holding güvencesinde güvenli altyapı | 07.11.2026
+Kiğılı | kigili.com | Erkek hazır giyim e-ticaret sitesi | 576 | 95 | Güvenli ödeme ve SSL şifreleme | 07.11.2026
+Tudors | tudors.com | Gömlek ve erkek aksesuar e-ticaret mağazası | 577 | 93 | Güvenli platform | 07.11.2026
+Suwen | suwen.com.tr | İç giyim ve ev giyimi e-ticaret sitesi | 578 | 94 | Güvenli veri iletimi ve SSL | 07.11.2026
+Penti | penti.com | Çorap, iç giyim ve plaj giyimi mağazası | 579 | 96 | Güçlü e-ticaret ve müşteri koruma altyapısı | 07.11.2026
+Gratis | gratis.com | Kişisel bakım ve kozmetik e-ticaret sitesi | 580 | 95 | Güvenli ödeme sistemleri | 07.11.2026
+Watsons TR | watsons.com.tr | Güzellik ve kişisel bakım mağazası | 581 | 96 | CK Hutchison altyapısında yüksek güvenlik | 07.11.2026
+Rossmann TR | rossmann.com.tr | Alman kişisel bakım zinciri web mağazası | 582 | 95 | Güvenli e-ticaret altyapısı | 07.11.2026
+Eve Shop | eveshop.com.tr | Kozmetik ve kişisel bakım mağazası | 583 | 93 | Güvenli SSL koruması | 07.11.2026
+Sephora TR | sephora.com.tr | Lüks kozmetik ve parfüm e-ticaret sitesi | 584 | 97 | LVMH grubu bünyesinde üst düzey güvenlik | 07.11.2026
+Flormar | flormar.com.tr | Makyaj ürünleri e-ticaret sitesi | 585 | 94 | Güvenli ödeme altyapısı | 07.11.2026
+Golden Rose | goldenrose.com.tr | Kozmetik ve makyaj markası web sitesi | 586 | 93 | Temiz HTTPS yayını | 07.11.2026
+D&R | dr.com.tr | Kitap, müzik, hobi ve elektronik mağazası | 587 | 96 | Turkuvaz Medya altyapısında güvenli alışveriş | 07.11.2026
+Kitapyurdu | kitapyurdu.com | Türkiye'nin köklü çevriveli kitapçısı | 588 | 96 | Üst seviye veri koruması ve güvenli alışveriş | 07.11.2026
+BKM Kitap | bkmkitap.com | Uygun fiyatlı çevriveli kitap mağazası | 589 | 94 | Güvenli ödeme geçitleri | 07.11.2026
+İdefix | idefix.com | Kitap, hobi ve kültür ürünleri e-ticaret | 590 | 96 | Turkuvaz altyapısında yüksek güvenlik | 07.11.2026
+Amazon TR | amazon.com.tr | Amazon Türkiye resmi e-ticaret platformu | 591 | 98 | Üst düzey Amazon küresel güvenlik standartları | 07.11.2026
+Dolap | dolap.com | İkinci el moda ve eşya alışveriş uygulaması | 592 | 96 | Trendyol güvencesinde korumalı ödeme havuzu | 07.11.2026
+Gardrops | gardrops.com | Ücretsiz komisyonsuz ikinci el moda sitesi | 593 | 94 | Güvenli alıcı koruma altyapısı | 07.11.2026
+Letgo | letgo.com | İkinci el eşya alım-satım platformu | 594 | 93 | Otoplus entegreli güvenli ilan altyapısı | 07.11.2026
+Arabam.com | arabam.com | Türkiye ikinci el araç ilan platformu | 595 | 95 | iLab Holding bünyesinde yüksek güvenlik | 07.11.2026
+VavaCars | vavacars.com.tr | Çevriveli ikinci el araç alım-satım portalı | 596 | 95 | Güvenli ekspertiz ve finansal altyapı | 07.11.2026
+Otoplus | otoplus.com | Letgo güvencesiyle ikinci el araç platformu | 597 | 94 | Korumalı ödeme ve ekspertiz süreci | 07.11.2026
+Cinch | cinch.co.uk | Birleşik Krallık çevriveli araç satış portalı | 598 | 94 | Güvenli e-ticaret altyapısı | 07.11.2026
+Carvana | carvana.com | ABD çevriveli araç teslimat platformu | 599 | 95 | Şifreli finansal altyapı ve SSL | 07.11.2026
+Shift4 | shift4.com | Finansal ödeme işleme teknolojileri | 600 | 97 | PCI-DSS sertifikalı kurumsal güvenlik | 07.11.2026
+Adyen | adyen.com | Küresel ödeme platformu | 601 | 99 | Endüstri lideri kurumsal ödeme koruması | 07.11.2026
+Worldpay | worldpay.com | Uluslararası tüccar ödeme çözümleri | 602 | 98 | Banka seviyesinde ödeme şifrelemesi | 07.11.2026
+Square | squareup.com | POS ve çevriveli ödeme sistemleri | 603 | 98 | Block bünyesinde üst düzey ticari güvenlik | 07.11.2026
+Toast | toasttab.com | Restoranlar için bulut POS ve ödeme platformu | 604 | 96 | Güvenli ödeme geçidi | 07.11.2026
+Lightspeed | lightspeedhq.com | Perakende ve restoran bulut POS altyapısı | 605 | 96 | ISO sertifikalı veri şifreleme | 07.11.2026
+Clover | clover.com | Fiserv bünyesinde akıllı POS ve ödeme sistemi | 606 | 97 | Fiserv kurumsal güvenlik standartları | 07.11.2026
+Verifone | verifone.com | Küresel ödeme ve POS donanım çözümleri | 607 | 98 | Üst düzey donanım ve yazılım şifrelemesi | 07.11.2026
+Ingenico | ingenico.com | Ödeme terminalleri ve yazılım portalı | 608 | 98 | Global PCI koruma standartları | 07.11.2026
+Pax Global | paxglobaltechnology.com | POS terminal teknolojileri portalı | 609 | 95 | Güvenli donanım yazılımı ve SSL | 07.11.2026
+NCR Voyix | ncrvoyix.com | Perakende ve bankacılık teknoloji çözümleri | 610 | 97 | Kurumsal bankacılık seviyesinde güvenlik | 07.11.2026
+Diebold Nixdorf | dieboldnixdorf.com | ATM ve öz-hizmet otomasyon sistemleri | 611 | 98 | Üst seviye finansal donanım siber güvenliği | 07.11.2026
+FIS | fisglobal.com | Finansal teknoloji ve ödeme işleme dev platformu | 612 | 98 | Bankacılık sektörüne yönelik en yüksek güvenlik | 07.11.2026
+Fiserv | fiserv.com | Küresel ödeme ve finansal teknoloji sağlayıcısı | 613 | 98 | Kurumsal finansal veri koruması | 07.11.2026
+Broadcom | broadcom.com | Yarı iletken ve kurumsal yazılım portalı | 614 | 97 | VMware ve Symantec güvencesinde siber güvenlik | 07.11.2026
+Qualcomm | qualcomm.com | Kablosuz iletişim ve çip teknolojileri sitesi | 615 | 97 | Güçlü HTTPS ve kurumsal koruma | 07.11.2026
+Intel | intel.com | İşlemci ve yarım iletken teknolojileri portalı | 616 | 98 | Endüstri lideri kurumsal güvenlik mimarisi | 07.11.2026
+AMD | amd.com | İşlemci ve grafik kartı üreticisi portalı | 617 | 97 | Güvenli yazılım indirme ve HTTPS | 07.11.2026
+NVIDIA | nvidia.com | Yapay zeka ve grafik teknolojileri dev sitesi | 618 | 98 | Yüksek güvenlikli indirme sunucuları ve SSL | 07.11.2026
+ARM | arm.com | Yarım iletken ve mimari tasarım portalı | 619 | 97 | Kurumsal fikri mülkiyet ve veri koruması | 07.11.2026
+ASML | asml.com | Fotolitografi ve çip üretim donanımları portalı | 620 | 98 | Yüksek düzeyde kurumsal siber koruma | 07.11.2026
+TSMC | tsmc.com | Dünyanın en büyük bağımsız yarı iletken dökümhanesi | 621 | 98 | Kritik sanayi altyapısı güvenliği | 07.11.2026
+Micron | micron.com | Bellek ve depolama teknolojileri portalı | 622 | 96 | Güvenli kurumsal web altyapısı | 07.11.2026
+SK Hynix | skhynix.com | Güney Koreli bellek çipi üreticisi portalı | 623 | 96 | Yüksek siber altyapı koruması | 07.11.2026
+Western Digital | westerndigital.com | Sabit disk ve depolama çözümleri sitesi | 624 | 96 | Güvenli yazılım güncellemeleri ve SSL | 07.11.2026
+Seagate | seagate.com | Veri depolama çözümleri resmi sitesi | 625 | 96 | Güvenli sürücü indirme sunucuları | 07.11.2026
+Kingston | kingston.com | Bellek ürünleri ve depolama üreticisi | 626 | 95 | Güvenli ürün doğrulama portalı | 07.11.2026
+SanDisk | sandisk.com | Hafıza kartları ve flaş depolama sitesi | 627 | 96 | Western Digital altyapısında güvenli SSL | 07.11.2026
+Crucial | crucial.com | RAM ve SSD yükseltme danışmanı ve mağazası | 628 | 96 | Micron güvencesinde güvenli e-ticaret | 07.11.2026
+Corsair | corsair.com | Oyuncu ekipmanları ve bilgisayar parçaları | 629 | 95 | Güvenli indirme ve mağaza altyapısı | 07.11.2026
+Logitech | logitech.com | Bilgisayar çevre birimleri üreticisi portalı | 630 | 97 | Güvenli sürücü dağıtımı ve e-ticaret | 07.11.2026
+Razer | razer.com | Oyuncu donanım ve yaşam tarzı markası | 631 | 95 | Synapse bulut yazılımı ve güvenli HTTPS | 07.11.2026
+SteelSeries | steelseries.com | Oyun kulaklıkları ve çevre birimleri mağazası | 632 | 95 | Güvenli yazılım dağıtımı ve ödeme | 07.11.2026
+HyperX | hyperx.com | HP bünyesindeki oyuncu donanım mağazası | 633 | 96 | HP kurumsal altyapısında yüksek güvenlik | 07.11.2026
+ASUS | asus.com | Bilgisayar donanımı ve dizüstü portalı | 634 | 97 | Sıkı web şifrelemesi ve indirme koruması | 07.11.2026
+ROG ASUS | rog.asus.com | Republic of Gamers resmi oyuncu portalı | 635 | 96 | Güvenli sürücü dağıtım sunucuları | 07.11.2026
+MSI | msi.com | Anakart, ekran kartı ve dizüstü bilgisayar portalı | 636 | 96 | Güvenli BIOS ve yazılım indirme kanalları | 07.11.2026
+Gigabyte | gigabyte.com | Bilgisayar donanımları üreticisi portalı | 637 | 95 | Güvenli HTTPS ve sürücü depolama | 07.11.2026
+AORUS | aorus.com | Gigabyte oyuncu ekipmanları resmi sitesi | 638 | 94 | Temiz web yapısı ve SSL | 07.11.2026
+EVGA | evga.com | Donanım bileşenleri ve güç kaynakları portalı | 639 | 94 | Güvenli topluluk ve mağaza altyapısı | 07.11.2026
+ZOTAC | zotac.com | Ekran kartları ve mini PC üreticisi portalı | 640 | 93 | Güvenli bağlantı ve SSL | 07.11.2026
+Palit | palit.com | Grafik kartı üreticisi web portalı | 641 | 91 | Temel HTTPS şifrelemesi | 07.11.2026
+Gainward | gainward.com | Ekran kartı teknolojileri sitesi | 642 | 91 | Güvenli sürücü bağlantıları | 07.11.2026
+Sapphire Tech | sapphiretech.com | AMD Radeon ekran kartları üreticisi | 643 | 93 | Güvenli indirme portalı | 07.11.2026
+PowerColor | powercolor.com | AMD grafik kartları üretici portalı | 644 | 92 | Standart SSL bağlantısı | 07.11.2026
+XFX | xfxforce.com | Oyuncu grafik kartları resmi web sitesi | 645 | 92 | Güvenli web altyapısı | 07.11.2026
+Inno3D | inno3d.com | NVIDIA ekran kartları üreticisi portalı | 646 | 91 | Temel web güvenliği | 07.11.2026
+GALAX | galax.com | Performanslı ekran kartları üreticisi sitesi | 647 | 92 | Güvenli HTTPS yayını | 07.11.2026
+Noctua | noctua.at | Avusturya merkezli premium soğutma çözümleri | 648 | 97 | Reklamsız, sade ve son derece güvenli altyapı | 07.11.2026
+Arctic | arctic.de | Bilgisayar soğutucuları ve termal macun sitesi | 649 | 95 | Güvenli Alman e-ticaret altyapısı | 07.11.2026
+be quiet! | bequiet.com | Sessiz bilgisayar bileşenleri ve PSU üreticisi | 650 | 96 | Güvenli ürün kaydı ve SSL | 07.11.2026
+Cooler Master | coolermaster.com | Bilgisayar kasası ve soğutma sistemleri | 651 | 95 | Güvenli indirme ve destek portalı | 07.11.2026
+Thermaltake | thermaltake.com | Bilgisayar kasası ve güç kaynakları portalı | 652 | 94 | SSL şifreli web altyapısı | 07.11.2026
+Lian Li | lian-li.com | Premium alüminyum bilgisayar kasaları portalı | 653 | 95 | Güvenli sürücü ve yazılım dağıtımı | 07.11.2026
+NZXT | nzxt.com | Modern bilgisayar kasaları ve CAM yazılımı | 654 | 96 | Bulutyazılım entegrasyonlu yüksek güvenlik | 07.11.2026
+Fractal Design | fractal-design.com | İskandinav tasarımı bilgisayar kasaları | 655 | 96 | Temiz web yapısı ve son derece güvenli | 07.11.2026
+Phanteks | phanteks.com | Yüksek performanslı bilgisayar kasaları sitesi | 656 | 93 | Standart SSL şifrelemesi | 07.11.2026
+DeepCool | deepcool.com | Soğutma çözümleri ve donanım bileşenleri | 657 | 94 | Güvenli web altyapısı | 07.11.2026
+SilverStone TEK | silverstonetek.com | Bilgisayar kasaları ve güç kaynağı üreticisi | 658 | 93 | Temiz HTTPS yayını | 07.11.2026
+Seasonics | seasonic.com | Yüksek verimli bilgisayar güç kaynakları (PSU) | 659 | 97 | Sektör lideri PSU üreticisi güvenli portalı | 07.11.2026
+FSP Group | fsp-group.com | Güç kaynağı teknolojileri resmi portalı | 660 | 94 | Güvenli kurumsal web altyapısı | 07.11.2026
+Antec | antec.com | Masaüstü bilgisayar kasası ve PSU portalı | 661 | 93 | Güvenli SSL bağlantısı | 07.11.2026
+BenQ | benq.com | Monitör ve projeksiyon cihazları üreticisi | 662 | 96 | Güvenli sürücü indirme ve destek portalı | 07.11.2026
+ZOWIE BenQ | zowie.benq.com | E-spor odaklı monitör ve donanım portalı | 663 | 96 | BenQ altyapısında üst düzey güvenlik | 07.11.2026
+ViewSonic | viewsonic.com | Ekran teknolojileri ve monitör üreticisi | 664 | 95 | Güvenli yazılım dağıtımı ve SSL | 07.11.2026
+AOC | aoc.com | Bilgisayar monitörleri üreticisi resmi sitesi | 665 | 94 | Güvenli HTTPS desteği | 07.11.2026
+Philips Displays | philips.com/c-m-so/monitors | Philips monitörler resmi bilgi sitesi | 666 | 97 | Philips kurumsal altyapı koruması | 07.11.2026
+Dell | dell.com | Kurumsal ve bireysel bilgisayar üreticisi | 667 | 98 | Endüstri standardı yüksek web güvenliği | 07.11.2026
+Alienware | alienware.com | Dell bünyesindeki premium oyuncu donanımları | 668 | 97 | Dell kurumsal güvenlik altyapısı | 07.11.2026
+HP | hp.com | Yazıcı ve bilgisayar teknolojileri devi portalı | 669 | 98 | Üst seviye indirme sunucu koruması | 07.11.2026
+Lenovo | lenovo.com | Dünyanın en büyük PC üreticisi resmi portalı | 670 | 97 | Güçlü sürücü doğrulama ve mağaza güvenliği | 07.11.2026
+ThinkPad | lenovo.com/thinkpad | Kurumsal ThinkPad dizüstü bilgisayarlar portalı | 671 | 98 | Lenovo kurumsal güvenlik standartları | 07.11.2026
+Acer | acer.com | Bilgisayar ve donanım teknolojileri portalı | 672 | 96 | Güvenli indirme sunucuları ve HTTPS | 07.11.2026
+Predator Acer | acer.com/predator | Acer oyuncu ürünleri resmi platformu | 673 | 96 | Acer altyapısında yüksek güvenlik | 07.11.2026
+Asus ROG Strix | rog.asus.com/strix | Oyuncu dizüstü ve bileşen serisi sitesi | 674 | 96 | Güvenli web altyapısı | 07.11.2026
+LG | lg.com | Tüketici elektroniği ve panel üreticisi portalı | 675 | 97 | Kurumsal düzeyde şifreleme ve web koruması | 07.11.2026
+Sony | sony.com | Küresel teknoloji ve medya dev resmi portalı | 676 | 98 | Üst seviye siber güvenlik standartları | 07.11.2026
+PlayStation | playstation.com | Oyun konsolu ve ağ hizmetleri portalı | 677 | 97 | PSN hesabı şifreleme ve 2FA koruması | 07.11.2026
+Xbox | xbox.com | Microsoft oyun ekosistemi resmi portalı | 678 | 98 | Microsoft kurumsal altyapısında üst düzey güvenlik | 07.11.2026
+Nintendo | nintendo.com | Oyun konsolu ve oyun yayıncısı portalı | 679 | 97 | Güvenli eShop ve hesap yönetimi | 07.11.2026
+Sega | sega.com | Oyun geliştirici ve yayıncı resmi portalı | 680 | 95 | Güvenli bağlantı ve kurumsal koruma | 07.11.2026
+Capcom | capcom.com | Japonya merkezli oyun geliştirici sitesi | 681 | 95 | Güvenli web sunucuları | 07.11.2026
+Square Enix | square-enix.com | Rol yapma oyunları yayıncısı portalı | 682 | 96 | Güvenli hesap ve ödeme altyapısı | 07.11.2026
+Bandai Namco | bandainamcoent.com | Anime ve arcade oyunları yayıncısı | 683 | 95 | Güvenli web portalı | 07.11.2026
+Konami | konami.com | Oyun ve eğlence teknolojileri resmi sitesi | 684 | 94 | Güvenli HTTPS şifrelemesi | 07.11.2026
+Take-Two | taketwogames.com | Rockstar ve 2K ana holding portalı | 685 | 96 | Kurumsal düzeyde siber koruma | 07.11.2026
+Rockstar Games | rockstargames.com | GTA ve Red Dead yayıncısı portalı | 686 | 96 | Social Club güvenliği ve şifreli veri | 07.11.2026
+2K Games | 2k.com | Spor ve strateji oyunları yayıncısı portalı | 687 | 95 | Güvenli hesap ve sunucu altyapısı | 07.11.2026
+CD Projekt Red | cdprojektred.com | Witcher ve Cyberpunk geliştiricisi | 688 | 96 | Yüksek sunucu güvenliği ve HTTPS | 07.11.2026
+Bethesda | bethesda.net | Skyrim ve Fallout yayıncısı portalı | 689 | 95 | Güvenli hesap koruması ve indirme | 07.11.2026
+Blizzard | blizzard.com | Warcraft ve Diablo geliştiricisi portalı | 690 | 97 | Battle.net altyapısında üst düzey güvenlik | 07.11.2026
+Bungie | bungie.net | Destiny oyun serisi geliştirici sitesi | 691 | 95 | Güvenli kullanıcı kimlik doğrulaması | 07.11.2026
+Valve Corporation | valvesoftware.com | Steam ve oyun teknolojileri geliştiricisi | 692 | 98 | Endüstri standardı siber koruma mimarisi | 07.11.2026
+THQ Nordic | thqnordic.com | Avusturya merkezli oyun yayıncısı portalı | 693 | 94 | Güvenli SSL bağlantısı | 07.11.2026
+Embracer Group | embracer.com | Küresel oyun ve medya holdingi sitesi | 694 | 96 | Kurumsal kurumsal web güvenliği | 07.11.2026
+Paradox Interactive | paradoxplaza.com | Strateji oyunları yayıncısı platformu | 695 | 95 | Güvenli hesap yönetimi ve forum | 07.11.2026
+Creative Assembly | creative-assembly.com | Total War serisi geliştiricisi sitesi | 696 | 94 | Temiz web yapısı ve HTTPS | 07.11.2026
+Relic Entertainment | relic.com | Strateji oyunları geliştirici portalı | 697 | 93 | Güvenli bağlantı | 07.11.2026
+Techland | techland.net | Dying Light geliştiricisi resmi portalı | 698 | 94 | Güvenli web sunucuları | 07.11.2026
+Remedy Entertainment | remedygames.com | Alan Wake ve Control geliştiricisi | 699 | 96 | Fin veri gizliliği standartlarında güvenlik | 07.11.2026
+Klei Entertainment | klei.com | Don't Starve oyun geliştiricisi portalı | 700 | 95 | Güvenli forum ve topluluk platformu | 07.11.2026
+Supergiant Games | supergiantgames.com | Hades ve Bastion geliştirici sitesi | 701 | 96 | Reklamsız, temiz ve son derece güvenli yapısı | 07.11.2026
+Team17 | team17.com | Worms ve bağımsız oyunlar yayıncısı | 702 | 94 | Güvenli web altyapısı | 07.11.2026
+Devolver Digital | devolverdigital.com | Sıradışı bağımsız oyun yayıncısı portalı | 703 | 95 | Reklamsız, özgün ve güvenli HTTPS | 07.11.2026
+Raw Fury | rawfury.com | İsveç merkezli bağımsız oyun yayıncısı | 704 | 94 | Güvenli bağlantı altyapısı | 07.11.2026
+Finji | finji.co | Bağımsız oyun stüdyosu ve yayıncı sitesi | 705 | 93 | Temiz web yapısı | 07.11.2026
+Annapurna Interactive | annapurnainteractive.com | Hikaye odaklı bağımsız oyun yayıncısı | 706 | 96 | Güvenli içerik sunumu ve SSL | 07.11.2026
+Focus Entertainment | focus-entmt.com | Fransa merkezli oyun yayıncısı portalı | 707 | 94 | Güvenli SSL bağlantısı | 07.11.2026
+Nacon | nacongaming.com | Oyun yayıncısı ve donanım üreticisi | 708 | 93 | Güvenli e-ticaret altyapısı | 07.11.2026
+Plarium | plarium.com | Tarayıcı ve mobil oyun geliştiricisi | 709 | 88 | SSL mevcut; oyun içi satın alım odaklıdır | 07.11.2026
+InnoGames | innogames.com | Forge of Empires geliştirici portalı | 710 | 90 | Alman veri koruma standartlarında SSL | 07.11.2026
+Goodgame Studios | goodgamestudios.com | Çevriveli gündelik oyunlar portalı | 711 | 89 | Güvenli bağlantı ve kullanıcı hesabı | 07.11.2026
+Bigpoint | bigpoint.com | Tarayıcı tabanlı MMO oyunları platformu | 712 | 88 | Standart HTTPS koruması | 07.11.2026
+Miniclip | miniclip.com | Dünyanın en büyük web oyun platformları | 713 | 91 | Güvenli çocuk oyunları ortamı ve SSL | 07.11.2026
+Armor Games | armorgames.com | Bağımsız flaş ve HTML5 oyun portalı | 714 | 92 | Reklamsız temiz yapı, yüksek sunucu güvenliği | 07.11.2026
+Kongregate | kongregate.com | Topluluk odaklı web ve mobil oyun sitesi | 715 | 90 | Güvenli oyuncu hesapları ve HTTPS | 07.11.2026
+CrazyGames | crazygames.com | Ücretsiz HTML5 web oyunları platformu | 716 | 89 | SSL korumalı; oyun içi reklam ağları barındırır | 07.11.2026
+Poki | poki.com | Tarayıcı tabanlı anında oyun platformu | 717 | 92 | Güvenli, çocuk dostu ve SSL korumalı altyapı | 07.11.2026
+Y8 Games | y8.com | Çevriveli oyunlar ve 2D oyun deposu | 718 | 87 | SSL mevcut; yoğun reklam alanları barındırır | 07.11.2026
+Newgrounds | newgrounds.com | Bağımsız oyun, animasyon ve müzik platformu | 719 | 93 | Efsanevi bağımsız topluluk, güvenli HTTPS | 07.11.2026
+Speedrun.com | speedrun.com | Dünya rekorları ve oyun hız rekorları dizini | 720 | 94 | Temiz veri tabanı ve yüksek topluluk güvenliği | 07.11.2026
+HowLongToBeat | howlongtobeat.com | Oyunların bitirme süreleri veritabanı | 721 | 96 | IGN bünyesinde reklamsız temiz ve çok güvenli | 07.11.2026
+Vapor | store.steampowered.com | Steam Mağazası resmi dijital satış sayfası | 722 | 97 | Valve korumasında üst düzey ödeme güvenliği | 07.11.2026
+IsThereAnyDeal | isthereanydeal.com | Dijital oyun fiyat karşılaştırma platformu | 723 | 95 | Reklamsız, güvenli ve meşru mağazaları kıyaslar | 07.11.2026
+CheapShark | cheapshark.com | Oyun indirimleri takip ve karşılaştırma motoru | 724 | 93 | Temiz arayüz ve güvenli yönlendirmeler | 07.11.2026
+G2A | g2a.com | Dijital oyun anahtarları pazaryeri | 725 | 78 | Ödeme altyapısı şifreli; 3. taraf satıcı riskleri mevcut | 07.11.2026
+Kinguin | kinguin.net | Oyun kodları ve yazılım lisansı pazaryeri | 726 | 77 | Şifreli finansal işlemler; bağımsız satıcılar barındırır | 07.11.2026
+Eneba | eneba.com | Dijital oyun ve hediye kartı pazaryeri | 727 | 82 | Güvenli ödeme geçidi ve kullanıcı koruması | 07.11.2026
+CDKeys | cdkeys.com | Dijital oyun kodu ve üyelik satış sitesi | 728 | 85 | Güvenli doğrudan satış ve şifreli ödeme | 07.11.2026
+Humble Bundle | humblebundle.com | Hayır kurumu destekli oyun ve kitap paketleri | 729 | 97 | Ziff Davis bünyesinde son derece güvenli platform | 07.11.2026
+Fanatical | fanatical.com | Resmi dijital oyun paketleri ve key satış sitesi | 730 | 94 | Yetkili yayıncı distribütörü, güvenli SSL | 07.11.2026
+Green Man Gaming | greenmangaming.com | Resmi yetkili dijital oyun mağazası | 731 | 95 | Doğrudan yayıncı ortaklığı, güvenli ödeme | 07.11.2026
+Gamesplanet | gamesplanet.com | Avrupa merkezli yetkili oyun mağazası | 732 | 94 | Resmi kod distribütörü ve güvenli alışveriş | 07.11.2026
+GamersGate | gamersgate.com | Dijital indirmeler için resmi oyun mağazası | 733 | 93 | İsveç merkezli güvenli e-ticaret altyapısı | 07.11.2026
+IndieGala | indiegala.com | Bağımsız oyun paketleri ve geliştirici platformu | 734 | 90 | SSL korumalı güvenli indirme | 07.11.2026
+Groupees | groupes.com | Medya, müzik ve oyun paketleri fonlama sitesi | 735 | 89 | Standart HTTPS şifrelemesi | 07.11.2026
+Gamers Club | gamersclub.com.br | CS:GO ve Valorant rekabetçi oyun platformu | 736 | 92 | Güvenli sunucu altyapısı ve hile önleme | 07.11.2026
+FACEIT | faceit.com | E-spor ve rekabetçi oyun ligleri platformu | 737 | 95 | Sıkı hile karşıtı yazılım ve güvenli sunucular | 07.11.2026
+ESL Gaming | eslgaming.com | Dünyanın en büyük e-spor organizatörü sitesi | 738 | 95 | Kurumsal e-spor güvenliği ve SSL | 07.11.2026
+HLTV | hltv.org | Counter-Strike istatistik ve haber portalı | 739 | 93 | Reklamsız temiz veritabanı ve yüksek güvenlik | 07.11.2026
+Liquipedia | liquipedia.net | E-spor oyuncuları, turnuvaları ve takım wikisi | 740 | 96 | Team Liquid bünyesinde son derece güvenli wiki | 07.11.2026
+Dot Esports | dotesports.com | E-spor haberleri ve oyun rehberleri sitesi | 741 | 90 | GAMURS Group altyapısında güvenli HTTPS | 07.11.2026
+VLR.gg | vlr.gg | Valorant e-spor istatistikleri ve turnuva portalı | 742 | 95 | Minimalist, reklamsız ve son derece güvenli | 07.11.2026
+SiegeGG | siege.gg | Rainbow Six Siege turnuva verileri portalı | 743 | 93 | Temiz arayüz ve SSL koruması | 07.11.2026
+Overbuff | overbuff.com | Overwatch oyuncu istatistikleri takip sitesi | 744 | 91 | Blizzard API entegreli güvenli platform | 07.11.2026
+Tracker Network | tracker.gg | Valorant, Fortnite, Apex istatistik takibi | 745 | 93 | Güvenli API bağlantıları ve hesap koruması | 07.11.2026
+OP.GG | op.gg | League of Legends oyuncu ve şampiyon istatistikleri | 746 | 94 | Temiz arayüz, resmi Riot API koruması | 07.11.2026
+U.GG | u.gg | LoL meta buildleri ve veri analizi portalı | 747 | 93 | Güvenli veri aktarımı ve HTTPS | 07.11.2026
+Mobalytics | mobalytics.gg | Oyun koçluğu ve kişisel performans analitiği | 748 | 94 | Güvenli AI destekli analitik altyapısı | 07.11.2026
+Porofessor | porofessor.gg | LoL canlı karşılaşma ve oyuncu analiz aracı | 749 | 93 | Overwolf altyapısında güvenli SSL bağlantısı | 07.11.2026
+LoLalytics | lolalytics.com | Derinlemesine LoL şampiyon veri analizi | 750 | 92 | Doğrulanmış istatistikler ve HTTPS | 07.11.2026
+Probuilds | probuildstats.com | Profesyonel LoL oyuncuları rün ve eşya dizilimleri | 751 | 93 | Temiz web yapısı | 07.11.2026
+DAZN | dazn.com | Uluslararası canlı spor akış platformu | 752 | 96 | Üst seviye DRM koruması ve şifreli ödeme | 07.11.2026
+NBA.com | nba.com | Resmi Amerikan Basketbol Ligi portalı | 753 | 97 | Üst seviye lig güvenliği ve canlı yayın altyapısı | 07.11.2026
+NFL.com | nfl.com | Resmi Amerikan Futbol Ligi web platformu | 754 | 97 | Kurumsal spor altyapısı ve SSL | 07.11.2026
+MLB.com | mlb.com | Resmi Amerikan Beyzbol Ligi portalı | 755 | 97 | Güvenli biletleme ve medya sunucuları | 07.11.2026
+NHL.com | nhl.com | Resmi Ulusal Hokey Ligi portalı | 756 | 96 | Güvenli dijital yayın mimarisi | 07.11.2026
+FIFA.com | fifa.com | Uluslararası Futbol Federasyonu resmi sitesi | 757 | 98 | Dünya futbolu resmi portalı, en yüksek güvenlik | 07.11.2026
+UEFA.com | uefa.com | Avrupa Futbol Federasyonları Birliği portalı | 758 | 98 | Şampiyonlar Ligi resmi bilet ve yayın güvenliği | 07.11.2026
+Formula 1 | formula1.com | F1 resmi haber, canlı süre ve yayın sitesi | 759 | 97 | Liberty Media bünyesinde üst düzey güvenlik | 07.11.2026
+MotoGP | motogp.com | Dünya Motosiklet Şampiyonası resmi portalı | 760 | 96 | Güvenli video akışı ve biletlama | 07.11.2026
+WRC | wrc.com | Dünya Ralli Şampiyonası resmi sitesi | 761 | 95 | Güvenli canlı zamanlama ve medya | 07.11.2026
+UFC.com | ufc.com | Dövüş sanatları organizasyonu resmi portalı | 762 | 96 | Güvenli PPV yayın ve mağaza altyapısı | 07.11.2026
+WWE.com | wwe.com | Dünya Güreş Eğlencesi resmi portalı | 763 | 95 | Güvenli bilet ve medya altyapısı | 07.11.2026
+Olympics | olympics.com | Uluslararası Olimpiyat Komitesi resmi sitesi | 764 | 99 | En yüksek küresel organizasyon siber koruması | 07.11.2026
+Transfermarkt | transfermarkt.com | Futbolcu piyasa değerleri ve transfer haberleri | 765 | 94 | Axel Springer bünyesinde güvenli veritabanı | 07.11.2026
+Sofascore | sofascore.com | Canlı skor, istatistik ve oyuncu reytingleri | 766 | 95 | Güvenli anlık veri akışı ve HTTPS | 07.11.2026
+Flashscore | flashscore.com | 30'dan fazla sporda canlı skor servisi | 767 | 94 | Hızlı veri iletimi ve yüksek sunucu koruması | 07.11.2026
+Whoscored | whoscored.com | Derinlemesine futbol istatistikleri ve dereceler | 768 | 91 | Opta verili güvenli veri platformu | 07.11.2026
+FBref | fbref.com | Gelişmiş futbol istatistikleri ve xG analizi | 769 | 97 | Sports Reference güvencesinde reklamsız ve güvenli | 07.11.2026
+Basketball Reference | basketball-reference.com | NBA ve basketbol veritabanı | 770 | 97 | Reklamsız temiz yapı, üst düzey veri güvenliği | 07.11.2026
+Baseball Reference | baseball-reference.com | Beyzbol istatistikleri ve tarihi veritabanı | 771 | 97 | Reklamsız, akademik düzeyde istatistik güvenliği | 07.11.2026
+Pro Football Reference | pro-football-reference.com | Amerikan futbolu veritabanı | 772 | 97 | Sports Reference güvencesinde güvenli platform | 07.11.2026
+ChessBomb | chessbomb.com | Canlı satranç turnuvaları izleme portalı | 773 | 92 | Chess.com altyapısında güvenli yayın | 07.11.2026
+Chess24 | chess24.com | Satranç haberleri, yayınlar ve oynama sitesi | 774 | 94 | Play Magnus Grubu bünyesinde güvenli altyapı | 07.11.2026
+FIDE | fide.com | Uluslararası Satranç Federasyonu resmi sitesi | 775 | 97 | Dünya satranç yönetimi üst düzey güvenliği | 07.11.2026
+Cricbuzz | cricbuzz.com | Kriket haberleri ve canlı skor portalı | 776 | 92 | Güvenli anlık skor dağıtımı | 07.11.2026
+ESPNcricinfo | espncricinfo.com | Dünyanın en büyük kriket haber veritabanı | 777 | 94 | Disney/ESPN altyapısında yüksek güvenlik | 07.11.2026
+Tennis Abstract | tennisabstract.com | Tenis istatistikleri ve veri analiz blogu | 778 | 94 | Reklamsız, veri odaklı temiz web yapısı | 07.11.2026
+ATP Tour | atptour.com | Erkekler Profesyonel Tenis Birliği resmi portalı | 779 | 97 | Resmi turnuva ve canlı skor koruması | 07.11.2026
+WTA Tennis | wtatennis.com | Kadınlar Tenis Birliği resmi web portalı | 780 | 97 | Güvenli resmi spor altyapısı | 07.11.2026
+Strava Metro | metro.strava.com | Şehir planlamacıları için bisiklet veri analizi | 781 | 96 | Yüksek anonimleştirilmiş kamu veri koruması | 07.11.2026
+Garmin Connect | connect.garmin.com | Akıllı saat ve sporcu veri takip platformu | 782 | 98 | Üst seviye kişisel sağlık verisi koruması | 07.11.2026
+Polar Flow | flow.polar.com | Spor ve egzersiz analiz web servisi | 783 | 97 | Katı AB kişisel sağlık verisi şifrelemesi | 07.11.2026
+Suunto app | suunto.com | Açık hava ve dalış saati veri portalı | 784 | 96 | Güvenli bulut veri senkronizasyonu | 07.11.2026
+Fitbit | fitbit.com | Akıllı bileklik ve aktivite takip platformu | 785 | 98 | Google altyapısında en yüksek gizlilik koruması | 07.11.2026
+Withings | withings.com | Akıllı tartı ve sağlık takip cihazları portalı | 786 | 97 | HIPAA ve GDPR uyumlu tıbbi veri şifreleme | 07.11.2026
+WHOOP | whoop.com | Performans ve iyileşme takip sistemi portalı | 787 | 96 | Yüksek veri gizliliği ve güvenli bulut | 07.11.2026
+Oura Ring | ouraring.com | Akıllı yüzük ve uyku takip platformu | 788 | 96 | Güvenli biyometrik veri yönetimi | 07.11.2026
+MyFitnessPal | myfitnesspal.com | Kalori sayacı ve beslenme takip platformu | 789 | 92 | Güvenli kullanıcı profilleri ve şifreleme | 07.11.2026
+Cronometer | cronometer.com | Detaylı besin değeri ve mikro besin takibi | 790 | 95 | Temiz veri yönetimi ve yüksek güvenlik | 07.11.2026
+FatSecret | fatsecret.com | Ücretsiz kalori ve besin değeri veritabanı | 791 | 91 | Standart HTTPS şifrelemesi | 07.11.2026
+Yuka | yuka.io | Gıda ve kozmetik ürün barkod tarama uygulaması | 792 | 96 | Bağımsız, reklamsız ve şeffaf veri yapısı | 07.11.2026
+Open Food Facts | openfoodfacts.org | Özgür ve açık gıda ürünleri veritabanı | 793 | 98 | Açık kaynaklı, kamu yararına çalışan ve güvenli | 07.11.2026
+Nutritionix | nutritionix.com | Dünyanın en büyük doğrulanmış gıda veritabanı | 794 | 94 | Güvenli API bağlantıları ve SSL | 07.11.2026
+Eat This Much | eatthismuch.com | Otomatik günlük beslenme planı oluşturucu | 795 | 93 | Güvenli ödeme ve kullanıcı kaydı | 07.11.2026
+Mealime | mealime.com | Kişiselleştirilmiş yemek planlama ve tarifler | 796 | 94 | Temiz arayüz ve SSL koruması | 07.11.2026
+Allrecipes | allrecipes.com | Dünyanın en büyük yemek tarifleri topluluğu | 797 | 91 | Dotdash Meredith bünyesinde güvenli SSL | 07.11.2026
+Serious Eats | seriouseats.com | Bilimsel odaklı yemek pişirme ve tarif portalı | 798 | 94 | Temiz web yapısı, yüksek içerik güvenliği | 07.11.2026
+Tasty | tasty.co | Buzzfeed bünyesindeki pratik video tarif sitesi | 799 | 91 | Güvenli medya akışı ve HTTPS | 07.11.2026
+Epicurious | epicurious.com | Profesyonel şef tarifleri ve gurme portalı | 800 | 93 | Condé Nast güvencesinde yayın | 07.11.2026
+Cookpad | cookpad.com | Ev yapımı yemek tarifleri paylaşım topluluğu | 801 | 92 | Güvenli kullanıcı tarifi veritabanı | 07.11.2026
+Nefis Yemek Tarifleri | nefisyemtarihleri.com | Türkiye'nin en büyük yemek tarifi sitesi | 802 | 90 | Yılların tarifi arşivi, güvenli SSL koruması | 07.11.2026
+Yemek.com | yemek.com | Yemek tarifleri, mutfak sırları ve video içerik | 803 | 93 | Yemeksepeti/Delivery Hero güvencesinde temiz yapısı | 07.11.2026
+Lezzet | lezzet.com.tr | Doğan Burda bünyesinde yemek dergisi portalı | 804 | 92 | Güvenli SSL bağlantısı | 07.11.2026
+Kavurma | gurmenet.com | Gurme gıda ürünleri ve şarküteri satış sitesi | 805 | 91 | Güvenli e-ticaret altyapısı | 07.11.2026
+Nespresso | nespresso.com | Kahve makineleri ve kapsül e-ticaret portalı | 806 | 97 | Nestlé kurumsal altyapısında üst düzey güvenlik | 07.11.2026
+Starbucks TR | starbucks.com.tr | Kahve zinciri resmi web ve sadakat portalı | 807 | 96 | Shaya Grubu güvencesinde güvenli altyapı | 07.11.2026
+Tchibo TR | tchibo.com.tr | Kahve ve tema ürünleri e-ticaret mağazası | 808 | 96 | Alman kurumsal e-ticaret güvenliği | 07.11.2026
+Kahvehane | kahhve.com | Nitelikli kahve çekirdekleri ve ekipmanları | 809 | 94 | Güvenli ödeme altyapısı ve HTTPS | 07.11.2026
+Coffeenerd | beanbox.com | Taze kavrulmuş kahve abonelik platformu | 810 | 93 | Güvenli bulut e-ticaret | 07.11.2026
+James Hoffmann | jameshoffmann.co.uk | Dünya şampiyonu barista blogu ve platformu | 811 | 96 | Reklamsız, son derece temiz ve güvenli yapısı | 07.11.2026
+Perfect Daily Grind | perfectdailygrind.com | Nitelikli kahve sektörü yayın organı | 812 | 94 | Güvenli yayın standartları ve SSL | 07.11.2026
+Sprudge | sprudge.com | Küresel kahve kültürü ve haberleri portalı | 813 | 93 | Bağımsız yayın, güvenli HTTPS | 07.11.2026
+Barista Hustle | baristahustle.com | Kahve eğitimi ve barista sertifikasyonu | 814 | 95 | Güvenli eğitim platformu ve ödeme | 07.11.2026
+Roast Magazine | roastmagazine.com | Profesyonel kahve kavurma dergisi portalı | 815 | 93 | Güvenli web yayıncılığı | 07.11.2026
+SCA | sca.coffee | Nitelikli Kahve Birliği (Specialty Coffee) | 816 | 97 | Uluslararası birlik resmi portalı, üst düzey güvenlik | 07.11.2026
+World Coffee Events | worldcoffeeevents.org | Dünya Barista Şampiyonası organizasyonu | 817 | 95 | Reklamsız kamuya açık resmi portal | 07.11.2026
+Wine Spectator | winespectator.com | Şarap derecelendirme ve tadım dergisi | 818 | 93 | Güvenli abonelik ve veritabanı altyapısı | 07.11.2026
+Vivino | vivino.com | Şarap tarama, derecelendirme ve satın alma | 819 | 94 | Güvenli kullanıcı veritabanı ve e-ticaret | 07.11.2026
+Untappd | untappd.com | Bira meraklıları için sosyal derecelendirme | 820 | 93 | Güvenli konum ve içecek takip servisi | 07.11.2026
+RateBeer | ratebeer.com | Küresel bira derecelendirme veritabanı | 821 | 90 | Anheuser-Busch InBev altyapısında SSL | 07.11.2026
+BeerAdvocate | beeradvocate.com | Bağımsız bira topluluğu ve dergi sitesi | 822 | 91 | Temiz forum yazılımı ve HTTPS | 07.11.2026
+Cocktail Kingdom | cocktailkingdom.com | Profesyonel bar ve kokteyl ekipmanları | 823 | 94 | Güvenli e-ticaret ödeme geçidi | 07.11.2026
+Difford's Guide | diffordsguide.com | Kokteyl tarifleri ve likör ansiklopedisi | 824 | 95 | Dünyanın en büyük kokteyl kütüphanesi, çok güvenli | 07.11.2026
+Liquor.com | liquor.com | İçki kültür, kokteyl ve bar rehberi portalı | 825 | 92 | Dotdash Meredith güvencesinde güvenli yayın | 07.11.2026
+Punch Drink | punchdrink.com | İçki kültürü ve anlatı odaklı dijital dergi | 826 | 94 | Vox Media altyapısında yüksek güvenlik | 07.11.2026
+Imbibe Magazine | imbibemagazine.com | İçecek kültürü dergisi resmi portalı | 827 | 93 | Güvenli web altyapısı | 07.11.2026
+Michelin Guide | guide.michelin.com | Dünyanın en prestijli restoran derecelendirmesi | 828 | 98 | Michelin Grubu resmi portalı, üst seviye güvenlik | 07.11.2026
+50 Best Restaurants | theworlds50best.com | Dünyanın en iyi 50 restoranı resmi sitesi | 829 | 96 | William Reed bünyesinde güvenli yayın | 07.11.2026
+Gault & Millau | gaultmillau.com | Fransız restoran rehberi ve derecelendirme | 830 | 94 | Uluslararası restoran rehberi güvenliği | 07.11.2026
+Eater | eater.com | Şehir restoran rehberleri ve yemek haberleri | 831 | 93 | Vox Media altyapısında güvenli HTTPS | 07.11.2026
+Resy | resy.com | Prestijli restoran rezervasyon platformu | 832 | 96 | American Express bünyesinde üst düzey güvenlik | 07.11.2026
+OpenTable | opentable.com | Küresel restoran masa rezervasyon portalı | 833 | 96 | Booking Holdings altyapısında şifreli ödeme | 07.11.2026
+Tock | exploretock.com | İnce gastronomi ve etkinlik rezervasyon servisi | 834 | 95 | Squarespace bünyesinde yüksek güvenlik | 07.11.2026
+SevenRooms | sevenrooms.com | Restoran ağırlama ve konuk yönetim platformu | 835 | 96 | Kurumsal düzeyde konuk verisi koruması | 07.11.2026
+Deliveroo | deliveroo.co.uk | İngiltere merkezli çevriveli yemek teslimatı | 836 | 95 | Güvenli ödeme ve anlık kurye takibi | 07.11.2026
+Just Eat | just-eat.co.uk | Avrupa çevriveli yemek sipariş ağı | 837 | 95 | Just Eat Takeaway bünyesinde yüksek güvenlik | 07.11.2026
+Grubhub | grubhub.com | ABD merkezli yemek teslimat pazaryeri | 838 | 94 | Şifreli ödeme geçitleri | 07.11.2026
+DoorDash | doordash.com | Kuzey Amerika'nın en büyük yemek kurye platformu | 839 | 95 | Üst seviye e-ticaret ve kurye veri güvenliği | 07.11.2026
+Instacart | instacart.com | ABD çevriveli market alışverişi ve kurye servisi | 840 | 95 | Güvenli ödeme altyapısı ve müşteri koruması | 07.11.2026
+Gorillas | gorillas.io | Hızlı dakikalar içinde market teslimatı | 841 | 92 | Getir bünyesinde güvenli mobil/web altyapısı | 07.11.2026
+Flink | goflink.com | Almanya merkezli hızlı market teslimat servisi | 842 | 93 | Güvenli ödeme altyapısı | 07.11.2026
+Rohlik | rohlik.cz | Orta Avrupa çevriveli süpermarket portalı | 843 | 94 | Güvenli e-ticaret altyapısı | 07.11.2026
+Ocado | ocadogroup.com | Dünyanın en büyük tamamen otomasyonlu marketi | 844 | 97 | İleri teknoloji robotik ve bulut güvenliği | 07.11.2026
+HelloFresh | hellofresh.com | Tarif ve taze malzeme kutusu abonelik servisi | 845 | 95 | Güvenli ödeme ve abonelik yönetimi | 07.11.2026
+Blue Apron | blueapron.com | ABD malzeme ve yemek kiti aboneliği | 846 | 94 | Güvenli e-ticaret altyapısı | 07.11.2026
+Gousto | gousto.co.uk | İngiltere yemek kiti ve tarif aboneliği | 847 | 94 | Güvenli ödeme geçidi | 07.11.2026
+Factor75 | factor75.com | Hazır sağlıklı diyet yemekleri teslimat servisi | 848 | 94 | HelloFresh altyapısında güvenli SSL | 07.11.2026
+Freshly | freshly.com | ABD hazır diyet yemeği abonelik portalı | 849 | 93 | Güvenli bağlantı altyapısı | 07.11.2026
+Tonal | tonal.com | Yapay zeka destekli akıllı ev spor aleti portalı | 850 | 95 | Güvenli bulut üyelik ve antrenman verisi | 07.11.2026
+Peloton | one-peloton.com | Akıllı bisiklet ve evde egzersiz yayın platformu | 851 | 96 | Güvenli canlı yayın ve kullanıcı verisi koruması | 07.11.2026
+MIRROR | mirror.co | Lululemon bünyesinde akıllı spor aynası portalı | 852 | 95 | Lululemon kurumsal altyapı koruması | 07.11.2026
+Hydrow | hydrow.com | Akıllı ev kürek aleti ve canlı kürek dersleri | 853 | 94 | Güvenli canlı akış ve ödeme | 07.11.2026
+FightCamp | joinfightcamp.com | Evde boks ve dövüş antrenmanı ekosistemi | 854 | 93 | Güvenli platform altyapısı | 07.11.2026
+Zwift | zwift.com | Sanal ortamda bisiklet ve koşu simülatörü | 855 | 95 | Oyun ve spor entegreli yüksek sunucu güvenliği | 07.11.2026
+Wahoo Fitness | wahoofitness.com | Akıllı bisiklet makinesi ve GPS bilgisayarları | 856 | 95 | Güvenli e-ticaret ve cihaz bulut senkronizasyonu | 07.11.2026
+Tacx | garmin.com/tacx | Garmin bünyesindeki akıllı bisiklet trainerları | 857 | 97 | Garmin kurumsal güvenlik mimarisi | 07.11.2026
+Hammerhead | hammerhead.io | SRAM bünyesinde gelişmiş bisiklet bilgisayarları | 858 | 95 | Güvenli bulut rota yönetimi | 07.11.2026
+SRAM | sram.com | Vites ve bisiklet donanımı üreticisi portalı | 859 | 96 | Güvenli kurumsal web yapısı | 07.11.2026
+Shimano | shimano.com | Japonya merkezli bisiklet ve balıkçılık ekipmanı | 860 | 97 | Küresel kurumsal güvenlik standartları | 07.11.2026
+Campagnolo | campagnolo.com | İtalyan üst düzey bisiklet komponent üreticisi | 861 | 96 | Yüksek tasarım ve web güvenliği | 07.11.2026
+Specialized | specialized.com | Dünya devi bisiklet markası e-ticaret sitesi | 862 | 96 | Üst seviye e-ticaret altyapısı | 07.11.2026
+Trek Bicycles | trekbikes.com | Uluslararası bisiklet ve ekipman mağazası | 863 | 96 | Güvenli ödeme ve kadro kayıt veritabanı | 07.11.2026
+Giant Bicycles | giant-bicycles.com | Dünyanın en büyük bisiklet üreticisi portalı | 864 | 96 | Güvenli küresel web sunucuları | 07.11.2026
+Canyon Bicycles | canyon.com | Doğrudan tüketiciye Alman bisiklet mağazası | 865 | 96 | Üst seviye e-ticaret ve sipariş güvenliği | 07.11.2026
+Cannondale | cannondale.com | Yenilikçi bisiklet teknolojileri e-ticaret sitesi | 866 | 95 | Güvenli SSL bağlantısı | 07.11.2026
+Bianchi | bianchi.com | İtalyan efsanevi bisiklet markası portalı | 867 | 95 | Güvenli kurumsal web yapısı | 07.11.2026
+Cervélo | cervelo.com | Aerodinamik yol ve zamana karşı bisikletleri | 868 | 95 | Pon Holdings altyapısında güvenli SSL | 07.11.2026
+Pinarello | pinarello.com | İtalyan şampiyon yarış bisikletleri portalı | 869 | 95 | L Catterton bünyesinde yüksek web güvenliği | 07.11.2026
+Santa Cruz Bicycles | santacruzbicycles.com | Dağ bisikleti üreticisi resmi portalı | 870 | 95 | Güvenli kadro garanti kayıt sistemi | 07.11.2026
+Scott Sports | scott-sports.com | Bisiklet, kayak ve motosiklet ekipmanı sitesi | 871 | 95 | Güvenli e-ticaret ve dağıtım altyapısı | 07.11.2026
+Cube Bikes | cube.eu | Almanya'nın lider bisiklet üreticisi portalı | 872 | 95 | Güvenli AB sunucu altyapısı | 07.11.2026
+Merida Bikes | merida-bikes.com | Tayvan merkezli küresel bisiklet üreticisi | 873 | 94 | Güvenli web sunucuları | 07.11.2026
+Orbea | orbea.com | İspanyol kooperatif bisiklet üreticisi portalı | 874 | 95 | Güvenli özel bisiklet konfigüratörü | 07.11.2026
+Brompton | brompton.com | İngiliz efsanevi katlanır bisiklet mağazası | 875 | 96 | Yüksek güvenlikli e-ticaret altyapısı | 07.11.2026
+Dahon | dahon.com | Dünyanın lider katlanır bisiklet markası portalı | 876 | 93 | Standart HTTPS bağlantısı | 07.11.2026
+Tern Bicycles | ternbicycles.com | Katlanır ve kargo e-bisikletleri portalı | 877 | 94 | Güvenli web altyapısı | 07.11.2026
+Rad Power Bikes | radpowerbikes.com | Kuzey Amerika'nın en büyük elektrikli bisikleti | 878 | 95 | Güvenli e-ticaret ve ödeme geçitleri | 07.11.2026
+VanMoof | vanmoof.com | Akıllı şehir elektrikli bisikletleri portalı | 879 | 94 | Güvenli bulut konum ve bisiklet takip sistemi | 07.11.2026
+Cowboy | cowboy.com | Belçika merkezli tasarım elektrikli bisikletler | 880 | 95 | Güvenli uygulama entegrasyonu ve e-ticaret | 07.11.2026
+Gocycle | gocycle.com | Ergonomik hafif katlanır e-bisiklet sitesi | 881 | 94 | Güvenli SSL bağlantısı | 07.11.2026
+Super73 | super73.com | Moped tarzı e-bisiklet ve yaşam tarzı markası | 882 | 94 | Güvenli e-ticaret altyapısı | 07.11.2026
+Sur-Ron | sur-ron.com | Elektrikli arazi motosikletleri portalı | 883 | 92 | Temiz HTTPS yayını | 07.11.2026
+Talaria | talaria.cn | Performanslı elektrikli arazi motorları portalı | 884 | 91 | Temel SSL koruması | 07.11.2026
+Zero Motorcycles | zeromotorcycles.com | Premium elektrikli motosiklet üreticisi | 885 | 96 | Güvenli araç veri senkronizasyonu | 07.11.2026
+Energica | energicamotor.com | İtalyan yüksek performanslı elektrikli motosiklet | 886 | 95 | Ideanomics bünyesinde güvenli altyapı | 07.11.2026
+Ducati | ducati.com | İtalyan efsanevi motosiklet markası portalı | 887 | 97 | Audi/VW Grubu bünyesinde üst düzey güvenlik | 07.11.2026
+BMW Motorrad | bmw-motorrad.com | BMW motosiklet resmi web portalı | 888 | 98 | BMW kurumsal güvenlik mimarisi | 07.11.2026
+KTM | ktm.com | Avusturyalı arazi ve yarış motosikletleri sitesi | 889 | 96 | Güvenli e-ticaret ve bayi portalı | 07.11.2026
+Husqvarna Motorcycles | husqvarna-motorcycles.com | İsveç kökenli yarış motosikletleri | 890 | 96 | Pierer Mobility bünyesinde yüksek güvenlik | 07.11.2026
+GASGAS | gasgas.com | İspanyol trial ve arazi motosikletleri portalı | 891 | 95 | KTM Grubu güvencesinde güvenli SSL | 07.11.2026
+Kawasaki | kawasaki.com | Japon motor ve motosiklet üreticisi sitesi | 892 | 96 | Kurumsal sanayi güvenliği standartları | 07.11.2026
+Yamaha Motor | yamaha-motor.com | Motosiklet, deniz motorları ve ATV portalı | 893 | 97 | Üst seviye Japon siber koruma altyapısı | 07.11.2026
+Honda Powersports | powersports.honda.com | Honda motosiklet ve ATV resmi portalı | 894 | 97 | Honda kurumsal web güvenliği | 07.11.2026
+Suzuki Cycles | suzukicycles.com | Suzuki motosiklet resmi satış sitesi | 895 | 96 | Güvenli ürün konfigüratörü ve SSL | 07.11.2026
+Triumph Motorcycles | triumphmotorcycles.com | İngiliz klasik motosiklet üreticisi | 896 | 96 | Yüksek kurumsal e-ticaret güvenliği | 07.11.2026
+Harley-Davidson | harley-davidson.com | Efsanevi Amerikan motosiklet markası sitesi | 897 | 97 | Üst seviye e-ticaret ve bayi güvenlik sistemi | 07.11.2026
+Indian Motorcycle | indianmotorcycle.com | Polaris bünyesindeki ikonik Amerikan markası | 898 | 96 | Polaris kurumsal altyapısında güvenlik | 07.11.2026
+Royal Enfield | royalenfield.com | Dünyanın en eski kesintisiz motosiklet markası | 899 | 95 | Güvenli küresel web portalı | 07.11.2026
+Vespa | vespa.com | İtalyan ikonik skuter markası resmi portalı | 900 | 96 | Piaggio Grubu güvencesinde yüksek güvenlik | 07.11.2026
+Piaggio | piaggio.com | İtalyan skuter ve hafif ticari araç üreticisi | 901 | 96 | Kurumsal düzeyde web güvenliği | 07.11.2026
+Aprilia | aprilia.com | İtalyan yarış motosikletleri resmi sitesi | 902 | 96 | Piaggio Grubu bünyesinde şifreli altyapı | 07.11.2026
+Moto Guzzi | motoguzzi.com | İtalyan V-twin motosiklet üreticisi portalı | 903 | 95 | Güvenli e-ticaret ve lansman sitesi | 07.11.2026
+MV Agusta | mvagusta.com | İtalyan lüks el yapımı motosiklet portalı | 904 | 95 | KTM ortaklığında yüksek güvenlik | 07.11.2026
+Benelli | benelli.com | İtalyan tasarımlı motosiklet markası sitesi | 905 | 93 | Qianjiang Grubu güvencesinde HTTPS | 07.11.2026
+CFMOTO | cfmoto.com | Arazi araçları ve motosiklet üretici portalı | 906 | 94 | Güvenli küresel distribütör ağı | 07.11.2026
+KYMCO | kymco.com | Tayvan merkezli skuter ve ATV üreticisi | 907 | 94 | Güvenli web sunucuları | 07.11.2026
+SYM Motors | sym-global.com | Tayvanlı skuter ve motosiklet üreticisi portalı | 908 | 93 | Temel SSL şifrelemesi | 07.11.2026
+Peugeot Motocycles | peugeot-motocycles.com | Fransız skuter markası resmi portalı | 909 | 95 | Mutares güvencesinde güvenli web yapısı | 07.11.2026
+Can-Am | can-am.brp.com | BRP bünyesindeki üç tekerlekli motorlar ve ATV | 910 | 96 | BRP kurumsal siber güvenlik altyapısı | 07.11.2026
+Sea-Doo | seadoo.com | Dünyanın lider deniz motosikleti (Jet Ski) sitesi | 911 | 96 | Bombardier Recreational Products koruması | 07.11.2026
+Ski-Doo | skidoo.com | Kar motosikletleri üreticisi resmi sitesi | 912 | 96 | BRP altyapısında üst seviye güvenlik | 07.11.2026
+Lynx | brplynx.com | İskandinav kar motosikletleri resmi sitesi | 913 | 95 | Güvenli web altyapısı | 07.11.2026
+Polaris | polaris.com | Amerikan arazi araçları ve kar motorları portalı | 914 | 96 | Kurumsal düzeyde e-ticaret ve bayi sistemi | 07.11.2026
+Arctic Cat | arcticcat.txtsv.com | Textron bünyesindeki kar ve arazi motorları | 915 | 95 | Textron kurumsal altyapı koruması | 07.11.2026
+Yamaha Marine | yamahayoutboards.com | Dıştan takma deniz motorları portalı | 916 | 97 | Yamaha Motor üst düzey güvenlik standartları | 07.11.2026
+Mercury Marine | mercurymarine.com | Dünyanın önde gelen deniz motoru üreticisi | 917 | 96 | Brunswick Corporation kurumsal koruması | 07.11.2026
+Volvo Penta | volvopenta.com | Deniz ve endüstriyel motor çözümleri portalı | 918 | 97 | Volvo Grubu siber güvenlik mimarisi | 07.11.2026
+Yanmar | yanmar.com | Japonya merkezli dizel motor ve makine portalı | 919 | 96 | Kurumsal seviyede yüksek veri güvenliği | 07.11.2026
+Cummins | cummins.com | Bağımsız dizel ve alternatif yakıtlı motorlar | 920 | 97 | Kurumsal sanayi siber güvenlik standartları | 07.11.2026
+Caterpillar | cat.com | Dünyanın en büyük iş makinesi ve motor sitesi | 921 | 98 | Endüstriyel altyapı en yüksek güvenlik koruması | 07.11.2026
+Komatsu | komatsu.com | Japonya merkezli dev iş makineleri portalı | 922 | 97 | Üst seviye Japon sanayi siber güvenliği | 07.11.2026
+JCB | jcb.com | İngiliz ağır iş makineleri ve kazıcı üreticisi | 923 | 96 | Güvenli kurumsal web yapısı | 07.11.2026
+Liebherr | liebherr.com | Alman vinç, iş makinesi ve soğutucu portalı | 924 | 97 | Kurumsal Alman mühendislik güvenlik standartları | 07.11.2026
+Hitachi Construction | hitachicm.com | Ekskavatör ve maden makineleri portalı | 925 | 97 | Hitachi Grubu kurumsal altyapı koruması | 07.11.2026
+Kubota | kubota.com | Tarım makineleri ve kompakt traktör portalı | 926 | 97 | Güvenli küresel kurumsal web sunucuları | 07.11.2026
+John Deere | deere.com | Dünyanın lider tarım ve iş makinesi portalı | 927 | 98 | Hassas tarım veritabanı en yüksek siber koruma | 07.11.2026
+New Holland | newholland.com | CNH Industrial bünyesindeki tarım makineleri | 928 | 96 | CNH kurumsal siber güvenlik altyapısı | 07.11.2026
+Case IH | caseih.com | Traktör ve biçerdöver teknolojileri portalı | 929 | 96 | Güvenli bayi ve müşteri portalı | 07.11.2026
+Massey Ferguson | masseyferguson.com | AGCO bünyesindeki efsanevi traktör markası | 930 | 96 | AGCO kurumsal güvenlik mimarisi | 07.11.2026
+Fendt | fendt.com | Yüksek teknolojili premium Alman traktörleri | 931 | 97 | AGCO altyapısında üst düzey mühendislik güvenliği | 07.11.2026
+Claas | claas.com | Almanya merkezli biçerdöver üreticisi portalı | 932 | 96 | Güvenli veri aktarımı ve telemetri altyapısı | 07.11.2026
+Deutz-Fahr | deutz-fahr.com | İtalyan-Alman tarım makineleri üreticisi | 933 | 95 | Güvenli kurumsal web altyapısı | 07.11.2026
+Mahindra Agricultural | mahindra.com | Dünyanın hacimsel olarak en büyük traktörü | 934 | 95 | Mahindra Grubu siber güvenlik koruması | 07.11.2026
+TAFE | tafe.com | Hindistan merkezli dev traktör üreticisi portalı | 935 | 93 | Güvenli SSL bağlantısı | 07.11.2026
+STihl | stihl.com | Motorlu testere ve bahçe makineleri lideri | 936 | 97 | Alman kurumsal e-ticaret ve bayi altyapısı | 07.11.2026
+Husqvarna Forest | husqvarna.com | Bahçe, orman ve çim biçme robotları portalı | 937 | 97 | Akıllı otonom çim biçme bulut güvenliği | 07.11.2026
+EGO Power+ | egopowerplus.com | Kablosuz bataryalı bahçe ekipmanları portalı | 938 | 95 | Güvenli ürün kaydı ve e-ticaret | 07.11.2026
+Milwaukee Tool | milwaukeetool.com | Profesyonel ağır hizmet el aletleri portalı | 939 | 97 | TTI Grubu bünyesinde üst seviye siber güvenlik | 07.11.2026
+DeWalt | dewalt.com | Stanley Black & Decker bünyesindeki el aletleri | 940 | 97 | Kurumsal altyapı koruması ve ürün kaydı | 07.11.2026
+Makita | makitatools.com | Japon efsanevi şarjlı el aletleri portalı | 941 | 97 | Güvenli küresel dağıtım ve indirme sunucuları | 07.11.2026
+Bosch Tools | bosch-pt.com | Elektrikli el aletleri ve ölçüm cihazları | 942 | 98 | Bosch kurumsal siber güvenlik mimarisi | 07.11.2026
+Metabo | metabo.com | Profesyonel metal ve inşaat el aletleri portalı | 943 | 96 | Koki Holdings bünyesinde yüksek güvenlik | 07.11.2026
+Hilti | hilti.com | İnşaat sektörü için profesyonel sabitleme | 944 | 98 | Kurumsal doğrudan satış ve banka seviyesi güvenlik | 07.11.2026
+Festool | festool.com | Ahşap işleme için premium el aletleri portalı | 945 | 97 | TTS Tooltechnic altyapısında üst düzey koruma | 07.11.2026
+Ryobi Tools | ryobitools.com | Kendin-yap (DIY) şarjlı el aletleri portalı | 946 | 95 | Techtronic Industries (TTI) güvencesinde SSL | 07.11.2026
+Craftsman | craftsman.com | Amerikan klasik el aletleri resmi portalı | 947 | 95 | Stanley Black & Decker bünyesinde güvenlik | 07.11.2026
+Stanley Tools | stanleytools.com | El aletleri ve ölçüm sistemleri üreticisi | 948 | 96 | Kurumsal düzeyde web güvenliği | 07.11.2026
+Black+Decker | blackanddecker.com | Ev ve bahçe elektrikli aletleri portalı | 949 | 96 | Güvenli e-ticaret altyapısı ve HTTPS | 07.11.2026
+Knipex | knipex.com | Dünyanın en iyi pense üreticisi resmi sitesi | 950 | 97 | Reklamsız, Alman mühendisliği son derece güvenli | 07.11.2026
+Wera Tools | wera.de | Tornavida ve cırcır anahtar uzmanı portalı | 951 | 96 | Özgün tasarım, yüksek web ve sunucu güvenliği | 07.11.2026
+Wiha Tools | wiha.com | Yalıtımlı profesyonel el aletleri portalı | 952 | 96 | Alman kurumsal web güvenlik standartları | 07.11.2026
+Hazet | hazet.de | Otomotiv servis el aletleri üreticisi portalı | 953 | 96 | Üst seviye sanayi web koruması | 07.11.2026
+Stahlwille | stahlwille.de | Tork anahtarları ve havacılık el aletleri | 954 | 97 | Hassas endüstriyel veri ve SSL koruması | 07.11.2026
+Facom | facom.com | Fransız premium el aletleri markası portalı | 955 | 95 | Stanley B&D altyapısında yüksek güvenlik | 07.11.2026
+Snap-on | snapon.com | Profesyonel araç servis araçları ve teşhis | 956 | 98 | Sektör lideri doğrudan satış ve kurumsal güvenlik | 07.11.2026
+Mac Tools | mactools.com | Otomotiv teknisyen el aletleri portalı | 957 | 95 | Güvenli franchise ve müşteri portalı | 07.11.2026
+Matco Tools | matcotools.com | Profesyonel otomotiv tamir araçları portalı | 958 | 95 | Fortive bünyesinde yüksek siber koruma | 07.11.2026
+Park Tool | parktool.com | Bisiklet tamir araçları ve teknik kılavuzlar | 959 | 97 | Dünyanın lider bisiklet servisi kütüphanesi, çok güvenli | 07.11.2026
+Unior Bike Tools | uniorbiketools.com | Avrupa yapımı bisiklet servis ekipmanları | 960 | 95 | Güvenli web sunucuları | 07.11.2026
+Pedro's | pedros.com | Bisiklet temizleme maddeleri ve servis aletleri | 961 | 93 | Temiz arayüz ve SSL koruması | 07.11.2026
+Muc-Off | muc-off.com | Bisiklet ve motosiklet bakım kimyasalları | 962 | 95 | Güvenli e-ticaret altyapısı ve HTTPS | 07.11.2026
+Finish Line | finishlineusa.com | Bisiklet yağları ve bakım ürünleri portalı | 963 | 93 | Standart SSL şifrelemesi | 07.11.2026
+WD-40 | wd40.com | Çok amaçlı pas sökücü ve koruyucu sprey | 964 | 96 | Küresel marka resmi portalı, yüksek güvenlik | 07.11.2026
+3M | 3m.com | Küresel malzeme bilimi ve bant teknolojileri | 965 | 98 | Endüstri devi kurumsal siber güvenlik mimarisi | 07.11.2026
+Henkel | henkel.com | Loctite ve yapıştırıcı teknolojileri portalı | 966 | 98 | Alman kimya devi kurumsal koruması | 07.11.2026
+Loctite | loctiteproducts.com | Mühendislik yapıştırıcıları ve vida sabitleyici | 967 | 97 | Henkel altyapısında üst düzey güvenlik | 07.11.2026
+Gorilla Glue | gorillatough.com | Ağır hizmet yapıştırıcılar ve bantlar sitesi | 968 | 95 | Güvenli ürün rehberi ve SSL | 07.11.2026
+Tesa | tesa.com | Alman teknik yapışkan bant çözümleri portalı | 969 | 97 | Beiersdorf Grubu bünyesinde yüksek güvenlik | 07.11.2026
+DuPont | dupont.com | Kimya, koruyucu malzeme ve Kevlar portalı | 970 | 98 | Kurumsal sanayi ve savunma siber koruması | 07.11.2026
+BASF | basf.com | Dünyanın en büyük kimya üreticisi portalı | 971 | 98 | Uluslararası endüstriyel veri güvenliği standartları | 07.11.2026
+Bayer | bayer.com | İlaç, tarım ve yaşam bilimleri devi portalı | 972 | 98 | Katı tıbbi ve kurumsal veri şifreleme altyapısı | 07.11.2026
+Pfizer | pfizer.com | Biyoteknoloji ve ilaç üreticisi resmi portalı | 973 | 98 | Üst seviye tıbbi araştırma ve web güvenliği | 07.11.2026
+Novartis | novartis.com | İsviçre merkezli küresel ilaç firması sitesi | 974 | 98 | İsviçre veri gizliliği ve yüksek siber koruma | 07.11.2026
+Roche | roche.com | Sağlık, tanı ve ilaç teknolojileri portalı | 975 | 98 | Endüstri lideri biyomedikal veri koruması | 07.11.2026
+Merck | merck.com | Bilim ve teknoloji ilaç şirketi resmi sitesi | 976 | 98 | Kurumsal düzeyde en yüksek web güvenliği | 07.11.2026
+AstraZeneca | astrazeneca.com | Biyofarmasötik araştırmalar resmi portalı | 977 | 98 | İngiliz-İsveç kurumsal siber savunma mimarisi | 07.11.2026
+Johnson & Johnson | jnj.com | Medikal cihaz ve sağlık ürünleri portalı | 978 | 98 | Dünya çapında doğrulanmış en yüksek koruma | 07.11.2026
+Abbott | abbott.com | Tıbbi cihaz ve beslenme ürünleri portalı | 979 | 98 | Sağlık sektörü siber güvenlik standartları | 07.11.2026
+Medtronic | medtronic.com | Dünyanın en büyük tıbbi teknoloji şirketi | 980 | 98 | Tıbbi donanım ve yazılım üst düzey güvenliği | 07.11.2026
+Siemens Healthineers | siemens-healthineers.com | Tıbbi görüntüleme ve tanı cihazları portalı | 981 | 98 | Siemens kurumsal sağlık siber koruması | 07.11.2026
+GE HealthCare | gehealthcare.com | Medikal teknoloji ve dijital çözümler portalı | 982 | 98 | General Electric altyapısında yüksek güvenlik | 07.11.2026
+Philips Healthcare | usa.philips.com/healthcare | Tıbbi sistemler ve sağlık teknolojisi portalı | 983 | 98 | Philips kurumsal veri koruma standartları | 07.11.2026
+Stryker | stryker.com | Ortopedik ve cerrahi ekipmanlar portalı | 984 | 97 | Kurumsal medikal altyapı güvenliği | 07.11.2026
+Boston Scientific | bostonscientific.com | Tıbbi müdahale cihazları üreticisi portalı | 985 | 97 | HIPAA ve uluslararası sağlık güvenliği uyumu | 07.11.2026
+Intuitive Surgical | intuitive.com | da Vinci cerrahi robotları üretici portalı | 986 | 99 | Robotik cerrahi teknolojileri en yüksek siber koruma | 07.11.2026
+Illumina | illumina.com | DNA dizileme ve genomik teknolojileri portalı | 987 | 98 | Genetik veri koruması ve yüksek şifreleme | 07.11.2026
+Thermo Fisher | thermofisher.com | Bilimsel hizmetler ve laboratuvar donanımları | 988 | 98 | Dünya genelinde araştırmacılar için üst düzey koruma | 07.11.2026
+Danaher | danaher.com | Küresel bilim ve teknoloji inovasyon holdingi | 989 | 97 | Kurumsal siber koruma altyapısı | 07.11.2026
+Agilent | agilent.com | Yaşam bilimleri ve analitik kimya cihazları | 990 | 97 | Laboratuvar veri güvenliği ve SSL | 07.11.2026
+Waters Corporation | waters.com | Kromatografi ve kütle spektrometrisi portalı | 991 | 96 | Kurumsal analitik cihaz güvenliği | 07.11.2026
+PerkinElmer | perkinelmer.com | Analiz, tanı ve yaşam bilimleri çözümleri | 992 | 96 | Güvenli web altyapısı ve veri aktarımı | 07.11.2026
+Shimadzu | shimadzu.com | Japon hassas ölçüm ve medikal cihaz portalı | 993 | 97 | Japon mühendislik siber koruma standartları | 07.11.2026
+ZEISS | zeiss.com | İsviçre-Alman optik ve optoelektronik portalı | 994 | 98 | Lens ve mikroskop teknolojileri üst düzey güvenliği | 07.11.2026
+Leica Microsystems | leica-microsystems.com | Hassas mikroskoplar ve bilimsel cihazlar | 995 | 97 | Danaher bünyesinde yüksek web güvenliği | 07.11.2026
+Leica Camera | leica-camera.com | Alman efsanevi fotoğraf makinesi mağazası | 996 | 97 | Lüks e-ticaret ve ürün doğrulama güvenliği | 07.11.2026
+Hasselblad | hasselblad.com | İsveç merkezli orta format fotoğraf makineleri | 997 | 97 | DJI bünyesinde yüksek tasarım ve sunucu güvenliği | 07.11.2026
+DJI | dji.com | Dünyanın lider sivil drone üreticisi portalı | 998 | 96 | Güvenli uçuş bulutu ve yazılım dağıtımı | 07.11.2026
+Autel Robotics | autelrobotics.com | Profesyonel çekim ve sanayi dronları portalı | 999 | 94 | Güvenli web altyapısı ve ürün kaydı | 07.11.2026
+Skydio | skydio.com | Yapay zeka destekli otonom drone platformu | 1000 | 97 | ABD savunma ve kurumsal standartlarda siber güvenlik | 07.11.2026
