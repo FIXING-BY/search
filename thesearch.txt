@@ -1,0 +1,50 @@
+Google | google.com | Dünya genelinde en popüler arama motoru ve web portalı | 1 | 98 | Güçlü HTTPS, gelişmiş altyapı ve sıkı güvenlik protokolleri | 07.11.2026
+YouTube | youtube.com | Dünyanın en büyük video paylaşım ve izleme platformu | 2 | 96 | Güvenli içerik iletimi ve kurumsal Google koruması | 07.11.2026
+Facebook | facebook.com | Küresel sosyal medya ve topluluk platformu | 3 | 85 | Yüksek teknik güvenlik ancak geçmiş veri gizliliği endişeleri | 07.11.2026
+Instagram | instagram.com | Fotoğraf ve kısa video paylaşım odaklı sosyal medya | 4 | 88 | Güvenli veri şifreleme ve Meta altyapı koruması | 07.11.2026
+ChatGPT | chatgpt.com | OpenAI tarafından geliştirilen yapay zeka sohbet platformu | 5 | 92 | Güçlü altyapı güvenliği ve güncel SSL/TLS standartları | 07.11.2026
+X | x.com | Mikroblog ve anlık haber paylaşım platformu | 6 | 84 | Teknik olarak güvenli ancak kullanıcı içerik denetimi değişken | 07.11.2026
+Reddit | reddit.com | Topluluk odaklı tartışma ve içerik paylaşım sitesi | 7 | 88 | Yüksek web güvenliği ve düzenli güvenlik güncellemeleri | 07.11.2026
+TikTok | tiktok.com | Kısa biçimli video ve sosyal etkileşim platformu | 8 | 80 | Güvenli bağlantı altyapısı fakat veri gizliliği tartışmaları mevcut | 07.11.2026
+WhatsApp | whatsapp.com | Web tabanlı anlık mesajlaşma servisi | 9 | 94 | Uçtan uca şifreleme ve yüksek bağlantı güvenliği | 07.11.2026
+Bing | bing.com | Microsoft üretimi arama motoru ve AI hizmeti | 10 | 95 | Microsoft kurumsal güvenlik standartları ve tam HTTPS desteği | 07.11.2026
+Wikipedia | wikipedia.org | Açık kaynaklı özgür çevrimiçi ansiklopedi | 11 | 95 | Reklamsız, güvenli ve kütüphane düzeyinde veri koruması | 07.11.2026
+Yahoo Japan | yahoo.co.jp | Japonya odaklı haber, arama ve portal hizmeti | 12 | 90 | Yüksek altyapı güvenliği ve güncel şifreleme | 07.11.2026
+Gemini | gemini.google.com | Google tarafından geliştirilen gelişmiş yapay zeka platformu | 13 | 98 | Google ekosistemi entegrasyonu ve üst düzey güvenlik koruması | 07.11.2026
+Yandex | yandex.ru | Rusya merkezli arama motoru ve İnternet hizmetleri | 14 | 82 | Standart SSL güvenliği mevcut ancak bölgesel veri politikaları hakim | 07.11.2026
+Amazon | amazon.com | Dünyanın en büyük e-ticaret ve bulut hizmetleri platformu | 15 | 96 | Üst düzey ödeme güvenliği ve SSL şifreleme altyapısı | 07.11.2026
+Yahoo | yahoo.com | Haber, e-posta ve içerik portalı | 16 | 88 | Standardize edilmiş HTTPS ve oturum güvenliği | 07.11.2026
+LinkedIn | linkedin.com | Profesyonel ağ oluşturma ve iş arama platformu | 17 | 93 | Kurumsal veri koruma standartları ve güvenli oturum açma | 07.11.2026
+Microsoft 365 | cloud.microsoft | Kurumsal bulut yazılımı ve verimlilik platformu | 18 | 99 | Üst düzey kurumsal güvenlik, sıfır güven mimarisi | 07.11.2026
+Baidu | baidu.com | Çin merkezli arama motoru ve yapay zeka hizmetleri | 19 | 80 | Güvenli web sunucuları fakat yerel sansür ve veri denetimi mevcut | 07.11.2026
+Pinterest | pinterest.com | Görsel keşif ve ilham paylaşım platformu | 20 | 90 | Güvenli içerik dağıtım ağı ve HTTPS standartları | 07.11.2026
+Naver | naver.com | Güney Kore merkezli haber ve arama portalı | 21 | 91 | Yüksek teknik güvenlik standartları ve korumalı altyapı | 07.11.2026
+Netflix | netflix.com | İsteğe bağlı film ve dizi izleme platformu | 22 | 97 | Güçlü DRM koruması ve yüksek web güvenliği | 07.11.2026
+Outlook | live.com | Microsoft tabanlı e-posta ve takvim hizmeti | 23 | 96 | Güvenli e-posta şifreleme ve kimlik doğrulama | 07.11.2026
+Bilibili | bilibili.com | Çin merkezli video ve eğlence paylaşım platformu | 24 | 82 | Güncel şifreleme ancak bölgesel içerik sınırlamaları | 07.11.2026
+Pornhub | pornhub.com | Yetşikinlere yönelik içerik platformu | 25 | 65 | Web sitesi şifrelidir ancak zararlı reklam riskleri barındırabilir | 07.11.2026
+Microsoft | microsoft.com | Yazılım ve teknoloji şirketi resmi portalı | 26 | 98 | Üst seviye HTTPS, güvenli indirme ve kurumsal koruma | 07.11.2026
+xHamster | xhamster.com | Yetişkinlere yönelik video paylaşım platformu | 27 | 62 | SSL şifrelemesi var fakat 3. taraf reklam güvenlik riskleri yüksek | 07.11.2026
+Twitch | twitch.tv | Canlı yayın ve oyun odaklı medya platformu | 28 | 92 | Amazon altyapısı, güvenli yayın protokolleri | 07.11.2026
+Temu | temu.com | Global e-ticaret ve uygun fiyatlı ürün pazaryeri | 29 | 78 | Ödeme altyapısı şifreli ancak agresif veri toplama politikaları mevcut | 07.11.2026
+Dzen News | dzen.ru | Rusya odaklı kişiselleştirilmiş haber ve içerik platformu | 30 | 80 | Temel web güvenliği sağlayan standart SSL altyapısı | 07.11.2026
+Claude | claude.ai | Anthropic tarafından geliştirilen yapay zeka sohbet arayüzü | 31 | 95 | Yüksek düzeyde veri şifreleme ve güvenlik odaklı AI tasarımı | 07.11.2026
+VK | vk.ru | Rusya odaklı sosyal iletişim platformu | 32 | 82 | Standart şifreleme protokolleri ve kullanıcı güvenliği düzenlemeleri | 07.11.2026
+Canva | canva.com | Çevrimiçi grafik tasarım ve içerik oluşturma platformu | 33 | 94 | Güvenli bulut depolama ve üst düzey kullanıcı veri şifrelemesi | 07.11.2026
+Weather.com | weather.com | Küresel hava durumu ve meteoroloji portalı | 34 | 90 | Yüksek HTTPS güvenliği ve doğrulanmış hava durumu verileri | 07.11.2026
+bet.br | bet.br | Brezilya merkezli çevrimiçi bahis platformu | 35 | 55 | Finansal işlem şifrelemesi var fakat yüksek riskli kumar kategorisinde | 07.11.2026
+XVideos | xvideos.com | Yetşikin içerik ve video akış sitesi | 36 | 60 | Temel SSL bağlantısı mevcut, yönlendirmeli reklam riskleri barındırır | 07.11.2026
+Yahoo News Japan | news.yahoo.co.jp | Japonya odaklı anlık haber yayın platformu | 37 | 91 | Yahoo Japan güvencesinde sağlam web altyapısı | 07.11.2026
+Samsung | samsung.com | Tüketici elektroniği ve teknoloji portalı | 38 | 97 | Güçlü HTTPS, güvenli e-ticaret ve cihaz şifreleme entegrasyonu | 07.11.2026
+Stripchat | stripchat.com | Yetişkin canlı yayın platformu | 39 | 58 | Şifreli bağlantı sunar fakat yüksek riskli içerik ve reklamlar barındırır | 07.11.2026
+Fandom | fandom.com | Eğlence, oyun ve popüler kültür wiki platformu | 40 | 85 | Güvenli HTTPS yapısı ancak çok sayıda 3. taraf reklam ağı içerir | 07.11.2026
+Globo | globo.com | Brezilya merkezli medya ve haber yayın portalı | 41 | 89 | Yüksek web standartları ve güvenli içerik dağıtım ağı | 07.11.2026
+Apple | apple.com | Teknoloji ürünleri ve servisleri resmi portalı | 42 | 99 | Endüstri lideri güvenlik, şifreleme ve veri koruma standartları | 07.11.2026
+Mail.ru | mail.ru | E-posta ve portal hizmetleri servisi | 43 | 81 | Standart e-posta şifrelemesi ve temel güvenlik altyapısı | 07.11.2026
+ESPN | espn.com | Küresel spor haberleri ve canlı skor platformu | 44 | 91 | Disney/ESPN kurumsal web altyapısı ve güvenli HTTPS | 07.11.2026
+DuckDuckGo | duckduckgo.com | Gizlilik odaklı arama motoru | 45 | 97 | İzleyicisiz arama mimarisi ve yüksek düzeyde veri gizliliği | 07.11.2026
+Brave | brave.com | Gizlilik ve güvenlik odaklı web tarayıcı portalı | 46 | 96 | Güçlü şifreleme ve gizlilik odaklı altyapı koruması | 07.11.2026
+GitHub | github.com | Yazılım geliştirme ve kod depolama platformu | 47 | 97 | Microsoft altyapısı, 2FA zorunluluğu ve gelişmiş kod güvenliği | 07.11.2026
+Telegram | t.me | Web mesajlaşma ve kanal yönlendirme portalı | 48 | 90 | Hızlı altyapı, temel şifreleme ve güvenli web oturumları | 07.11.2026
+Zoom | zoom.com | Video konferans ve çevrimiçi toplantı platformu | 49 | 93 | Gelişmiş veri şifrelemesi ve toplantı güvenlik kontrolleri | 07.11.2026
+eBay | ebay.com | Küresel açık artırma ve e-ticaret pazaryeri | 50 | 93 | Güvenli ödeme sistemleri ve kullanıcı alıcı koruması altyapısı | 07.11.2026
