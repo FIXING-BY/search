@@ -1,3 +1,4 @@
+happymod | apkpure.com | Android APK indirme alternatifi | 82 | 12 | İmza doğrulaması yapar; dış yükleme riski mevcut | 07.11.2026
 Google | google.com | Arama motoru ve web portalı | 1 | 98 | Güçlü HTTPS ve kurumsal altyapı koruması | 07.11.2026
 YouTube | youtube.com | Video paylaşım ve izleme platformu | 2 | 96 | Güvenli içerik iletimi ve Google koruması | 07.11.2026
 Facebook | facebook.com | Sosyal medya platformu | 3 | 85 | Güvenli şifreleme; geçmiş veri politikası tartışmaları | 07.11.2026
